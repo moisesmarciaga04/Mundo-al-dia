@@ -1,6 +1,106 @@
 {
-  "actualizado": "2026-09-21T22:54:37.657Z",
+  "actualizado": "2026-09-21T23:19:04.599Z",
   "items": [
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director jurídico de Zscaler vende acciones por 1,08 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-zscaler-vende-acciones-por-108-millones-de-dolares-93CH-3843197",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Global GP LLC compra 503.550 dólares en unidades de Global Partners LP",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/global-gp-llc-compra-503550-dolares-en-unidades-de-global-partners-lp-93CH-3843196",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El CFO de Impinj, Cary Baker, vende 1,65 millones de dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-impinj-cary-baker-vende-165-millones-de-dolares-en-acciones-93CH-3843195",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Cuándo es la Feria de afores CDMX 2026 y qué trámites puedes hacer gratis?",
+      "s": "Feria de Afores CDMX 2026: fechas, ubicación, trámites gratuitos y documentos necesarios en Iztacalco del 8 al 12 de octubre.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/finanzaspersonales/feria-afores-cdmx-2026-tramites-puedes-gratis-20260921-834559.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Embajador Ronald Johnson destaca papel de la OFAC para asfixiar red financiera de los cárteles",
+      "s": "El embajador Ronald Johnson explicó que las sanciones de la OFAC ayudan a enfrentar a los grupos delictivos en distintos frentes.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/embajador-ronald-johnson-destaca-papel-ofac-asfixiar-red-financiera-carteles-20260921-834564.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director ejecutivo de BridgeBio Pharma vende 690.847 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-bridgebio-pharma-vende-690847-dolares-en-acciones-93CH-3843194",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director médico de Heartflow vende acciones por 987.000 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-medico-de-heartflow-vende-acciones-por-987000-dolares-93CH-3843193",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director de Salesforce, David Kirk, compra acciones de CRM por 999.000 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-salesforce-david-kirk-compra-acciones-de-crm-por-999000-dolares-93CH-3843192",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Querétaro escala al segundo lugar del Índice de Competitividad Estatal de 2026",
+      "s": "La entidad subió cuatro posiciones respecto al 2025, cuando descendió al sexto peldaño entre las 32 entidades federativas.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/estados/queretaro-escala-segundo-lugar-indice-competitividad-estatal-20260921-834566.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Reino Unido apoya iniciativa franco-mexicana para limitar el veto en la ONU",
+      "s": "Francia y México celebran \"el renovado impulso a favor\" de suspender el veto en el seno del Consejo de Seguridad de la ONU en caso de genocidio, crímenes de lesa humanidad y crímenes de guerra cometidos a gran escala.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/reino-unido-apoya-iniciativa-franco-mexicana-limitar-veto-onu-20260921-834565.html",
+      "d": "21 sept 2026"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -12,33 +112,23 @@
       "d": "21 sept 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "ServisFirst Bancshares declara un dividendo trimestral de 0,19 dólares",
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "IonQ se asocia con SDT para desplegar un sistema cuántico en Corea del Sur",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/servisfirst-bancshares-declara-un-dividendo-trimestral-de-019-dolares-93CH-3843188",
+      "url": "https://es.investing.com/news/company-news/ionq-se-asocia-con-sdt-para-desplegar-un-sistema-cuantico-en-corea-del-sur-93CH-3843191",
       "d": "21 sept 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "\"Sigo con la bala dentro\": Wilber Garcés, el repartidor venezolano de comida que recibió un disparo de un agente de ICE en Texas",
-      "s": "Su abogada confirmó que se encuentra en un centro de procesamiento mientras es interrogado. El incidente provocó protestas en Austin, Texas.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cq986rke4ny6o?at_medium=RSS&at_campaign=rss",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Maru Campos sostiene reuniones en CDMX con Segob y SSPC",
-      "s": "Hola, ¿cómo están?",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/maru-campos-sostiene-reuniones-cdmx-segob-sspc-20260921-834563.html",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El vicepresidente de Oruka Therapeutics vende 51.034 dólares en acciones ORKA",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-de-oruka-therapeutics-vende-51034-dolares-en-acciones-orka-93CH-3843189",
       "d": "21 sept 2026"
     },
     {
@@ -69,36 +159,6 @@
       "s": "Morelia, Michoacán, 21 de septiembre de 2026.- Con un presupuesto histórico de 7 mil 702 millones de pesos, Michoacán impulsa la modernización y fortalecimiento del sistema de salud en la entidad. De acuerdo con el gobernador Alfredo Ramírez Bedolla, esta transformación ha sido posible gracias al…",
       "src": "El Economista",
       "url": "https://www.eleconomista.com.mx/politica/michoacan-invierte-presupuesto-historico-7-700-millones-pesos-transformar-sistema-salud-20260921-834561.html",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "La comisión de la F1 acuerda acortar la duración de las carreras a partir de 2027",
-      "s": "Los organizadores también deberían tener mayor flexibilidad para prolongar las sesiones de entrenamientos libres en caso de que se vean interrumpidas.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/deportes/comision-f1-acuerda-acortar-duracion-carreras-partir-20260921-834560.html",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "T2. EP.9 ¿Cómo mantener un equilibrio entre el emprendimiento y la vida personal?",
-      "s": "Esperanza Hernández, coach ejecutiva y de gestión de cambio, explica cómo organizar mejor el tiempo entre el emprendimiento y la vida personal. Además, señala los riesgos físicos, mentales y sociales que se pueden presentar cuando un emprendedor dedica más de 12 horas al negocio.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/podcasts/t2-ep-9-mantener-equilibrio-emprendimiento-vida-personal-20260921-834547.html",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El presidente ejecutivo de Mission Produce vende 446.177 dólares en acciones AVO",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-presidente-ejecutivo-de-mission-produce-vende-446177-dolares-en-acciones-avo-93CH-3843183",
       "d": "21 sept 2026"
     },
     {
@@ -182,16 +242,6 @@
       "d": "21 sept 2026"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "¿Por qué caen hoy las acciones de Labcorp?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-labcorp-93CH-3843177",
-      "d": "21 sept 2026"
-    },
-    {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
@@ -209,26 +259,6 @@
       "s": "La lista negra incluye al presidente ruso, Vladimir Putin, y al ministro de Relaciones Exteriores, Serguéi Lavrov.",
       "src": "El Economista",
       "url": "https://www.eleconomista.com.mx/internacionales/union-europea-logra-acuerdo-levantar-sanciones-oligarcas-rusos-20260921-834557.html",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El director de contabilidad de Samsara vende acciones por 31.123 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-samsara-vende-acciones-por-31123-dolares-93CH-3843176",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La presidenta de Schrodinger, Karen Akinsanya, vende 927.970 dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/la-presidenta-de-schrodinger-karen-akinsanya-vende-927970-dolares-en-acciones-93CH-3843175",
       "d": "21 sept 2026"
     },
     {
@@ -252,26 +282,6 @@
       "d": "21 sept 2026"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "CBS, ABC, NBC y Fox suspenden su cobertura conjunta de Trump en apoyo a CNN",
-      "s": "Las principales cadenas televisivas estadounidenses anunciaron este lunes que suspendían la cobertura conjunta de las actividades del presidente Donald Trump en apoyo de CNN, vetada por el mandatario.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/videos/cbs-abc-nbc-fox-suspenden-cobertura-conjunta-trump-apoyo-cnn-20260921-834554.html",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Peso mexicano avanza levemente frente al dólar; mercado espera reunión de Trump y Xi",
-      "s": "El peso avanza respaldado por la caída de los precios del petróleo, a la espera de la decisión de política monetaria del Banxico más adelante en la semana.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/videos/peso-mexicano-avanza-levemente-frente-dolar-mercado-espera-reunion-trump-xi-20260921-834552.html",
-      "d": "21 sept 2026"
-    },
-    {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
@@ -282,23 +292,13 @@
       "d": "21 sept 2026"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Mercados: el petróleo cayó por cuarta rueda seguida y arrastró a las acciones argentinas del sector",
-      "s": "Las bolsas de Nueva York ascienden hasta 2,3%, pero la baja de 4% en el precio del crudo llevó a pérdidas de 0,8% para el índice S&P Merval. Los bonos perdieron 0,5% y el riesgo país subió a 533 puntos básicos",
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "El primer tren eléctrico de América Latina está en la Argentina y recorre seis pueblos de Jujuy: así funciona el Solar de la Quebrada",
+      "s": "Usa baterías de litio con autonomía de hasta 120 kilómetros y conecta zonas que integran el único Patrimonio de la Humanidad del norte argentino",
       "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
-      "s": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.infobae.com/economia/2026/09/21/el-primer-tren-electrico-de-america-latina-esta-en-la-argentina-y-recorre-seis-pueblos-de-jujuy-asi-funciona-el-solar-de-la-quebrada/",
       "d": "21 sept 2026"
     }
   ]
