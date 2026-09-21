@@ -1,4 +1,5 @@
 // Actualiza noticias.json leyendo feeds RSS públicos.
+// Enfocado en economía, finanzas y política económica mundial.
 // Requiere Node 20 o superior. No usa dependencias externas.
 //
 // Uso:   node scripts/actualizar-noticias.mjs
@@ -12,20 +13,38 @@ import { pathToFileURL } from "node:url";
 // ------------------------------------------------------------------
 const CONFIG = {
   feeds: [
+    // Generales, para mantener contexto mundial
     { nombre: "BBC Mundo",    url: "https://feeds.bbci.co.uk/mundo/rss.xml" },
     { nombre: "DW Español",   url: "https://rss.dw.com/xml/rss-es-all" },
-    { nombre: "Noticias ONU", url: "https://news.un.org/feed/subscribe/es/news/all/rss.xml" }
+    { nombre: "Noticias ONU", url: "https://news.un.org/feed/subscribe/es/news/all/rss.xml" },
+    // Especializados en economía y finanzas
+    { nombre: "Investing.com", url: "https://es.investing.com/rss/news.rss" },
+    { nombre: "El Economista", url: "https://www.eleconomista.com.mx/rss/ultimas-noticias" },
+    { nombre: "Expansión",     url: "https://e00-expansion.uecdn.es/rss/portada.xml" },
+    { nombre: "Infobae Economía", url: "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml" }
   ],
-  maxPorFeed: 8,
-  maxTotal: 27,
-  maxDias: 3,
-  minimoParaGuardar: 6,
+  maxPorFeed: 14,         // noticias que se leen de cada feed antes de filtrar
+  maxTotal: 30,           // noticias totales en la portada
+  maxDias: 3,             // se ignoran notas más viejas que esto
+  minimoParaGuardar: 6,   // si salen menos, se conserva el archivo anterior
   maxExtracto: 300,
   usarImagenesDelFeed: false,
-  archivo: "noticias.json"
+  archivo: "noticias.json",
+  // Cuántas noticias como máximo entran en la portada por sección.
+  // Economía tiene la cuota más alta: así la portada gira en torno a ella.
+  cuotas: { economia: 14, europa: 4, americas: 4, asia: 3, africa: 2, ciencia: 2, mundo: 3 }
 };
 
+// Secciones: se elige la que más palabras clave coincida con el titular y el extracto.
 const SECCIONES = {
+  economia: { etiqueta: "Economía", art: "rates", palabras: [
+    "economía","economia","inflación","inflacion","petróleo","petroleo","bolsa","mercados","mercado","banco central",
+    "bancos centrales","tasas de interés","tasa de interes","tipos de interés","FMI","Banco Mundial","comercio","aranceles",
+    "sanciones económicas","precios","empleo","desempleo","deuda","déficit","presupuesto","gasto público","impuestos",
+    "PIB","producto interno bruto","inversión","inversion","empresas","dólar","dolar","euro","yuan","crudo","Brent",
+    "Wall Street","criptomonedas","bitcoin","Reserva Federal","Fed","BCE","recesión","recesion","crecimiento económico",
+    "exportaciones","importaciones","divisa","tipo de cambio","acciones","bono","bonos","subsidios","política monetaria",
+    "política fiscal","OPEP" ]},
   americas: { etiqueta: "Américas", art: "polar", palabras: [
     "Estados Unidos","EE.UU.","EEUU","Trump","Casa Blanca","Washington","México","Brasil","Argentina","Colombia","Venezuela",
     "Canadá","Panamá","Chile","Perú","Cuba","Ecuador","Bolivia","Uruguay","Paraguay","Haití","Groenlandia","Centroamérica","Latinoamérica","Caribe" ]},
@@ -38,9 +57,6 @@ const SECCIONES = {
   africa: { etiqueta: "África y Oceanía", art: "boats", palabras: [
     "Sudán","Nigeria","Marruecos","Etiopía","Egipto","Kenia","Sudáfrica","Congo","Yibuti","Somalia","Sahel","Túnez","Libia",
     "Argelia","Mali","Níger","Uganda","Ghana","Camerún","Mozambique","África","Australia","Nueva Zelanda","Oceanía","Pacífico" ]},
-  economia: { etiqueta: "Economía", art: "rates", palabras: [
-    "economía","inflación","petróleo","bolsa","mercados","banco central","tasas de interés","FMI","Banco Mundial","comercio",
-    "aranceles","precios","empleo","deuda","PIB","inversión","empresas","dólar","euro","crudo","Brent" ]},
   ciencia: { etiqueta: "Ciencia y Tecnología", art: "fusion", palabras: [
     "ciencia","científicos","tecnología","inteligencia artificial","IA","salud","espacio","NASA","clima","investigación",
     "energía","fusión","vacuna","satélite","robot","astronomía","cambio climático","biodiversidad","virus","OMS" ]}
@@ -130,7 +146,7 @@ async function descargar(feed) {
 }
 
 // ------------------------------------------------------------------
-// Armado de la portada
+// Armado de la portada: aplica cuotas por sección, con economía primero
 // ------------------------------------------------------------------
 export function armarPortada(porFeed, ahora = new Date()) {
   const limite = ahora.getTime() - CONFIG.maxDias * 86400000;
@@ -151,14 +167,34 @@ export function armarPortada(porFeed, ahora = new Date()) {
   }
 
   elegidos.sort((a, b) => b.fecha - a.fecha);
+  const clasificados = elegidos.map((i) => ({ ...i, sec: clasificar(`${i.titulo} ${i.descripcion}`) }));
 
-  return elegidos.slice(0, CONFIG.maxTotal).map((i) => {
-    const sec = clasificar(`${i.titulo} ${i.descripcion}`);
+  const porSeccion = {};
+  for (const it of clasificados) {
+    const k = it.sec.clave;
+    (porSeccion[k] ||= []).push(it);
+  }
+
+  const finales = [];
+  const usados = new Set();
+  for (const [clave, cuota] of Object.entries(CONFIG.cuotas)) {
+    const lista = (porSeccion[clave] || []).slice(0, cuota);
+    for (const it of lista) { finales.push(it); usados.add(it.url); }
+  }
+  if (finales.length < CONFIG.maxTotal) {
+    for (const it of clasificados) {
+      if (finales.length >= CONFIG.maxTotal) break;
+      if (!usados.has(it.url)) { finales.push(it); usados.add(it.url); }
+    }
+  }
+  finales.sort((a, b) => b.fecha - a.fecha);
+
+  return finales.slice(0, CONFIG.maxTotal).map((i) => {
     const extracto = i.descripcion && normalizar(i.descripcion) !== normalizar(i.titulo)
       ? recortar(i.descripcion, CONFIG.maxExtracto)
       : `Consulta la noticia completa en ${i.fuente}.`;
     const item = {
-      r: sec.clave, tag: sec.etiqueta, art: sec.art,
+      r: i.sec.clave, tag: i.sec.etiqueta, art: i.sec.art,
       t: i.titulo, s: extracto,
       src: i.fuente, url: i.url, d: fechaLegible(i.fecha)
     };
@@ -188,6 +224,7 @@ async function principal() {
   console.log(`Guardadas ${items.length} noticias en ${CONFIG.archivo}`);
 }
 
+// Prueba sin internet: comprueba que el lector entiende un feed de ejemplo
 async function prueba() {
   const ahora = new Date();
   const rfc = ahora.toUTCString();
