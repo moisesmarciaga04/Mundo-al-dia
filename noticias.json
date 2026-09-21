@@ -1,6 +1,26 @@
 {
-  "actualizado": "2026-09-21T22:35:57.236Z",
+  "actualizado": "2026-09-21T22:42:19.528Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Apagón masivo en el AMBA: investigan si la falla de un interruptor clave generó el corte que dejó sin luz a 600.000 usuarios",
+      "s": "Una falla en un interruptor de la estación Malaver, en San Martín, provocó un corte que afectó a casi 600.000 usuarios del AMBA. Las distribuidoras cruzaron versiones sobre el origen del problema, mientras el ENReGE investiga la secuencia del colapso",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/21/apagon-masivo-en-el-amba-investigan-si-la-falla-de-un-interruptor-clave-genero-el-corte-que-dejo-sin-luz-a-600000-usuarios/",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "ServisFirst Bancshares declara un dividendo trimestral de 0,19 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/servisfirst-bancshares-declara-un-dividendo-trimestral-de-019-dolares-93CH-3843188",
+      "d": "21 sept 2026"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -15,131 +35,271 @@
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-      "s": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\".",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6wyz27241l2o?at_medium=RSS&at_campaign=rss",
+      "t": "Maru Campos sostiene reuniones en CDMX con Segob y SSPC",
+      "s": "Hola, ¿cómo están?",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/maru-campos-sostiene-reuniones-cdmx-segob-sspc-20260921-834563.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director de Koil Energy Solutions Neal Goldman vende 20.604 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-koil-energy-solutions-neal-goldman-vende-20604-dolares-en-acciones-93CH-3843186",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Wall Street comienza la semana con ganancias; acciones de Meta saltan más de 11%",
+      "s": "Los inversionistas aprovecharon el mejor ánimo por el descenso en los precios del petróleo, con subidas en los fabricantes de chips y un salto para el gigante Meta Platforms.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/wall-street-comienza-semana-ganancias-acciones-meta-saltan-20260921-834562.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Michoacán invierte presupuesto histórico de 7,700 millones de pesos para transformar su sistema de salud",
+      "s": "Morelia, Michoacán, 21 de septiembre de 2026.- Con un presupuesto histórico de 7 mil 702 millones de pesos, Michoacán impulsa la modernización y fortalecimiento del sistema de salud en la entidad. De acuerdo con el gobernador Alfredo Ramírez Bedolla, esta transformación ha sido posible gracias al…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/michoacan-invierte-presupuesto-historico-7-700-millones-pesos-transformar-sistema-salud-20260921-834561.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "La comisión de la F1 acuerda acortar la duración de las carreras a partir de 2027",
+      "s": "Los organizadores también deberían tener mayor flexibilidad para prolongar las sesiones de entrenamientos libres en caso de que se vean interrumpidas.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/deportes/comision-f1-acuerda-acortar-duracion-carreras-partir-20260921-834560.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "T2. EP.9 ¿Cómo mantener un equilibrio entre el emprendimiento y la vida personal?",
+      "s": "Esperanza Hernández, coach ejecutiva y de gestión de cambio, explica cómo organizar mejor el tiempo entre el emprendimiento y la vida personal. Además, señala los riesgos físicos, mentales y sociales que se pueden presentar cuando un emprendedor dedica más de 12 horas al negocio.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/podcasts/t2-ep-9-mantener-equilibrio-emprendimiento-vida-personal-20260921-834547.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El presidente ejecutivo de Mission Produce vende 446.177 dólares en acciones AVO",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-presidente-ejecutivo-de-mission-produce-vende-446177-dolares-en-acciones-avo-93CH-3843183",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La inversión extranjera bruta repunta un 31% hasta junio pero las desinversiones se disparan",
+      "s": "España recibió 12.446 millones de inversión exterior bruta entre enero y junio, pero las desinversiones efectuadas por las empresas foráneas superaron los 9.038 millones, un 142% más, reduciendo la entrada neta de capital a 3.407 millones de euros. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/22/6ab1818ce5fdea6d568b45a5.html",
       "d": "21 sept 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "Muere Presley Gerber: la lucha contra los problemas de adicción y salud mental del hijo de la modelo Cindy Crawford",
-      "s": "El joven, quien murió en un centro de rehabilitación este domingo, hablaba abiertamente del tema en entrevistas y en su perfil en Instagram, en una serie de publicaciones al que llamaba \"lunes de salud mental\".",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/crwyz2076608o?at_medium=RSS&at_campaign=rss",
+      "t": "Muface, condenada a pagar a DKV por su seguro de salud",
+      "s": "La sentencia fija en 19,4 millones el sobrecoste que tuvo la aseguradora por la prórroga obligatoria que impuso la mutualidad para cubrir a los funcionarios. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab1868ae5fdea5a238b45a9.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Acciona, Ferrovial y ACS se lanzan a por 120.000 millones del agua británica",
+      "s": "Constructoras e ingenierías españolas coinciden en que la gran oportunidad de obras y servicios en Reino Unido ahora se encuentra en el sector hidráulico y toman posiciones con nuevos contratos. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/construccion-servicios/2026/09/22/6ab1772be5fdeaf4098b4594.html",
       "d": "21 sept 2026"
     },
     {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "Los ataques de EE.UU. contra embarcaciones sospechosas de traficar drogas en el Caribe y el Pacífico podrían constituir crímenes de lesa humanidad, dice la ONU",
-      "s": "Según un informe, los ataques, de los cuales se han producido al menos 68, no han sido en defensa propia.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cr1e52qqwq0go?at_medium=RSS&at_campaign=rss",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Converse retira un anuncio \"profundamente perturbador\" tras acusaciones de racismo",
-      "s": "Los usuarios de las redes sociales afirman que una imagen de la cuenta de Instagram de la marca se parecía a una capucha del KKK y a un ahorcamiento.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c933k2lrj045o?at_medium=RSS&at_campaign=rss",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Científicos alertan de que los controles actuales no bastan para frenar a los agentes de IA",
-      "s": "Un incidente ocurrido durante pruebas con agentes de inteligencia artificial mostró que estos sistemas pueden eludir controles, coordinarse entre sí y ocultar sus acciones. Expertos independientes de la ONU advierten de que las medidas de seguridad no están avanzando al mismo ritmo que sus…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541936",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Un escudo verde en el desierto: cómo los manglares son una defensa natural en la era del cambio climático",
-      "s": "A diferencia de un muro de hormigón, esta infraestructura natural crece, se reproduce y puede proporcionar simultáneamente múltiples servicios. Por primera vez desde que hay registros satelitales, la superficie global de manglares ha crecido más de lo que ha disminuido, aunque el cambio climático…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541935",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "¿Quién debe fijar las reglas de la IA? La ONU presiona por un futuro digital más seguro",
-      "s": "La ONU trabaja para que los países acuerden reglas comunes sobre inteligencia artificial: el Panel Científico Internacional Independiente ya advirtió de amenazas como la desinformación, la discriminación o la \"superinteligencia\" difícil de controlar, y el titular de la ONU ha pedido cooperación…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541917",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "La acción climática afronta su prueba más difícil: convertir promesas en resultados",
-      "s": "Superar temporalmente el límite de calentamiento de 1,5 °C ya se considera ampliamente inevitable. El desafío ahora es evitar que la temperatura suba mucho más y permanezca por encima de ese nivel durante demasiado tiempo, reduciendo las emisiones con mayor rapidez, movilizando más financiación y…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541927",
-      "d": "21 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "\"Creo que fue su enfermedad mental\": las razones del exesposo de Lindsay Clancy para perdonarle que haya matado a sus 3 hijos",
-      "s": "El padre de los tres menores dio una entrevista al canal estadounidense CBS y dio a entender que también pensó en el suicidio.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cqj9xpry7z97o?at_medium=RSS&at_campaign=rss",
+      "t": "La ONU reúne a los líderes de un mundo dividido y temeroso de la IA",
+      "s": "Nueva York acoge un cónclave de Naciones Unidas sacudido por los conflictos en Oriente Próximo y Ucrania, el debate sobre la carrera tecnológica o los ataques de Trump. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/22/6ab17568468aeb67278b457e.html",
       "d": "21 sept 2026"
     },
     {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "\"Eran como mis hijos\": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela",
-      "s": "Madeleine Cova es una profesora de secundaria que llora los estudiantes que perdió en los terremotos que sacudieron el norte de Venezuela el 24 de junio.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss",
+      "t": "IA y aranceles centrarán el encuentro de Xi y Trump de esta semana",
+      "s": "El presidente de China protagoniza una visita oficial de tres días a Estados Unidos desde este miércoles. Ambos países explorar establecer alertas de incidencias graves con la Inteligencia Artificial. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/22/6ab176ce468aeb4a408b457b.html",
       "d": "21 sept 2026"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
-      "s": "La inteligencia artificial tiene cada vez más protagonismo en el mercado laboral. Te contamos lo que debes saber a la hora de buscar empleo.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c79gpqxyyd1o?at_medium=RSS&at_campaign=rss",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Renault se lanza a conquistar India y Brasil tras \"arreglar\" Europa",
+      "s": "El grupo francés operará de forma independiente en Europa, aunque fabricará para terceros, mientras que apuesta por alianzas con socios para crecer en otros mercados internacionales. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/motor/2026/09/22/6ab174e8e5fdea7f7e8b45a1.html",
       "d": "21 sept 2026"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "El Niño se fortalece y amenaza la salud de millones de personas en las Américas",
-      "s": "Ocho países y territorios ya han declarado emergencias o alertas relacionadas con amenazas vinculadas al fenómeno. Los eventos climáticos extremos pueden aumentar el riesgo de dengue, enfermedades transmitidas por el agua, problemas respiratorios y golpes de calor, además de incrementar el hambre y…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541934",
-      "d": "19 sept 2026"
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Juan Velayos (The District): \"España es un destino de referencia para el capital\"",
+      "s": "El salón inmobiliario inicia hoy su quinta edición mientras el mercado apunta a un nuevo récord de inversión. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/catalunya/2026/09/22/6ab169dc468aeb16468b456d.html",
+      "d": "21 sept 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Telespazio se refuerza en España para ganar contratos en Europa",
+      "s": "La cartera de pedidos de la compañía cerrará 2026 en torno a los 100 millones de euros, el doble que el año pasado. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/09/22/6ab167e3468aeb6e638b45bd.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "¿Por qué caen hoy las acciones de Labcorp?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-labcorp-93CH-3843177",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
       "art": "polar",
-      "t": "El mundo viene a Nueva York: qué está en juego durante la próxima Asamblea General",
-      "s": "Cada septiembre, la Gran Manzana se convierte en el centro de la diplomacia global, cuando presidentes, primeros ministros, ministros y diplomáticos de todo el mundo se reúnen en la sede de la ONU.",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541924",
-      "d": "19 sept 2026"
+      "t": "BMW M2 Turbo Design Edition 2027 llega a México: precio y equipo del homenaje al 2002 turbo",
+      "s": "Franjas pintadas a mano, techo de fibra de carbono y transmisión manual de 6 velocidades: así es el M2 que celebra al 2002 turbo que se fabrica en San Luis Potosí",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/autos/bmw-m2-turbo-design-edition-2027-llega-mexico-precio-equipo-homenaje-2002-turbo-20260921-834553.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Unión Europea no logra acuerdo para levantar sanciones contra oligarcas rusos",
+      "s": "La lista negra incluye al presidente ruso, Vladimir Putin, y al ministro de Relaciones Exteriores, Serguéi Lavrov.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/union-europea-logra-acuerdo-levantar-sanciones-oligarcas-rusos-20260921-834557.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director de contabilidad de Samsara vende acciones por 31.123 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-samsara-vende-acciones-por-31123-dolares-93CH-3843176",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La presidenta de Schrodinger, Karen Akinsanya, vende 927.970 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/la-presidenta-de-schrodinger-karen-akinsanya-vende-927970-dolares-en-acciones-93CH-3843175",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Gasto en salud supera 35% del ingreso familiar y lleva a buscar medicinas en marketplaces y tianguis",
+      "s": "En estos canales “ilegales”, alertó Juvenal Becerra Orozco, presidente de la Unefarm, los fármacos pueden encontrarse con descuentos de 50%, 60% e incluso 80%, lo cual ya debe ser motivo de alerta entre la población, ya que está en riesgo la vida de las personas que los consumen.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/gasto-salud-supera-35-ingreso-familiar-lleva-buscar-medicinas-marketplaces-tianguis-20260921-834556.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Bolsa mexicana cierra la jornada con ganancias tras tocar nuevo mínimo del año",
+      "s": "Los índices locales avanzaron, revirtiendo sus caídas iniciales tras tocar nuevos mínimos del año, con un fuerte impulso de las acciones de Televisa y de Volaris.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-cierra-jornada-ganancias-tocar-nuevo-minimo-ano-20260921-834555.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "CBS, ABC, NBC y Fox suspenden su cobertura conjunta de Trump en apoyo a CNN",
+      "s": "Las principales cadenas televisivas estadounidenses anunciaron este lunes que suspendían la cobertura conjunta de las actividades del presidente Donald Trump en apoyo de CNN, vetada por el mandatario.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/videos/cbs-abc-nbc-fox-suspenden-cobertura-conjunta-trump-apoyo-cnn-20260921-834554.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Peso mexicano avanza levemente frente al dólar; mercado espera reunión de Trump y Xi",
+      "s": "El peso avanza respaldado por la caída de los precios del petróleo, a la espera de la decisión de política monetaria del Banxico más adelante en la semana.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/videos/peso-mexicano-avanza-levemente-frente-dolar-mercado-espera-reunion-trump-xi-20260921-834552.html",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Jornada financiera: el riesgo país subió por sexto día consecutivo y quedó más lejos de los 500 puntos básicos",
+      "s": "Los bonos argentinos restaron 0,5% y el indicador de JP Morgan ascendió a 533 unidades, un máximo desde el 20 de agosto. El S&P Merval cayó 0,8% y se diferenció de la tendencia alcista de Wall Street. El dólar siguió a $1.535 en el Banco Nación",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/21/jornada-financiera-el-riesgo-pais-subio-por-sexto-dia-consecutivo-y-quedo-mas-lejos-de-los-500-puntos-basicos/",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Mercados: el petróleo cayó por cuarta rueda seguida y arrastró a las acciones argentinas del sector",
+      "s": "Las bolsas de Nueva York ascienden hasta 2,3%, pero la baja de 4% en el precio del crudo llevó a pérdidas de 0,8% para el índice S&P Merval. Los bonos perdieron 0,5% y el riesgo país subió a 533 puntos básicos",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/21/mercados-el-petroleo-cae-por-cuarta-rueda-seguida-y-arrastra-a-las-acciones-argentinas-del-sector/",
+      "d": "21 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
+      "s": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss",
+      "d": "21 sept 2026"
     }
   ]
 }
