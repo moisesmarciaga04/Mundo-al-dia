@@ -1,305 +1,305 @@
 {
-  "actualizado": "2026-09-23T11:05:42.314Z",
+  "actualizado": "2026-09-24T11:05:46.213Z",
   "items": [
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El vicepresidente ejecutivo y CFO de Keysight vende acciones por 681.570 dólares",
+      "t": "“Superjueves”: la pobreza y la actividad marcarán la agenda, mientras el Senado define las reformas del BCRA y Zonas Frías",
+      "s": "El Indec publicará qué pasó con la economía en julio y con los indicadores socioeconómico en el primer semestre del año. En la Cámara alta, el Gobierno buscará que se conviertan en Ley ambas iniciativas",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/24/superjueves-la-pobreza-y-la-actividad-marcaran-la-agenda-mientras-el-senado-define-las-reformas-del-bcra-y-zonas-frias/",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Remigromig de Merck cumple objetivo de no inferioridad en ensayo de EMD",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-y-cfo-de-keysight-vende-acciones-por-681570-dolares-93CH-3845534",
-      "d": "23 sept 2026"
+      "url": "https://es.investing.com/news/company-news/remigromig-de-merck-cumple-objetivo-de-no-inferioridad-en-ensayo-de-emd-93CH-3847495",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Dorman Trading, de MIAX, obtiene membresía de compensación en OCC",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/dorman-trading-de-miax-obtiene-membresia-de-compensacion-en-occ-93CH-3847494",
+      "d": "24 sept 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "Stifel reitera su valoración de Lumentum ante la demanda de IA",
+      "t": "Evercore ISI reitera su calificación de MongoDB por el impulso de la IA",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/stifel-reitera-su-valoracion-de-lumentum-ante-la-demanda-de-ia-93CH-3845533",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Morgan Stanley actualiza su análisis sobre la reapertura del Estrecho de Ormuz",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/morgan-stanley-actualiza-su-analisis-sobre-la-reapertura-del-estrecho-de-ormuz-93CH-3845523",
-      "d": "23 sept 2026"
+      "url": "https://es.investing.com/news/analyst-ratings/evercore-isi-reitera-su-calificacion-de-mongodb-por-el-impulso-de-la-ia-93CH-3847485",
+      "d": "24 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "El llamativo pedido de un funcionario ante un grupo de productores: “Aplaudan por favor, si no es desesperante”",
-      "s": "El secretario de Agricultura ya había pedido aplausos en una conferencia realizada en mayo. Cómo respondió el público y qué dijo en su exposición",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/23/el-llamativo-pedido-de-un-funcionario-ante-un-grupo-de-productores-aplaudan-por-favor-si-no-es-desesperante/",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Un analista dice que el mercado alcista de Bitcoin está en marcha y fija un objetivo para 2029",
+      "t": "Canaccord reitera su recomendación de compra en Grail tras el voto del panel de la FDA",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/cryptocurrency-news/un-analista-dice-que-el-mercado-alcista-de-bitcoin-esta-en-marcha-y-fija-un-objetivo-para-2029-3845531",
-      "d": "23 sept 2026"
+      "url": "https://es.investing.com/news/analyst-ratings/canaccord-reitera-su-recomendacion-de-compra-en-grail-tras-el-voto-del-panel-de-la-fda-93CH-3847483",
+      "d": "24 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "TD Cowen rebaja el precio objetivo de AutoZone a 3.400 dólares",
+      "t": "BofA recorta el precio objetivo de General Mills por preocupaciones inflacionarias",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/td-cowen-rebaja-el-precio-objetivo-de-autozone-a-3400-dolares-93CH-3845514",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Moeve reorganiza su estructura y dirección para acelerar sus proyectos de moléculas verdes",
-      "s": "Incorpora las áreas de Operations y Commercial y ajusta su comité de dirección, que tendrá ocho miembros. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/09/23/6ab3abff468aeb53468b458e.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Integra informa nuevos resultados de perforación en la mina Florida Canyon",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/integra-informa-nuevos-resultados-de-perforacion-en-la-mina-florida-canyon-93CH-3845506",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Un récord exportador empañado por el crudo",
-      "s": "El fuerte y sostenido encarecimiento de la energía ensancha el déficit comercial de nuestra economía. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/opinion/2026/09/23/6ab3a5e2e5fdeae6728b4584.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Cathie Wood aconseja a los inversores más Bolsa y bitcoin y menos bonos",
-      "s": "Wood ha enviado una extensa carta a los inversores en la que dice que el tradicional reparto de la carteta 60/40 ya no es efectivo y que hay que plantearse más Bolsa y bitcoin y menos bonos. Considera que la próxima década puede combinar más crecimiento y productividad (por la IA), menor inflación…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/09/23/6ab39cb4468aeb29328b4595.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Europa atraviesa un periodo excepcional de inundaciones con riadas más severas y frecuentes",
-      "s": "Una cadena de inundaciones catastróficas desbordó a Europa hace 700 años: la gran inundación que asoló el continente en 1342 y que durante siglos se ha considerado un único episodio catastrófico fue, en realidad, la manifestación más conocida de una sucesión excepcional de 16 grandes inundaciones…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/estilo-vida/salud/2026/09/23/6ab3877c468aeb672a8b45b2.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Trump reivindica su particular idea de paz",
-      "s": "El presidente de Estados Unidos, Donald Trump, ha dado sobradas muestras en este segundo mandato de tener una percepción de la realidad muy particular y distinta a la de la mayoría de los dirigentes políticos. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/opinion/2026/09/23/6ab3a258468aeb61718b4571.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Xi Jinping viaja a EE.UU.: el \"príncipe\" que lo perdió todo antes de convertirse en el líder más poderoso de China",
-      "s": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c8ly4pqd2zlko?at_medium=RSS&at_campaign=rss",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Amodei lleva razón: la IA necesita una supervisión similar a la bancaria",
-      "s": "Las dos industrias evolucionan rápidamente y tienen un alcance que abarca toda la economía, lo que obliga a las autoridades a sopesar los beneficios de la innovación frente a los riesgos. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/23/6ab39740468aeb117b8b4574.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Telefónica España crea una división de dispositivos, su gran herramienta de fidelización",
-      "s": "Telefónica España ha elevado la importancia del negocio de dispositivos creando una división propia. Para dirigirla, ha fichado a Alberto Ruano, hasta ahora director general de Lenovo España. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/23/6ab38290468aeb042f8b4594.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "ANSES: quiénes cobran hoy, miércoles 23 de septiembre de 2026",
-      "s": "El organismo continúa con el cronograma mensual, que incorpora una suba de 2,11% en los haberes y asignaciones según la actualización por inflación",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/23/anses-quienes-cobran-hoy-miercoles-23-de-septiembre-de-2026/",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La electrificación será el eje central de la COP31 en Turquía",
-      "s": "Las negociaciones climáticas de la ONU se centrarán en alcanzar el 35% de electrificación para 2035 y en aumentar la inversión. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/2026/09/23/6ab38ce3468aeb7e3e8b459f.html",
-      "d": "23 sept 2026"
+      "url": "https://es.investing.com/news/analyst-ratings/bofa-recorta-el-precio-objetivo-de-general-mills-por-preocupaciones-inflacionarias-93CH-3847484",
+      "d": "24 sept 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "Anthropic y OpenAI lanzan modelos más económicos en plena batalla para reducir los costes de la IA",
-      "s": "La compañía asegura que el modelo, que promete reducir los costes de ejecución de la IA, ha sido sometido a evaluaciones externas y controles reforzados. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/companias/2026/09/22/6ab29bdc468aebfa508b45b9.html",
-      "d": "23 sept 2026"
+      "t": "Truist eleva el precio objetivo de SailPoint a 27 dólares por el crecimiento de la IA",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/truist-eleva-el-precio-objetivo-de-sailpoint-a-27-dolares-por-el-crecimiento-de-la-ia-93CH-3847482",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "BofA sube el precio objetivo de Ethos Technologies por mejora en flujo de caja",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/bofa-sube-el-precio-objetivo-de-ethos-technologies-por-mejora-en-flujo-de-caja-93CH-3847481",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La OCDE eleva al 2,6% el PIB de España en 2026, pero avisa de la elevada inflación",
-      "s": "La organización de los países industrializados mejora en cuatro décimas sus pronóstico para España y destaca la resiliencia de la economía global frente a la crisis, elevando en una décima, al 2,9%, su previsión de crecimiento mundial. Leer",
+      "t": "El Ibex se mantiene en guardia",
+      "s": "Los mensajes que surjan de la reunión entre Donald Trump y Xi Jinping mantienen en vilo a los mercados, atenazados nuevamente por el precio superior a los 100 dólares del petróleo y la escalada en los intereses de la deuda. El Ibex vuelve a activar el freno. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/09/23/6ab2c6cf468aebe0408b45af.html",
-      "d": "23 sept 2026"
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/24/6ab4bb30e5fdea8d4b8b4594.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La batalla entre la Fed y Donald Trump",
-      "s": "¿Qué sucede cuando una economía fundamentalmente sólida se enfrenta a un gobierno irresponsable? Leer",
+      "t": "Santander bate al mercado en el seguro de salud de la mano de Aegon",
+      "s": "La filial del banco y el grupo holandés crece un 17,46% en primas en el primer semestre es este ramo, muy por encima del mercado de asistencia sanitaria, que avanza un 6,91%. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/23/6ab38409468aeb672a8b45a9.html",
-      "d": "23 sept 2026"
+      "url": "https://www.expansion.com/empresas/seguros/2026/09/24/6ab4188c468aeb39058b4591.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Oficializaron el aumento para jubilaciones, pensiones y asignaciones: de cuánto será la mínima en octubre",
-      "s": "La suba será del 1,66%, de acuerdo con el último dato de la inflación. De igual forma, aún resta que el Gobierno confirme el pago del bono extraordinario",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/23/oficializaron-el-aumento-para-jubilaciones-pensiones-y-asignaciones-de-cuanto-sera-la-minima-en-octubre/",
-      "d": "23 sept 2026"
+      "t": "Banca March cree que las valoraciones de la Bolsa son más atractivas ahora que a principios de año",
+      "s": "Las fuertes subidas de los índices han venido acompañadas con un intenso aumento de los beneficios que han abaratado las valoraciones. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/09/24/6ab4f3bbe5fdeae4158b4590.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Nubarrón inflacionario sobre la economía",
+      "s": "La OCDE avanza que el alto diferencial de precios español con la media europea se mantendrá en 2027. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/opinion/2026/09/24/6ab4f2c3e5fdea2c218b45a5.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Los mejores valores para rentabilizar el \"superciclo de la tokenización\"",
+      "s": "El auge de la tokenización se adentra en una nueva dimensión gracias al espaldarazo 'oficial' recibido hace justo una semana. La luz verde de la SEC estadounidense dispara el interés por las empresas cotizadas más expuestas al \"superciclo de la tokenización\". Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/09/24/6ab4dd3f468aeb18428b4582.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El Banco de España alerta: en 2028 harán falta un millón de viviendas",
+      "s": "El mercado inmobiliario español ha generado un déficit acumulado estimado de 755.000 viviendas desde 2021. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/23/6ab42eaae5fdea8d4b8b4578.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La inflación industrial se dispara al 13,2% en agosto por la energía y marca récord en casi cuatro años",
+      "s": "Los precios industriales se dispararon un 13,2% en agosto en relación al mismo mes de 2025, tasa 3,8 puntos superior a la de julio y la más elevada desde diciembre de 2022, impulsados por el coste de la energía, según ha informado este jueves el Instituto Nacional de Estadística (INE). Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/24/6ab4cfb8468aeb5e428b458d.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Activados dos cazas españoles en Rumanía ante una alerta de drones rusos",
+      "s": "Dos cazas F18 españoles desplegados en la Base Mihail Kogalniceanu, en el marco de la misión de Policía Aérea de la OTAN, fueron activados anoche para monitorizar a un grupo de \"objetivos aéreos\" que operaba al norte de la localidad de Chilia Veche, en Ucrania, próxima a la frontera con Rumanía…",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/politica/2026/09/24/6ab4cc36e5fdea46078b45ab.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Una deuda imposible de pagar",
+      "s": "En el muy improbable caso de que se congelase la deuda pública de México, el país tardaría 40 años en liquidar los casi 20 billones de pesos que se han acumulado de manera creciente en los últimos ocho años, el problema medular es la insuficiente recaudación y el pago de intereses.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/deuda-imposible-pagar-20260924-835093.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "“Y si sí”, ¿se atreverá Trump a frenar exportaciones de diésel?",
-      "s": "En México, no hay reacción oficial. Pemex, Hacienda y Energía guardaron silencio. ¿Cómo lo estarán procesando a puerta cerrada? Si Donald Trump prohibiera las exportaciones de diésel, el impacto para México sería brutal. De Estados Unidos viene 37.7% de nuestro consumo de diésel, que es de 62…",
+      "t": "¿Que faltan niños para poblar este lugar?",
+      "s": "La nueva Encuesta Intercensal confirma que México está entrando en una etapa distinta de su historia demográfica. La población sigue creciendo, pero cada vez más despacio: pasó de 125.5 millones de habitantes en viviendas particulares en 2020 a 130.4 millones en 2025, con una tasa media anual de…",
       "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/atrevera-trump-frenar-exportaciones-diesel-20260923-834865.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "africa",
-      "tag": "África y Oceanía",
-      "art": "boats",
-      "t": "Alerta por intensas lluvias de Polo en cinco estados",
-      "s": "El huracán Polo, que se mantiene como categoría 5 en la escala Saffir-Simpson y continúa su paso frente a las costas del Pacífico mexicano por lo que parmanece la vigilancia a Guerrero, Michoacán, Colima, Jalisco y Oaxaca, entidades donde se pronostican lluvias intensas.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/alerta-intensas-lluvias-polo-cinco-estados-20260923-834859.html",
-      "d": "23 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "EU sopesa parar exportaciones de diésel de EU para contener precios",
-      "s": "Según S&P Global Energy, si se prohibieran los envíos, ese país debe bajar el proceso de crudo en casi dos millones de barriles diarios.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/eu-sopesa-parar-exportaciones-diesel-eu-contener-precios-20260923-834857.html",
-      "d": "23 sept 2026"
+      "url": "https://www.eleconomista.com.mx/opinion/faltan-ninos-poblar-lugar-20260924-835092.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "Changan importaría autos de Brasil para evitar subir precios",
-      "s": "La medida se tomaría una vez que se agote el inventario de producto que acumuló la empresa previo al alza arancelaria a vehículos provenientes de países con los que México no tiene TLC, a partir de este año.",
+      "t": "Advierten que cifra negra de extorsión en México supera 96%",
+      "s": "Ven posibles áreas de cooperación en la capacitación en uso de drones.",
       "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/autos/changan-importaria-autos-brasil-evitar-subir-precios-20260922-834856.html",
-      "d": "23 sept 2026"
+      "url": "https://www.eleconomista.com.mx/politica/advierten-cifra-negra-extorsion-mexico-supera-20260924-835091.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "México y EU realizan 52 reuniones técnicas para revisar T-MEC",
-      "s": "En dichos encuentros se abordaron temas como seguridad económica, reglas de origen, propiedad intelectual, barreras comerciales y medidas bajo la Sección 232, informó Economía.",
+      "t": "Los trenes pueden justificarse, las cifras deben demostrarlo",
+      "s": "Ayer, la presidenta Claudia Sheinbaum informó que su gobierno invertirá 750,000 millones de pesos en 2,400 kilómetros de infraestructura ferroviaria durante el sexenio. Unos 1,600 serán de trenes de pasajeros y el resto corresponderá a obras de carga del Tren Maya y el Corredor Interoceánico. ¿Se…",
       "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/mexico-eu-realizan-52-reuniones-tecnicas-revisar-t-mec-20260922-834853.html",
-      "d": "23 sept 2026"
+      "url": "https://www.eleconomista.com.mx/opinion/trenes-justificarse-cifras-deben-demostrarlo-20260924-835089.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El riesgo país arriba de los 550 puntos condiciona la primera emisión de deuda internacional de una provincia",
-      "s": "San Juan tiene previsto colocar bonos bajo legislación neoyorkina mañana por USD 600 millones. Pero el deterioro de los bonos soberanos elevaría la tasa a niveles cercanos al 10% anual. Caputo ya aclaró que no buscará financiamiento en el exterior",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/23/el-riesgo-pais-arriba-de-los-550-puntos-condiciona-la-primera-emision-de-deuda-internacional-de-una-provincia/",
-      "d": "23 sept 2026"
+      "t": "Justicia sin ley",
+      "s": "La reforma judicial que sepultó la estructura jurídica construida durante la transición democrática a partir de 1994 ha creado un vacío legal difícil de superar. La elección popular de jueces, magistrados y ministros de la Suprema Corte desapareció el débil andamiaje sobre el que se basaba la…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/justicia-ley-20260924-835088.html",
+      "d": "24 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "De potencia petrolera a fabricante de autos eléctricos: cuál es el país que se lanza a competir en la industria automotriz",
-      "s": "Ceer, la marca creada por el Fondo de Inversión Pública saudí (PIF) y la taiwanesa Foxconn, presentó dos modelos 100 % eléctricos que comenzará a fabricar en 2027",
+      "t": "Colombia apunta a su peor déficit comercial por su súper peso",
+      "s": "Dado el panorama de apreciación del peso, analistas alertan que el saldo negativo pueda alcanzar un nuevo máximo histórico este 2026, que supere al récord del año pasado por 16,376 millones de dólares.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/colombia-apunta-peor-deficit-comercial-super-peso-20260924-835083.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Brasil podría exportar más carne a China, con apoyo de Uruguay",
+      "s": "El presidente brasileño, Luiz Inácio Lula da Silva, informó que Uruguay autorizó a Brasil a utilizar el excedente de su cuota de exportación de carne de vacuno a China.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/brasil-exportar-carne-china-apoyo-uruguay-20260924-835082.html",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Las 5 razones que identificaron los analistas para explicar el fuerte repunte del riesgo país",
+      "s": "Hace dos meses que se acumula el deterioro de los bonos dolarizados. Los mercados ya se pusieron en modo electoral y reducen su exposición en activos argentinos. Expectativa por la colocación de deuda de San Juan",
       "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/23/de-potencia-petrolera-a-fabricante-de-autos-electricos-cual-es-el-pais-que-se-lanza-a-competir-en-la-industria-automotriz/",
+      "url": "https://www.infobae.com/economia/2026/09/24/las-5-razones-que-identificaron-los-analistas-para-explicar-el-fuerte-repunte-del-riesgo-pais/",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Corredor Andes-Atlántico: las diez claves para entender el acuerdo de inversiones que la Argentina firmó con Estados Unidos",
+      "s": "La iniciativa prevé inversiones de hasta USD 7.000 millones para 2027 en obras de energía, minería, transporte y telecomunicaciones. Qué incluye, quién aporta el financiamiento y qué compromisos asume cada país",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/24/corredor-andes-atlantico-las-diez-claves-para-entender-el-acuerdo-de-inversiones-que-la-argentina-firmo-con-estados-unidos/",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Cambios en el e-commerce: la billetera de los bancos se integra con ChatGPT para elegir, comprar y pagar un producto con IA",
+      "s": "Modo presentó una herramienta que permite recorrer todo el proceso de compra dentro de una única conversación. La competencia con Mercado Pago",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/24/cambios-en-el-e-commerce-la-billetera-de-los-bancos-se-integra-con-chatgpt-para-elegir-comprar-y-pagar-un-producto-con-ia/",
+      "d": "24 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
+      "s": "El escritor canadiense-haitiano Thélyson Orélien acaba de ser galardonado con el Premio de Novela Fnac por su primera obra.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmje8gqd3zjwo?at_medium=RSS&at_campaign=rss",
       "d": "23 sept 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "\"Contratacaremos si nos atacan\": el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
-      "s": "En conversación con el programa Newsnight de la BBC, el primer ministro de Lituania dijo que la población se siente \"constantemente amenazada\" por Moscú.",
+      "t": "El dramático desalojo de la anciana Maricarmen a los 87 años que expone la gravedad de la crisis de vivienda en España",
+      "s": "Maricarmen, inquilina de un piso en el centro de Madrid, no podía pagar el alquiler fijado por la empresa que lo compró años atrás.",
       "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cm36ly7p3pe9o?at_medium=RSS&at_campaign=rss",
-      "d": "22 sept 2026"
+      "url": "https://www.bbc.com/mundo/articles/cw5y4znkpl4lo?at_medium=RSS&at_campaign=rss",
+      "d": "23 sept 2026"
     },
     {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Minuto a minuto de la Asamblea General UNGA81",
-      "s": "Como cada septiembre, los líderes del mundo se disponen a hacer un respaso de una agenda internacional ocupada con temas priorarios desde hace años, como la cuestión de Palestina, la guerra de Ucrania, el cambio climático o la justicia social, y a la que se añaden nuevos asuntos como la guerra de…",
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Zelenskyy pide aumentar la presión sobre Rusia y afirma que la guerra se extiende más allá de Ucrania",
+      "s": "El presidente de Ucrania pidió mantener las sanciones y limitar los ingresos que, según afirmó, permiten a Moscú financiar la guerra. Ante la Asamblea General, sostuvo además que las consecuencias del conflicto trascienden las fronteras de su país y alertó sobre el impacto de los avances en…",
       "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541929",
-      "d": "22 sept 2026"
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541957",
+      "d": "23 sept 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Irán denuncia las dos varas de medir internacionales",
+      "s": "El presidente iraní rechaza las acusaciones de terrerorismo que se han vertido sobre su país ante la Asamblea General que Irán \"no ha atacado a nadie en 200 años\", que ha sido agredido por Estados Unidos e Israel, y que Irán \"solo se ha defendido\".",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541949",
+      "d": "23 sept 2026"
     }
   ]
 }
