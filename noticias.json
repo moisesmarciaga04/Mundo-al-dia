@@ -1,134 +1,274 @@
 {
-  "actualizado": "2026-09-27T11:05:52.011Z",
+  "actualizado": "2026-09-28T11:06:50.585Z",
   "items": [
     {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Por qué Japón tiene tan pocos cestos de basura y aun así mantiene sus calles limpias",
-      "s": "La escasez de papeleras en Japón responde a una combinación de factores que van desde un atentado mortal en 1995 hasta arraigadas normas de convivencia.",
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
+      "s": "La decisión ocurre unos días después de la reunión entre Donald Trump y Delcy Rodríguez en Nueva York",
       "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&at_campaign=rss",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El director ejecutivo de TriplePoint Venture Growth compra 1,47 millones de dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-triplepoint-venture-growth-compra-147-millones-de-dolares-en-acciones-93CH-3850420",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El presidente y CIO de TriplePoint, Sajal Srivastava, vende acciones por 1,48 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-cio-de-triplepoint-sajal-srivastava-vende-acciones-por-148-millones-de-dolares-93CH-3850419",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "¿Podría el auge de los centros de datos en Europa impulsar la energía nuclear?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/economy-news/podria-el-auge-de-los-centros-de-datos-en-europa-impulsar-la-energia-nuclear-3850415",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El director de Sezzle, Bryan Hunt, compra acciones por 28.965 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-sezzle-bryan-hunt-compra-acciones-por-28965-dolares-93CH-3850414",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "'La Noche del Deporte' convierte Madrid en una gran fiesta",
-      "s": "El evento, que tuvo lugar en la Plaza de España y otros puntos emblemáticos de la capital, reunió a madrileños y visitantes, que disfrutaron con numerosas actividades gratuitas. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/deporte-negocio/2026/09/27/6ab8e5b1468aebfb378b4572.html",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Burnham insinúa nuevos impuestos en el Reino Unido para la atención social y cuestiona la expansión de Heathrow",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/economy-news/burnham-insinua-nuevos-impuestos-en-el-reino-unido-para-la-atencion-social-y-cuestiona-la-expansion-de-heathrow-3850412",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El director de NVIDIA Mark Stevens vende acciones por 300,1 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-nvidia-mark-stevens-vende-acciones-por-3001-millones-de-dolares-93CH-3850411",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El presidente de Heritage Insurance vende acciones por 121.579 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-heritage-insurance-vende-acciones-por-121579-dolares-93CH-3850410",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Irán no suavizará sus condiciones sobre Ormuz tras el rechazo de Trump",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/economy-news/iran-no-suavizara-sus-condiciones-sobre-ormuz-tras-el-rechazo-de-trump-3850407",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El COO de Okta, Eric Kelleher, vende 1,17 millones de dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-okta-eric-kelleher-vende-117-millones-de-dolares-en-acciones-93CH-3850405",
-      "d": "27 sept 2026"
+      "url": "https://www.bbc.com/mundo/articles/cw770pkk3gkpo?at_medium=RSS&at_campaign=rss",
+      "d": "28 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Cientos de personas acampan en Sol por la vivienda: \"O cae el rentismo, o cae el Gobierno\"",
-      "s": "La acampada se inició el sábado tras la manifestación que se celebró en el centro de Madrid para protestar por el desahucio de Maricarmen. Leer",
+      "t": "Adicet Bio presenta resultados en lupus y planea estudio pivotal",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/adicet-bio-presenta-resultados-en-lupus-y-planea-estudio-pivotal-93CH-3851142",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "BofA recorta el precio objetivo de MakeMyTrip por la débil demanda de viajes",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/bofa-recorta-el-precio-objetivo-de-makemytrip-por-la-debil-demanda-de-viajes-93CH-3851140",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "BofA recorta el precio objetivo de Vaxcyte por retraso en el lanzamiento",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/bofa-recorta-el-precio-objetivo-de-vaxcyte-por-retraso-en-el-lanzamiento-93CH-3851139",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Lilly lanza una iniciativa global de salud para el acceso a tratamientos de diabetes y obesidad",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/lilly-lanza-una-iniciativa-global-de-salud-para-el-acceso-a-tratamientos-de-diabetes-y-obesidad-93CH-3851133",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "La UE retrasará la ley de emisiones de metano tras presión de varios países",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/la-ue-retrasara-la-ley-de-emisiones-de-metano-tras-presion-de-varios-paises-93CH-3851132",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Investigadores españoles desarrollan una nueva IA que identifica señales de envejecimiento celular",
+      "s": "Investigadores de Cataluña desarrollan ChromAgeNet, un modelo de inteligencia artificial que identifica señales de envejecimiento en las células madre de la sangre y que puede complementar otros biomarcadores de edad como los relojes epigenéticos para diseñar estrategias de rejuvenecimiento. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/politica/2026/09/27/6ab8d51c468aeb26548b456d.html",
-      "d": "27 sept 2026"
+      "url": "https://www.expansion.com/estilo-vida/salud/2026/09/28/6aba3ce1e5fdea9c308b459d.html",
+      "d": "28 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El CVO de Everpure, John Colgrove, vende acciones por 11.000 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-cvo-de-everpure-john-colgrove-vende-acciones-por-11000-millones-de-dolares-93CH-3850403",
+      "t": "El dato oficial que confirma cuántos dólares compraron los argentinos desde la salida del cepo cambiario",
+      "s": "El Banco Central reveló, a través de su último Balance Cambiario, que sólo en agosto los argentinos adquirieron USD 2.853 millones. El reporte incluye también las ventas y el saldo neto que resulta de esa comparación",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/el-dato-oficial-que-confirma-cuantos-dolares-compraron-los-argentinos-desde-la-salida-del-cepo-cambiario/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El precio del petróleo sube tras el rechazo de Trump a las exigencias del régimen de Irán para reabrir el estrecho de Ormuz",
+      "s": "El Brent avanzó 3,1% hasta los 107,51 dólares por barril, mientras el West Texas Intermediate (WTI) subió 2,1% hasta los 94,32 dólares",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/america/mundo/2026/09/28/el-precio-del-petroleo-se-dispara-tras-el-rechazo-de-trump-a-la-propuesta-del-regimen-de-iran-para-reabrir-el-estrecho-de-ormuz/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "China y Estados Unidos acordaron recortar aranceles sobre importaciones por 60.000 millones de dólares",
+      "s": "La decisión abarca bienes no sensibles, desde cereales y carne norteamericanos hasta cafeteras, juguetes y ropa de cama procedentes del país asiático. Se anunció tras la cumbre de Xi Jinping y Donald Trump en Washington",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/estados-unidos/2026/09/28/china-y-estados-unidos-acordaron-recortar-aranceles-sobre-importaciones-por-60000-millones-de-dolares/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El Ibex hace frente al petróleo y a la IA",
+      "s": "La semana comienza con renovadas presiones bajistas en Asia y en EEUU, lastradas por el freno en el desarrollo de la IA. El rechazo de Trump a la propuesta de alto el fuego de Irán eleva de nuevo el precio del petróleo. El Ibex intenta ofrecer resistencia. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/28/6aba017be5fdea911e8b4584.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "En una semana el JP Morgan cambió tres veces de opinión sobre la Argentina: la última contrarió el optimismo previo",
+      "s": "El fenómeno refleja la etapa de volatilidad económica global. Qué dicen los análisis de las consultoras locales",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/en-una-semana-el-jpmorgan-cambio-tres-veces-de-opinion-sobre-la-argentina-la-ultima-contrario-el-optimismo-previo/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "JP Morgan recortó su previsión de crecimiento para la Argentina tras el desplome de la actividad en julio",
+      "s": "El prestigioso banco espera una contracción en el tercer trimestre y redujo a 1,5% su proyección para este año, la mitad de lo que pronostica el Gobierno. Además, prevé una contracción en el tercer trimestre, lo que significaría una recesión técnica. Mantuvo la expectativa de crecimiento de…",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/27/el-jp-morgan-recorto-su-prevision-de-crecimiento-para-la-argentina-tras-el-desplome-de-la-actividad-en-julio/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La Fed intimida de nuevo al oro y al bitcoin",
+      "s": "El oro cae a mínimos de siete semanas y el bitcoin gira a la baja. La jornada adquiere un sesgo negativo para el metal precioso y para la criptomoneda, con la Reserva Federal como denominador común de presión. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/09/28/6aba2c51e5fdeaa3798b458c.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Se están revirtiendo las reformas de auditoría posteriores al caso Enron",
+      "s": "Los reguladores tienen previsto limitar aún más los requisitos de auditoría impuestos por la Ley Sarbanes-Oxley. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/09/28/6aba2b8be5fdeaa77b8b4595.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La economía resiste el golpe del petróleo, pero teme un 'shock' en el diésel",
+      "s": "Las subidas del crudo se traducen en una mejor evolución de sectores ligados a materias primas y financieros. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/opinion/2026/09/28/6aba2959468aebbe2f8b4584.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La Bolsa se acerca al \"punto de ebullición\"",
+      "s": "Dos de los datos macro más cruciales confluyen en la semana que arranca hoy. Sus cifras pueden añadir más dosis adicionales de tensión a unos mercados, según advierten los analistas, que se acercan al \"punto de ebullición\". Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/09/27/6ab659bd468aeb83558b459d.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión de servicios hasta 2049: se esperan inversiones por USD 600 millones",
+      "s": "La original vencía en 2038; su extensión surgió de una renegociación por el impacto de la pandemia sobre la actividad aeroportuaria. Las inversiones deberán realizarse antes de 2031",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/el-gobierno-y-aeropuertos-argentina-acordaron-extender-la-concesion-de-servicios-hasta-2049-se-esperan-inversiones-por-usd-600-millones/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Iniciaron un nuevo proceso de privatización de las acciones de Enarsa",
+      "s": "La decisión prevé vender las tenencias estatales en TMB y TSM y, posteriormente, la participación que Enarsa recibirá en la central Guillermo Brown",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/iniciaron-un-nuevo-proceso-de-privatizacion-de-las-acciones-de-enarsa/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Avanza compra consolidada 2027-2028 de medicamentos",
+      "s": "Fueron asignadas 626 claves a 102 empresas, de las 766 claves contempladas, que en conjunto representan alrededor de 3,200 millones de piezas y una inversión cercana a 84,000 mdp.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/avanza-compra-consolidada-2027-2028-medicamentos-20260928-835622.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "ENI prevé producir más de 100,000 barriles por día en México",
+      "s": "El operador privado más grande del país alcanzó un pico productivo en los campos que opera: 95,700 barriles diarios de petróleo crudo equivalente en sus campos Amoca, Miztón y Tecoalli.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/eni-preve-producir-100-000-barriles-dia-mexico-20260928-835620.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Brasil alarga subsidio al diésel ante volatilidad",
+      "s": "El ministerio de Hacienda de Brasil prorrogó una subvención al gasóleo, con efecto a partir del domingo 27 de septiembre, alegando la persistente volatilidad de los precios internacionales del petróleo y los combustibles, según informó el ministerio en un comunicado emitido el sábado.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/brasil-alarga-subsidio-diesel-volatilidad-20260928-835615.html",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "¿De “recesión técnica” a recesión a secas?: Economía espera un repunte de actividad, pero los privados ven difícil revertir la fuerte caída de julio",
+      "s": "Tras los recientes datos del Indec, estiman necesario un crecimiento cercano a 3% mensual para que el tercer trimestre arroje un saldo positivo. Según la Secretaría de Finanzas, están dadas todas las condiciones para el rebote",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/de-recesion-tecnica-a-recesion-a-secas-economia-espera-un-repunte-de-actividad-pero-los-privados-ven-dificil-revertir-la-fuerte-caida-de-julio/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La deuda soberana enfrenta vencimientos por USD 20.000 millones en 2027, en medio de la incertidumbre electoral",
+      "s": "El Gobierno deberá afrontar pagos a acreedores privados, al Fondo Monetario Internacional y por Bopreal en un año marcado por la definición de candidaturas, la suba de tasas de interés en Estados Unidos y el salto del índice de riesgo país",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/28/la-deuda-soberana-enfrenta-vencimientos-por-usd-20000-millones-en-2027-en-medio-de-la-incertidumbre-electoral/",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "La imagen de la protesta de la selección de Irlanda antes de un partido contra Israel para \"generar conciencia en el mundo\" sobre Gaza",
+      "s": "Los jugadores de la República de Irlanda e Israel no se dieron la mano ni antes ni después del polémico partido de la Liga de Naciones de la UEFA que se disputó el domingo en Hungría.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/c6vgyx9949gzo?at_medium=RSS&at_campaign=rss",
+      "d": "28 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
+      "s": "Mientras los prisioneros de guerra nazis de alto rango se relajaban y charlaban en las elegantes habitaciones de Trent Park, en el sótano los escuchaban en secreto.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cdrvp7plr08o?at_medium=RSS&at_campaign=rss",
+      "d": "27 sept 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Cómo logra Japón mantener sus calles limpias con tan pocos cestos de basura",
+      "s": "La escasez de papeleras en Japón responde a una combinación de factores que van desde un atentado mortal en 1995 hasta arraigadas normas de convivencia.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&at_campaign=rss",
       "d": "27 sept 2026"
     },
     {
@@ -142,136 +282,6 @@
       "d": "27 sept 2026"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "No es la recesión ni el repunte de la pobreza: los mercados le tienen pánico al regreso de las recetas populistas",
-      "s": "La suba de tasas en Estados Unidos también impactó sobre el riesgo país, pero los inversores siguen con preocupación que el kirchnerismo se mantiene competitivo para las próximas elecciones. Qué dejó la sorpresiva gira de Axel Kicillof por Nueva York",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/no-es-la-recesion-ni-el-repunte-de-la-pobreza-los-mercados-le-tienen-panico-al-regreso-de-las-recetas-populistas/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Clima de Negocios: quiénes son los empresarios de la economía que “vuela” que acompañarán a Milei en la Argentina Week de París",
-      "s": "El evento tendrá lugar la semana que viene en Francia. El objetivo es explicar los cambios que lleva adelante el Gobierno y captar inversiones. Macron, premio y más",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/clima-de-negocios-quienes-son-los-empresarios-de-la-economia-que-vuela-que-acompanaran-a-milei-en-la-argentina-week-de-paris/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "“Acuerdo entre privados”: los bancos están refinanciando a 115.000 clientes en mora por mes",
-      "s": "El dato es del Banco Central. Apunta a que, por la vía que quiere el Gobierno, se vaya normalizando la irregularidad del sistema. Qué planes aplicaron las principales entidades",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/acuerdo-entre-privados-los-bancos-estan-refinanciando-a-115000-clientes-en-mora-por-mes/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Riesgo país arriba de 600 puntos: dos factores externos y tres locales detrás de la caída de los bonos argentinos",
-      "s": "El indicador de JP Morgan subió más de 50% desde el mínimo de julio. La suba de las tasas internacionales, el petróleo caro y las dudas sobre reservas, financiamiento y política nacional explican el deterioro de los activos locales",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/riesgo-pais-arriba-de-600-puntos-dos-factores-externos-y-tres-locales-detras-de-la-caida-de-los-bonos-argentinos/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Caputo y Kicillof en Nueva York ante inversores: con qué se volvió cada uno y lo que lograron sin coincidir en una sola palabra",
-      "s": "El ministro de Economía y el gobernador bonaerense mantuvieron agendas separadas ante inversores estadounidenses, con resultados y mensajes opuestos que despertaron reacciones inmediatas dentro del oficialismo nacional. El silencio de los empresarios en Argentina",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/caputo-y-kicillof-en-nueva-york-ante-inversores-con-que-se-volvio-cada-uno-y-lo-que-lograron-sin-coincidir-en-una-sola-palabra/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Martín Kalos, de Epyca Consultores: “La contracción económica del segundo trimestre no fue un accidente”",
-      "s": "El economista analizó la caída de la actividad en el segundo trimestre y advirtió que la demanda interna deprimida y la falta de empleo de calidad configuran un problema estructural",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/27/martin-kalos-de-epyca-consultores-la-contraccion-economica-del-segundo-trimestre-no-fue-un-accidente/",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Gilberto Mora rescata al Tri: México empata con Colombia en debut de Rafa Márquez",
-      "s": "El juvenil de 17 años marcó su primer gol con la Selección Mexicana para firmar el 1-1 ante Colombia en Baltimore",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/deportes/gilberto-mora-rescata-tri-mexico-empata-colombia-debut-rafa-marquez-20260926-835501.html",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Miles marchan en México para exigir respuestas al caso Ayotzinapa 12 años después",
-      "s": "Los padres de los jóvenes de Ayotzinapa encabezaron la movilización en la que también participaron otros normalistas uniformados y en marcha casi marcial, además de activistas y gente de a pie.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/miles-marchan-mexico-exigir-respuestas-caso-ayotzinapa-12-anos-20260926-835502.html",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Alcaldesa de León destaca municipio con finanzas sanas",
-      "s": "El gobierno estatal ha destinado más de 5,128 mdp al municipio durante los dos años del actual periodo",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/estados/alcaldesa-leon-destaca-municipio-finanzas-sanas-20260926-835500.html",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Alexis Vega aplica un “Messi”: analiza retirarse de la Selección Mexicana",
-      "s": "El capitán del Toluca reveló que medita su continuidad con el Tri tras quedar inconforme con los minutos que disputó en el Mundial 2026; adelantó que próximamente dará a conocer su decisión",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/deportes/alexis-vega-aplica-messi-analiza-retirarse-seleccion-mexicana-20260926-835497.html",
-      "d": "27 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Trump rechaza la oferta de Irán para reabrir el estrecho de Ormuz en 7 días",
-      "s": "El fin del conflicto entre Irán y Estados Unidos parece cada vez más lejano, después de que el presidente estadounidense calificara de \"inaceptable\" la última oferta presentada por Teherán.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss",
-      "d": "26 sept 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "\"Google no reemplaza ni actúa como un médico\"",
-      "s": "El responsable del área de salud en el gigante tecnológico explica cómo llevan la IA a hospitales de todo el mundo, y marca los límites entre informar y diagnosticar. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/companias/2026/09/26/6ab63b6ee5fdea01248b4595.html",
-      "d": "26 sept 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Sobre latas de aceitunas, anchoas y la IA",
-      "s": "El modus operandi del ciudadano debe captar con corrección el significado de lo que accede o utiliza. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/09/26/6ab7a4c8e5fdeacf508b45a8.html",
-      "d": "26 sept 2026"
-    },
-    {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
@@ -282,23 +292,13 @@
       "d": "26 sept 2026"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Nicaragua: el narcotráfico y el crimen organizado son \"formas de terrorismo\" \"formas de terrorismo\"",
-      "s": "Valdrack Ludwing Jaentschke Whitaker destaca \"la fuerza que han mostrado los países del BRICS\", un grupo de países emergentes, entre los que se encuentra Brasil y la India, frente a lo que considera los flagelos de nuestro tiempo.",
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "El ébola sigue sin remitir y se extiende por la República Democrática del Congo",
+      "s": "El país notifica más de 7700 casos confirmados y 3700 muertes, en un contexto marcado por el conflicto armado y los desplazamientos de la población. La agencia de migraciones advierte que la tasa de letalidad en los campamentos de desplazados internos alcanza el 81% e insiste en ampliar la…",
       "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541982",
-      "d": "26 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
-      "s": "La primera ministra de Italia, Giorgia Meloni, describió las medidas como \"instrumentos de sentido común que no dividen, sino que realmente ayudan a integrar\".",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cje3rr1lkrv7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541973",
       "d": "25 sept 2026"
     }
   ]
