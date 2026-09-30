@@ -1,305 +1,305 @@
 {
-  "actualizado": "2026-09-29T11:06:42.552Z",
+  "actualizado": "2026-09-30T11:07:01.476Z",
   "items": [
     {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "\"Incluso las personas que más han sufrido la represión reconocen que hay una ventana de oportunidad hacia la democratización en Venezuela\"",
+      "s": "Juanita Goebertus, directora de la División de las Américas de Human Rights Watch, reconoce que hay una \"pausa\" en la represión en Venezuela, pero advierte que la transición todavía es \"extremadamente frágil\".",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cwn8mdd5502do?at_medium=RSS&at_campaign=rss",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El bitcoin firma su mejor trimestre desde 2024",
+      "s": "El tercer trimestre ha dado un vuelco a la cotización del bitcoin. Finalizó junio en mínimos del año, y hoy cierra septiembre en zona de máximos desde enero, todo ello fruto de su trimestre más alcista desde 2024. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/criptomonedas/2026/09/30/6abcdf4de5fdea8f628b4574.html",
+      "d": "30 sept 2026"
+    },
+    {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Javier Valle (VidaCaixa): \"Espero que el próximo Gobierno incentive el ahorro a largo plazo\"",
+      "t": "Azcón: \"El Gobierno amenaza proyectos de centros de datos que ya están en marcha\"",
+      "s": "El presidente de Aragón, Jorge Azcón, carga contra el Real Decreto que prepara el Ejecutivo nacional sobre centros de datos, que haría inviables numerosas inversiones proyectadas en la región. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/30/6abce7f1468aeb5b3e8b4594.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Navantia se alía con la tecnológica gallega Marine Instruments para sistemas de vigilancia dual",
       "s": "Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abb7ab5468aeb775b8b4573.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/empresas/2026/09/30/6abcea58468aeb7e0e8b458a.html",
+      "d": "30 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "El Gobierno buscará aprobar este viernes en el Congreso los dos decretos de vivienda",
-      "s": "Después de retrasar el Consejo de Ministros, los partidos del Gobierno de coalición anuncian un acuerdo para aprobar dos decretos de vivienda. Intentará aprobarlos el viernes en un pleno extraordinario del Congreso. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abb818c468aeb1f4f8b459e.html",
-      "d": "29 sept 2026"
+      "t": "Oppenheimer reitera su calificación de Tectonic Therapeutics tras datos de TX2100",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/oppenheimer-reitera-su-calificacion-de-tectonic-therapeutics-tras-datos-de-tx2100-93CH-3855226",
+      "d": "30 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Las imágenes del XVII Encuentro Financiero EXPANSIÓN-KPMG",
-      "s": "Los líderes de los principales bancos y aseguradoras junto a los supervisores y reguladores se dan cita en el gran Encuentro Financiero EXPANSIÓN-KPMG, para analizar los retos económicos y financieros. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/encuentro-financiero/album/2026/09/28/6aba26ace5fdea5f5e8b458e.html",
-      "d": "29 sept 2026"
+      "t": "Oppenheimer inicia cobertura de Cavco Industries con Mejor Rendimiento",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/oppenheimer-inicia-cobertura-de-cavco-industries-con-mejor-rendimiento-93CH-3855225",
+      "d": "30 sept 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "5 consejos de expertos para cuidar la piel adolescente y evitar rutinas que pueden afectarla",
-      "s": "Desde cómo reventar los granos hasta cómo dormir lo suficiente, los expertos comparten sus consejos sobre la mejor manera de cuidar la piel de los adolescentes.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6p93ln4vl7yo?at_medium=RSS&at_campaign=rss",
-      "d": "29 sept 2026"
+      "t": "Evercore ISI mantiene su calificación de MongoDB por el impulso del negocio",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/evercore-isi-mantiene-su-calificacion-de-mongodb-por-el-impulso-del-negocio-93CH-3855224",
+      "d": "30 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Cómo Londres se convirtió en la oveja negra del mercado inmobiliario",
-      "s": "El boom inmobiliario de la capital, en su día imparable, ha dado un giro. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/29/6abb9273468aeb1f4f8b45a8.html",
-      "d": "29 sept 2026"
+      "t": "Goldman Sachs señala estas acciones de telecos como compras defensivas pese al riesgo de la IA",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/goldman-sachs-senala-estas-acciones-de-telecos-como-compras-defensivas-pese-al-riesgo-de-la-ia-3855228",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "Coastal Africa Group nombra a Osten Olorunsola miembro de su consejo",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/coastal-africa-group-nombra-a-osten-olorunsola-miembro-de-su-consejo-93CH-3855222",
+      "d": "30 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El Ibex respira a la espera de mayores novedades",
-      "s": "La presión del petróleo y de los intereses de la deuda persiste sobre unos mercados que aguardan las próximas referencias macroeconómicas. La espera suaviza los movimientos, y el Ibex busca una tregua tras las caídas de ayer. Leer",
+      "t": "Caputo descartó un “plan platita” para reactivar la economía: el foco es controlar el dólar y bajar más la inflación",
+      "s": "“Los que creen que van a salir pesos de algún lado para comprar dólares, sepan que no va a ser así”, explicó ante ejecutivos de finanzas. Además, dijo que hay recursos de sobra para responder a un aumento de la demanda de divisas",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/30/caputo-descarto-un-plan-platita-para-reactivar-la-economia-el-foco-es-controlar-el-dolar-y-bajar-mas-la-inflacion/",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Lidl dispara el beneficio un 20% en España y supera los 7.600 millones en ventas",
+      "s": "La cadena alemana, que en 2025 abrió 40 nuevos establecimientos en el país, facturó un 10% más. Este año prevé inaugurar otro medio centenar de supermercados. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/29/6abb516e468aeb08278b457f.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/empresas/distribucion/2026/09/30/6abce3e2468aeb9c228b45b6.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Cabral Gold completa su primera venta de doré desde su proyecto en Brasil",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/cabral-gold-completa-su-primera-venta-de-dore-desde-su-proyecto-en-brasil-93CH-3855196",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El Ibex restaura la confianza",
+      "s": "La minitregua en el petróleo y en la deuda permite afrontar con mayor confianza uno de los datos clave de la semana, el indicador preferido de inflación de la Fed. El Ibex apunta al rebote después de cerrar en negativo cuatro de las cinco sesiones anteriores. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/30/6abca3cce5fdeae2348b4595.html",
+      "d": "30 sept 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "Hugo Serra (Occident): \"Utilizar la IA a las bravas puede ser una decisión empresarial desastrosa\"",
-      "s": "La aplicación de tecnología y en particular de la inteligencia artificial (IA) a la actividad aseguradora es una importante palanca de crecimiento, pero hay una cara b que también conviene tener en consideración. Leer",
+      "t": "Mercadona crea Atenea, su propia IA para desarrollar software",
+      "s": "Su equipo técnico ha diseñado la herramienta específica para que \"entienda\" la actividad de la cadena de supermercados. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abb87a0e5fdeac26f8b459e.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/valencia/2026/09/30/mercadona-crea-atenea-propia-ia-desarrollar-software.html",
+      "d": "30 sept 2026"
     },
     {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "El Ejecutivo prorroga hasta diciembre las bonificaciones fiscales a los carburantes",
-      "s": "El nuevo decreto anticrisis del Gobierno mantendrá hasta final de año los descuentos a los carburantes en el Impuesto de Hidrocarburos, que se irán reduciendo de manera gradual: 20 céntimos por litro en octubre, 13 céntimos en noviembre y 6 céntimos en diciembre. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abb90eb468aeb171b8b457d.html",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Los videojuegos me pagan el doble de lo que ganaba como maestra",
-      "s": "La indsutria de los videojuegos ha crecido considerablemente en los últimos años en Reino Unido.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cq0lrd5gr035o?at_medium=RSS&at_campaign=rss",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Stadler apuesta por la cantera: Philipp Brunner será el nuevo CEO del grupo",
-      "s": "Lleva 16 años en la compañía y ha liderado operaciones en India, Argelis y Europa del Este. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/valencia/2026/09/29/6abb8219e5fdea231a8b459f.html",
-      "d": "29 sept 2026"
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Vuelven las pickups nafteras a la Argentina: qué se sabe de los nuevos modelos que llegarán en 2027",
+      "s": "Más allá de la llegada del híbrido, las dos nuevas versiones de Ford Ranger tendrán un motor turbo que carga nafta Súper y bajará el costo de uso.",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/30/vuelven-las-pickups-nafteras-a-la-argentina-que-se-sabe-de-los-nuevos-modelos-que-llegaran-en-2027/",
+      "d": "30 sept 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "AXA, Santander y Santalucía aceleran el giro del seguro hacia la prevención",
-      "s": "El sector asegurador busca trascender la mera compensación económica ante siniestros para convertirse en un acompañante continuo a lo largo de la vida del cliente, apoyándose en la tecnología y haciendo frente al reto demográfico y la longevidad. Leer",
+      "t": "Las factorías de IA chocan con el decreto de los centros de datos: \"Nos cargamos una industria\"",
+      "s": "Los actores del sector alertan de que la regulación que prepara el Gobierno puede comprometer inversiones ligadas a la inteligencia artificial en España. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abb8682e5fdea1b2e8b45a6.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/09/30/6abcd6bce5fdea8f628b456d.html",
+      "d": "30 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El Gobierno anuncia un tope al gas y al butano para contener los precios que desafía a Bruselas",
-      "s": "Leer",
+      "t": "Kia, más de una década entre las marcas favoritas de los conductores en España",
+      "s": "La firma coreana, que acaba de lanzar un nuevo XCeed con versiones microhíbridas y de gasolina, reivindica su \"gran salto en imagen de marca\" frente a los nuevos competidores chinos, que apuestan por un \"posicionamiento de precios bajos\" y una \"estrategia comercial a muy corto plazo\". Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/09/29/6abb84cd468aeb637f8b459f.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/empresas/motor/2026/09/30/6abcbd26468aebbb0e8b4591.html",
+      "d": "30 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La empresa cripto Blockchain.com ultima su salida a Bolsa",
-      "s": "La reciente escalada protagonizada por el mercado cripto anima a una de las empresas pioneras del sector, Blockchain.com, a activar el proceso para debutar en Bolsa. Leer",
+      "t": "El Gobierno incluye la cuenta europea de inversión en el decreto de vivienda",
+      "s": "El Consejo de Ministros ha aprobado la Cuenta de Ahorro e Inversión Financia Europa y el Seguro Individual de Ahorro a Largo Plazo Financia Europa (SIALPFE), según figura en el decreto de medidas urgentes sobre vivienda que publica este miércoles el Boletín Oficial del Estado (BOE). Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/09/29/6abb7c8ce5fdea90178b4590.html",
-      "d": "29 sept 2026"
+      "url": "https://www.expansion.com/inversion/2026/09/30/6abccab4e5fdeab6348b4592.html",
+      "d": "30 sept 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La inflación se dispara hasta el 4,9% en septiembre por las gasolinas",
-      "s": "La tasa interanual del Índice de Precios de Consumo (IPC), principal indicador de la inflación sube seis décimas más en septiembre hasta rozar el 5% al terminar el tercer trimestre del año por la presión energética. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abb5db0e5fdea3e108b4582.html",
+      "t": "¿Por qué el dólar fuerte no alcanza para explicar la depreciación del peso?",
+      "s": "Hasta hace muy poco, la pregunta era ¿cómo explicar que el peso mexicano se mantiene extremadamente fuerte, a pesar de todo: guerras, Trump, incertidumbre del T-MEC, Reforma Judicial, calificadoras, etcétera?",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/dolar-fuerte-alcanza-explicar-depreciacion-peso-20260930-836047.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Más presupuesto, más carencias: la paradoja del gasto social en México",
+      "s": "Conforme a los Criterios Generales de Política Económica para 2027, el gasto en protección social propuesto para el próximo año alcanzará un nivel sin precedentes. Históricamente, estos recursos han tenido un papel protagónico en el Presupuesto de Egresos de la Federación (PEF) al buscar, en…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/presupuesto-carencias-paradoja-gasto-social-mexico-20260930-836046.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Avanza en San Lázaro \"Ley Antimemes\"",
+      "s": "La Comisión de Economía, Comercio y Competitividad de la Cámara de Diputados avanzó con la aprobación de llamada “Ley Antimemes”, una iniciativa de la presidenta Claudia Sheinbaum que busca obligar a los proveedores de servicios de Internet a generar controles para proteger los derechos de autor.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/avanza-san-lazaro-ley-antimemes-20260930-836037.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Prevén sumar más de 7,400 camas de hospital",
+      "s": "La presidenta de México, Claudia Sheinbaum Pardo, informó que durante la presente administración se proyecta la adición de más de 7,400 camas de hospital en el país, mediante una inversión presupuestal que superará los 180,000 millones de pesos dentro del sistema público de salud.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/preven-sumar-7-400-camas-hospital-20260930-836036.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Desmitifican perfil de agresores sexuales en México",
+      "s": "Mediante un tamizaje realizado a 511 personas privadas de la libertad sentenciadas por delitos sexuales se identificó síntomas depresivos en 13.5% de los participantes, síntomas moderados o graves de ansiedad en 8.2% y estrés postraumático en 7.2%.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/desmitifican-perfil-agresores-sexuales-mexico-20260930-836034.html",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Bitcoin despega: ¿qué debería tener en cuenta un inversor cuando un activo sube?",
+      "s": "Conviene limitar la exposición a capital que pueda perderse y estudiar el funcionamiento del activo, ante la volatilidad que puede llevar a ventas prematuras durante las caídas del mercado",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/09/30/bitcoin-despega-que-deberia-tener-en-cuenta-un-inversor-cuando-un-activo-sube/",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Argentina Week: con una cena en la embajada con el ministro de Economía francés, comienza hoy la semana parisina del Gobierno de Milei",
+      "s": "El evento, que organiza la representación diplomática que encabeza Ian Sielecki, será la antesala de dos jornadas en las que expondrán referentes de sectores estratégicos, como energía, agro y minería. Mañana hablarán Javier Milei y Luis Caputo",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/30/argentina-week-con-una-cena-en-la-embajada-con-el-ministro-de-economia-frances-comienza-hoy-la-semana-parisina-del-gobierno-de-milei/",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Misión del FMI en la Argentina: qué información clave le pidió al sector que más dólares aporta a la economía",
+      "s": "La comitiva del organismo internacional, encabezada por Joyce Wong, buscó precisiones sobre las cosechas y exportaciones del campo para la campaña 2026/2027. Las cifras que se proyectan",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/30/mision-del-fmi-en-la-argentina-que-informacion-clave-le-pidio-al-sector-que-mas-dolares-aporta-a-la-economia/",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Repuntaron los bonos y cayó el riesgo país pero el mercado limita el horizonte a octubre de 2027",
+      "s": "Las compras del Banco Central impulsaron a la deuda, aunque la brecha de rendimientos entre vencimientos refleja cautela ante el calendario electoral",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/09/30/repuntaron-los-bonos-y-cayo-el-riesgo-pais-pero-el-mercado-limita-el-horizonte-a-octubre-de-2027/",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "Fatima Zahra El Mansouri, la primera mujer elegida primera ministra de Marruecos",
+      "s": "Fatima Zahra El Mansouri fue designada por el rey en el cargo de primera ministra. Así se convierte en la primera mujer en el alto puesto y la segunda en liderar un gobierno en el mundo árabe.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cw14d3vv2egjo?at_medium=RSS&at_campaign=rss",
+      "d": "30 sept 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "\"Me tendieron una trampa\": el periodista estadounidense que fue detenido por hombres enmascarados y pasó 16 meses en una cárcel de Rusia",
+      "s": "Evan Gershkovich dice que se dio cuenta de que era \"un peón en un juego mayor\" cuando no fue interrogado ni torturado por agentes de inteligencia rusos.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/c6p3kelnvq3po?at_medium=RSS&at_campaign=rss",
       "d": "29 sept 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "La abogada de Maricarmen asegura que la anciana podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
-      "s": "De acuerdo a lo señalada por la abogada, la empresa dueña del inmueble le dejará pagar un precio de alquiler acorde a la pensión que recibe.",
+      "t": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
+      "s": "De acuerdo a lo señalada por la abogada, la empresa dueña del inmueble le dejará pagar un alquiler acorde a la pensión que recibe.",
       "src": "BBC Mundo",
       "url": "https://www.bbc.com/mundo/articles/c9gk5lxv7kx4o?at_medium=RSS&at_campaign=rss",
       "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Rumbo a 2032. La consolidación fiscal no se logra con buenos deseos",
-      "s": "En entregas anteriores advertí que el Paquete Económico 2027 nos aproxima a la insostenibilidad fiscal, con una consolidación (reducción del déficit fiscal) magra atada a proyecciones y asignaciones mediocres. Conviene analizar ahora la visión de mediano y largo plazo que los Criterios de Política…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/rumbo-2032-consolidacion-fiscal-logra-buenos-deseos-20260929-835821.html",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Rusia ataca la Academia de Ciencias en Kiev",
-      "s": "Al menos dos personas murieron ayer cuando un dron impactó contra la Academia Nacional de Ciencias en el centro de Kiev, mientras Rusia bombardeaba el corazón de la capital ucraniana con algunos de los ataques con drones más persistentes desde el comienzo de la guerra.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/rusia-ataca-academia-ciencias-kiev-20260929-835818.html",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "México exporta más servidores, pero sigue dependiendo de EU",
-      "s": "Las exportaciones mexicanas aumentaron 40.4% en agosto respecto al mismo mes del año pasado, de acuerdo con el Inegi. Las de equipos eléctricos y electrónicos crecieron 122.3% en el mismo periodo, mientras las automotrices disminuyeron 2.2%. Las cifras muestran cómo está cambiando la composición de…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/mexico-exporta-servidores-sigue-dependiendo-eu-20260929-835814.html",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Trump de Golfo a Estrecho",
-      "s": "Hay personas a las que les da por coleccionar estampillas, monedas, coches antiguos o amantes jóvenes. Donald Trump, hombre de aficiones múltiples, parece haber agregado a su colección los accidentes geográficos.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/trump-golfo-estrecho-20260929-835810.html",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Economía no colocó bonos en dólares para no convalidar tasas altas por tercera vez y hay dudas por el plan financiero 2027",
-      "s": "El año próximo el equipo económico planteó la colocación de USD 5.000 millones de Bonar 2029 como parte del plan financiero. Con un riesgo país arriba de los 600 puntos, esa posibilidad luce más difusa",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/economia-no-coloco-bonos-en-dolares-para-no-convalidar-tasas-altas-por-tercera-vez-y-hay-dudas-por-el-plan-financiero-2027/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Dólares, superávit y un posible “perdón”: las claves de la misión del FMI que revisa las metas del acuerdo con la Argentina",
-      "s": "El Gobierno accedería a un nuevo “perdón” del organismo por no alcanzar el objetivo de superávit fiscal primario en el primer semestre. La novedad respecto a la acumulación de reservas internacionales",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/dolares-superavit-y-un-posible-perdon-las-claves-de-la-mision-del-fmi-que-revisa-las-metas-del-acuerdo-con-la-argentina/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "La advertencia del presidente de una automotriz: “A la Argentina le está costando entender las nuevas reglas de juego”",
-      "s": "Martín Galdeano, CEO de Ford Argentina y Sudamérica, participó de los festejos por los 65 años de la planta de Pacheco y dejó varias frases de alto impacto sobre la industria automotriz local",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/la-advertencia-del-presidente-de-una-automotriz-a-la-argentina-le-esta-costando-entender-las-nuevas-reglas-de-juego/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "La Argentina se ubica entre los cuatro mercados aéreos más grandes de la región, con un tráfico que se duplicaría en 2045",
-      "s": "Con 50 millones de pasajeros en 2025, el país lidera el podio detrás de Brasil, México y Colombia. La asamblea anual de Airports Council International estima 1.500 millones de pasajeros en Latinoamérica hacia 2045",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/la-argentina-se-ubica-entre-los-cuatro-mercados-aereos-mas-grandes-de-la-region-con-un-trafico-que-se-duplicaria-en-2045/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Milei identificó una nueva fuente para detener una eventual corrida del dólar en 2027: cuál es y las dudas sobre su uso",
-      "s": "El presidente aseguró que cuenta con la posibilidad de intervenir en contratos a futuro por USD 15.000 millones, pero, según fuentes especializadas, hay un tope de intervención menor que se fijó durante el gobierno de Mauricio Macri",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/milei-identifico-una-nueva-fuente-para-detener-una-eventual-corrida-del-dolar-en-2027-cual-es-y-las-dudas-sobre-su-uso/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Dólar, reservas y bonos: por qué el mercado volvió a elevar la cautela y sube el riesgo país",
-      "s": "La tensión internacional, el bajo ritmo de compra de divisas y la caída de activos locales profundizaron las dudas de los inversores sobre la capacidad de pago de la deuda",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/29/dolar-reservas-y-bonos-por-que-el-mercado-volvio-a-elevar-la-cautela-y-sube-el-riesgo-pais/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Polarizar con el riesgo K conspira contra el crecimiento económico",
-      "s": "Aunque la baja de la inflación y el orden de las cuentas públicas detienen el deterioro estatal, la falta de inversión privada frena la reactivación sostenida en Argentina",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/opinion/2026/09/29/polarizar-con-el-riesgo-k-conspira-contra-el-crecimiento-economico/",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "La BBC en primera línea de fuego de la guerra civil de Yemen, el conflicto que amenaza la seguridad energética mundial",
-      "s": "En un acceso poco frecuente a la zona de conflicto de Yemen, la BBC entra en una ciudad donde resuenan los disparos provenientes de las colinas circundantes.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cv8e3zj7rkj3o?at_medium=RSS&at_campaign=rss",
-      "d": "29 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Jorge Colina: “Para crecer en serio, Argentina necesita llevar la inversión al 25% del PBI”",
-      "s": "El economista de Idesa analizó la caída de la inversión productiva, que representa el 15,1% del PBI, y señaló a la desconfianza, el cepo, las tasas y la presión tributaria como obstáculos para el crecimiento",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/28/jorge-colina-para-crecer-en-serio-argentina-necesita-llevar-la-inversion-al-25-del-pbi/",
-      "d": "28 sept 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Licitación clave: el Gobierno renovó todos los vencimientos y evitó inyectar pesos en el mercado",
-      "s": "El Tesoro cubrió íntegramente los compromisos por más de $8,6 billones que operaban en la jornada y descartó dejar circulante extra en la plaza financiera",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/09/28/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-y-evito-inyectar-pesos-en-el-mercado/",
-      "d": "28 sept 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Alerta en la costa del Pacífico de México ante la llegada del huracán Polo a la península de Baja California",
-      "s": "La tormenta de categoría 3 se acerca al estado de Baja California Sur, en la costa del Pacífico noroeste de México.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cw5yln0l9rqmo?at_medium=RSS&at_campaign=rss",
-      "d": "28 sept 2026"
     }
   ]
 }
