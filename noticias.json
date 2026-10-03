@@ -1,305 +1,305 @@
 {
-  "actualizado": "2026-10-02T11:06:26.834Z",
+  "actualizado": "2026-10-03T12:00:21.895Z",
   "items": [
     {
-      "r": "americas",
-      "tag": "Américas",
+      "r": "mundo",
+      "tag": "Mundo",
       "art": "polar",
-      "t": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "s": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cm70d0xew430o?at_medium=RSS&at_campaign=rss",
-      "d": "2 oct 2026"
+      "t": "Playoffs MLB 2026: horarios y dónde ver los juegos de este fin de semana",
+      "s": "Este sábado 3 de octubre se disputarán los primeros partidos de las cuatro Series Divisionales, mientras que el domingo continuará la actividad de la Liga Nacional. Las eliminatorias se juegan al mejor de cinco encuentros, por lo que el primer equipo que consiga tres victorias avanzará a la Serie…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/deportes/playoffs-mlb-2026-horarios-ver-juegos-semana-20261003-836678.html",
+      "d": "3 oct 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "ACCO Brands completa la adquisición de Trust",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/acco-brands-completa-la-adquisicion-de-trust-93CH-3858858",
-      "d": "2 oct 2026"
+      "t": "Los Dodgers esperan a Ohtani en los playoffs para conquistar el tricampeonato",
+      "s": "Los Dodgers quieren lograr el primer tricampeonato de la Serie Mundial desde que los Yankees de Nueva York ganaron el título en 1998, 1999 y 2000.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/deportes/dodgers-esperan-ohtani-playoffs-conquistar-tricampeonato-20261003-836677.html",
+      "d": "3 oct 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "TD Cowen rebaja el precio objetivo de McCormick a 48 dólares por preocupaciones de volumen",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/td-cowen-rebaja-el-precio-objetivo-de-mccormick-a-48-dolares-por-preocupaciones-de-volumen-93CH-3858853",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Qué días de noviembre no abrirán los bancos por la visita a la Argentina de León XIV",
-      "s": "La llegada del Papa alterará la actividad bancaria y el calendario de feriados en distintas jurisdicciones del país durante noviembre",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/02/que-dias-de-noviembre-no-abriran-los-bancos-por-la-visita-a-la-argentina-de-leon-xiv/",
-      "d": "2 oct 2026"
+      "t": "Las manifestaciones por la vivienda recorren todo el país con llamadas a la huelga general",
+      "s": "La portavoz del Sindicato de Inquilinas de Madrid, Valeria Racu, aseguró este sábado que, \"pase lo que pase a nivel electoral, el camino está claro que es hacia la huelga general\", algo que, anunció, \"será pronto\". Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/03/6ac0e1dbe5fdeaff178b4594.html",
+      "d": "3 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "¿Dónde invertir según los datos del informe de empleo en EEUU?",
+      "t": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
       "s": "Consulta la noticia completa en Investing.com.",
       "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/donde-invertir-segun-los-datos-del-informe-de-empleo-en-eeuu-3858849",
+      "url": "https://es.investing.com/news/commodities-news/mas-alla-del-surtidor-cuanto-petroleo-consumimos-realmente-3859710",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La OPEP+ evalúa su oferta petrolera tras la liberación de reservas del G7",
+      "s": "La alianza OPEP+, liderada por Arabia Saudí y Rusia, evaluará este domingo si reajusta el nivel de su oferta de crudo en noviembre, después del anuncio de los países del G7 de liberar 100 millones de barriles de petróleo para frenar el encarecimiento de los combustibles. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/energia/2026/10/03/6ac0d2c0468aeb02568b457e.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Director de Auburn National, William Ham Jr., compra 1.288 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/director-de-auburn-national-william-ham-jr-compra-1288-dolares-en-acciones-93CH-3859708",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La vicepresidenta senior de Qualcomm Patricia Grech vende 18.281 dólares en acciones QCOM",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/la-vicepresidenta-senior-de-qualcomm-patricia-grech-vende-18281-dolares-en-acciones-qcom-93CH-3859707",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "La mitad de los votantes británicos, a favor de volver a la UE",
+      "s": "La mitad de los votantes británicos se muestran a favor del retorno de Reino Unido a la Unión Europea, según un sondeo que publica este sábado el diario The Guardian, elaborado con motivo de la preferencia expresada por el primer ministro, Andy Burnham, en ese sentido. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/politica/2026/10/03/6ac0c8c5468aeb056a8b4577.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La deuda de EE.UU. podría alcanzar el 160% del PIB en una década",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/la-deuda-de-eeuu-podria-alcanzar-el-160-del-pib-en-una-decada-3859703",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El director de marketing de Z Squared compra acciones por 3.920 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-marketing-de-z-squared-compra-acciones-por-3920-dolares-93CH-3859702",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Director de eHealth Francis Soistman Jr. vende 28.174 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/director-de-ehealth-francis-soistman-jr-vende-28174-dolares-en-acciones-93CH-3859701",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Oregon Community Foundation vende 325.611 dólares en acciones de Jewett Cameron",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/oregon-community-foundation-vende-325611-dolares-en-acciones-de-jewett-cameron-93CH-3859700",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "La fiscalía emiratí confirma que el copiloto de Flydubai quería cometer un \"acto terrorista\"",
+      "s": "La Fiscalía General de Emiratos Árabes Unidos (EAU) confirmó este sábado que el copiloto del vuelo FZ1073 de Flydubai del pasado miércoles, que conectaba la ruta Dubái y Tel Aviv, \"inició la ejecución de un atentado terrorista\" al atacar al piloto con un \"hacha de emergencia\". Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/sociedad/2026/10/03/fiscalia-emirati-confirma-copiloto-flydubai-queria-cometer-acto-terrorista.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Acuerdo Fatca: qué información recibe ARCA sobre las cuentas de argentinos en Estados Unidos",
+      "s": "El acuerdo con el fisco estadounidense, firmado en 2022 y vigente desde 2023, permite al organismo argentino conocer qué cuentas e ingresos de fuente estadounidense tienen los residentes en el país, pero no sus saldos",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/03/acuerdo-fatca-que-informacion-recibe-arca-sobre-las-cuentas-de-argentinos-en-estados-unidos/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Dólar y elecciones: las dudas detrás de la “bazuca” de Milei para evitar una corrida cambiaria en 2027",
+      "s": "Tanto Milei como Caputo aseguraron que disponen de un poder de fuego de USD 75.000 millones para contener una suba abrupta del tipo de cambio antes de los próximos comicios, aunque economistas y analistas de mercado ya cuestionan si ese esquema resultará sostenible",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/03/dolar-y-elecciones-las-dudas-detras-de-la-bazuca-de-milei-para-evitar-una-corrida-cambiaria-en-2027/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Dolarización de carteras: cuánto espera el Gobierno de cobertura ante las elecciones y cómo se prepara para enfrentarlo",
+      "s": "El ministro de Economía, Luis Caputo, sostuvo que el “adelantamiento” puede ser de USD 7.000 millones y que por inversiones RIGI y balanza comercial proyecta más de USD 9.000 millones",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/03/dolarizacion-de-carteras-cuanto-espera-el-gobierno-de-cobertura-ante-las-elecciones-y-como-se-prepara-para-enfrentarlo/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La inflación de octubre podría rozar el 2% y complica la meta oficial del 29% anual",
+      "s": "Las consultoras privadas estiman una variación mensual de entre 1,6% y 1,9%, mientras los aumentos regulados y la estacionalidad dificultan el cumplimiento de la pauta oficial de referencia para el Presupuesto de 2027",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/03/la-inflacion-de-octubre-podria-rozar-el-2-y-complica-la-meta-oficial-del-29-anual/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Martín Zuppi, presidente de Stellantis: “Hay que proteger la industria, pero sin caza en el zoológico”",
+      "s": "El ejecutivo argentino evaluó las últimas medidas del Gobierno respecto al cupo de autos que no pagan arancel de importación, defendió la industria nacional y opinó respecto a la inversión de Toyota",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/03/martin-zuppi-presidente-de-stellantis-hay-que-proteger-la-industria-pero-sin-caza-en-el-zoologico/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Brasil: sin margen fiscal",
+      "s": "El mayor socio del Mercosur Brasil llega a las elecciones con las finanzas públicas comprometidas: La deuda pública llegó a 100% del PBI, el déficit de la administración central a 10% del PBI y la actividad estancada",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/10/03/brasil-sin-margen-fiscal/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "¿Por qué cae el salario real pese al dólar más barato? La principal razón de la estanflación",
+      "s": "La decisión de retirar los subsidios energéticos e incrementar los precios regulados marcó un contraste con etapas pasadas, afectando directamente el presupuesto disponible de la población en un contexto internacional adverso",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/10/03/por-que-cae-el-salario-real-pese-al-dolar-mas-barato-la-principal-razon-de-la-estanflacion/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Brasil llega a las elecciones del domingo con una paradoja que desvela a analistas e inversores",
+      "s": "Las encuestas muestran a Luiz Inácio Lula da Silva con ventaja en la primera vuelta, pero cuando se simula un balotaje frente a Flávio Bolsonaro, el escenario es de empate técnico",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/10/03/brasil-llega-a-las-elecciones-del-domingo-con-una-paradoja-que-desvela-a-analistas-e-inversores/",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
+      "s": "El economista francés confía en que el mundo avanzará hacia un orden multipolar, con mayor peso de las fuerzas democráticas e impulsado, en buena medida, por la presión del sur global.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Clima en México: Frente frío número 1 y huracán Rachel dejarán lluvias intensas este fin de semana",
+      "s": "Consulta el pronóstico del clima para este fin de semana en México. El frente frío 1 y el huracán Rachel provocarán lluvias intensas, granizo y vientos.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/estados/clima-mexico-huracan-rachel-frente-frio-1-semana-20261002-836673.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Agencia marítima británica reporta ataques contra dos petroleros en el estrecho de Ormuz",
+      "s": "El primer ataque \"provocó un incendio incipiente y una falla eléctrica a bordo\", precisó la agencia británica de seguridad marítima UKMTO.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/agencia-maritima-britanica-reporta-ataques-dos-petroleros-estrecho-ormuz-20261002-836666.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Ejército surcoreano reporta que Corea del Norte lanzó al menos un misil balístico desde Wonsan",
+      "s": "El disparo de este proyectil se produce un día después de que Pyongyang calificara a Corea del Sur de \"despreciable\" por exigir una disculpa por la explosión de una mina en la zona desmilitarizada fronteriza (DMZ), que dejó heridos a tres de sus soldados.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/ejercito-surcoreano-reporta-corea-norte-lanzo-misil-balistico-wonsan-20261002-836610.html",
+      "d": "3 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Mujer condenada a muerte en EU está inconsciente y con respirador tras ejecución fallida",
+      "s": "La ejecución de Pike, es la segunda que falló en el estado de Tennessee este año. El gobernador republicano, Bill Lee, suspendió las ejecuciones mientras se lleva a cabo una investigación.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/mujer-condenada-muerte-eu-inconsciente-respirador-ejecucion-fallida-20261002-836608.html",
       "d": "2 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Gabriel Resources planea una colocación privada de C$4,82 millones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/gabriel-resources-planea-una-colocacion-privada-de-c482-millones-93CH-3858846",
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Five Guys acelera sus aperturas en España con ocho locales al año",
+      "s": "La compañía, que alcanzará las 50 tiendas en el país en 2027, crecerá a doble dígito este año. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/distribucion/2026/10/03/6abfec70468aebf5548b4573.html",
+      "d": "2 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Iberdrola y Telefónica, contra el decreto de centros de datos",
+      "s": "El CEO de Iberdrola España, Mario Ruiz-Tagle, dice que \"demonizar\" los 'data center' no tiene sentido. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/10/03/6ac01010468aebbe2f8b458f.html",
+      "d": "2 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "En fotos: así fue la recepción en la Torre Eiffel para el cierre del Argentina Week París",
+      "s": "El presidente Javier Milei encabezó el encuentro final, organizado por la embajada en el salón Gustave Eiffel, antes de abordar el vuelo de regreso tras su agenda en Francia",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/fotos/2026/10/02/en-fotos-asi-fue-la-recepcion-en-la-torre-eiffel-para-el-cierre-del-argentina-week-paris/",
       "d": "2 oct 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "NielsenIQ incorpora herramientas de IA a su plataforma de planificación minorista",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/nielseniq-incorpora-herramientas-de-ia-a-su-plataforma-de-planificacion-minorista-93CH-3858845",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Los futuros del TSX suben antes de los datos de empleo de EE.UU.",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/los-futuros-del-tsx-suben-antes-de-los-datos-de-empleo-de-eeuu-3858842",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "\"No iba a permitir que los demás murieran\": el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto en la cabina",
-      "s": "Tuvo una conversación con Narendra Modi, primer ministro Indio, sobre cómo abrió la cabina para recibir ayuda por parte de los pasajeros y la tripulación.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6eq8qqr7v89o?at_medium=RSS&at_campaign=rss",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El director ejecutivo de Walmart dice que no usarán datos personales para fijar precios",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/el-director-ejecutivo-de-walmart-dice-que-no-usaran-datos-personales-para-fijar-precios-93CH-3858820",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El Ibex se juega los 19.000 puntos con el empleo de EEUU",
-      "s": "La agenda macro del día apenas de margen para el respiro. El IPC de la eurozona precederá al informe oficial de empleo de EEUU, clave para la reunión de este mes de la Fed. La minitregua de la deuda y del petróleo relaja las presiones bajistas en la Bolsa, y en un Ibex que intenta salvar los 19.000…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/02/6abf46e5e5fdea744a8b457f.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La inflación de la zona euro escala al 3,8% en septiembre y alcanza máximos de tres años",
-      "s": "La inflación de la zona euro sube hasta el 3,8% en septiembre, seis décimas sobre el dato ineranual de agosto , fruto del encarecimiento de los combustibles (14,3%) y los alimentos (4%). Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/02/6abf7efce5fdea6d078b4598.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Cuatro posibles aspectos positivos del aumento de los rendimientos de los bonos",
-      "s": "El fuerte incremento de los costes de financiación ha generado una alarma justificada, pero también existen beneficios. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/02/6abf78f5e5fdea05388b456f.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El bitcoin inicia 'uptober' lanzado a por nuevos máximos",
-      "s": "La mayor de las criptomonedas comienza lanzada octubre, históricamente uno de los meses más favorables de todo el año. Sus subidas contrastan con las turbulencias registradas en otros mercados, y dejan al bitcoin a un paso de recuperar un balance positivo en 2026. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/criptomonedas/2026/10/02/6abf72c2e5fdea68418b4593.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Anuncio en Argentina Week París: el Gobierno le aprobó un RIGI por USD 12.400 millones a una petrolera argentina",
-      "s": "Pluspetrol hará cuatro plantas de procesamiento, ductos para evacuar la producción y más de 620 pozos horizontales en Neuquén. La empresa energética provincial también es parte del proyecto",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/02/anuncio-en-argentina-week-paris-el-gobierno-le-aprobo-un-rigi-por-usd-12400-millones-a-una-petrolera-argentina/",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Así es MdF Family Partners, el 'family office' al que quieren parecerse los bancos",
-      "s": "La firma liderada por José María Michavila y Daniel de Fernando, basada en un modelo de absoluta independencia, asesora a unas 70 familias en España y a otras 25 en Reino Unido, a través de su participada Wren. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/fondos/2026/10/02/6abe6289e5fdea962e8b4577.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El regulador británico emplaza a Telefónica y sus socios a ofrecer 'remedies' para comprar Netomnia",
-      "s": "La Autoridad de los Mercados y la Competencia de Reino Unido cree que la adquisición de Substantial por parte de nexfibre derivaría en una \"disminución sustancial de la competencia\" en el mercado mayorista que afectaría al consumidor final y a las empresas, y duda de los beneficios de la fusión…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/02/6abf6ca4468aeb8d058b458c.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "El turismo internacional rebasa máximos históricos en agosto",
-      "s": "España recibió 70,36 millones de turistas internacionales entre enero y agosto y su gasto quedó al filo de los 100.000 millones de euros, concretamente en 99.892 millones, cifras que suponen nuevos máximos históricos en ambos indicadores. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/02/6abf6edd468aeb540e8b4587.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La competencia y la política de protección industrial",
-      "s": "Philippe Aghion, el reciente premio Nobel, y sus coautores, Céline Antonin y Simon Bunel, desarrollan la idea de la destrucción creativa. Ellos consideran que no existe un dilema necesario entre competencia y política industrial o protección industrial por el contrario, que la adecuada regulación…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/competencia-politica-proteccion-industrial-20261002-836491.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Anthropic prepara su salida a Bolsa para finales de noviembre",
-      "s": "La compañía estaría preparando su debut bursátil para el día previo a Acción de Gracias, el miércoles 25 de noviembre, según Bloomberg. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/10/02/anthropic-prepara-salida-bolsa-finales-noviembre.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "El MUAC inaugura ciclo permanente para exhibir su acervo histórico y contemporáneo",
-      "s": "Bajo el título Historias en construcción: Arte contemporáneo en México desde 1952. Colección MUAC, las salas 4, 5 y 6 del museo albergarán de forma continua el patrimonio artístico, documental y de diseño de la UNAM. La muestra reúne más de 120 obras y 60 materiales documentales de más de 70…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/arteseideas/muac-inaugura-ciclo-permanente-exhibir-acervo-historico-contemporaneo-20261002-836489.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Estacionalidad es la línea roja en la negociación del T-MEC",
-      "s": "Nuestro país buscará que no se imponga ningún tipo de restricción a las exportaciones en función a temporalidad, sostuvo Julio Berdegué.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/estacionalidad-linea-roja-negociacion-t-mec-20261002-836486.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "México enfrenta el reto de diversificar sus productos agroalimentarios",
-      "s": "El reto para México no está solo en abrir nuevos mercados, sino también en diversificar sus productos agroalimentarios y dar mayor valor agregado a lo que ya exporta, ante los cambios en el comercio global y la necesidad de generar más inversión y empleo.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/mexico-enfrenta-reto-diversificar-productos-agroalimentarios-20261002-836485.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "¿Por qué está cayendo la Bolsa?",
-      "s": "Esta semana fue mala para la Bolsa. Las empresas más emblemáticas de México perdieron valor rápidamente y este padecimiento parece crónico: una caída de casi 11% desde su máximo anual de 72,111 puntos, registrado el 12 de febrero de 2026.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/cayendo-bolsa-20261002-836482.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "¿Por qué no todo el mundo hace agricultura “orgánica”?",
-      "s": "De acuerdo a muchos ambientalistas todo el mundo debiera practicar una agricultura “orgánica”. Pero eso no ocurre, más que marginalmente o en condiciones controladas o experimentales. La definición de agricultura “orgánica” es difícil, ya que se puede confundir con “agroecología” o con agricultura…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/mundo-agricultura-organica-20261002-836480.html",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Milei vuelve a correr el arco: ahora dijo en París que se viene “el mejor año de la historia”, pero para 2028",
-      "s": "El Gobierno apela a la paciencia del electorado para que apuesten por la reelección. Dijo que el momento de invertir en el país “es ahora” y reiteró que tienen una “bazuca” para desalentar cualquier atisbo de presión cambiaria",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/02/milei-vuelve-a-correr-el-arco-ahora-dijo-en-paris-que-se-viene-el-mejor-ano-de-la-historia-pero-para-2028/",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Los dólares que están en duda para 2027 y que están sacudiendo al riesgo país",
-      "s": "Con la suba de tasas y el freno en la colocaciones del Bonar 2029, calculan que al programa financiero de Caputo le faltan más USD 23.000 millones. Se aleja la opción de regresar a los mercados internacionales",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/02/los-dolares-que-estan-en-duda-para-2027-y-que-estan-sacudiendo-al-riesgo-pais/",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
-      "s": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cq14dd5ge5v1o?at_medium=RSS&at_campaign=rss",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "s": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cmn9w9qgjg8jo?at_medium=RSS&at_campaign=rss",
-      "d": "2 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
-      "s": "Un año después del alto el fuego, los gazatíes \"están agotados\" y no quieren \"pasar otro invierno bajo tiendas\", pero siguen sin acceso a agua potable suficiente y los materiales de reconstrucción no entran. \"Quieren recuperar una vida normal, trabajar y que sus hijos vuelvan a la escuela\", dice…",
+      "t": "¿Cuáles son las principales causas de muerte en el mundo? La OMS revela cambios en la salud global",
+      "s": "Las enfermedades no transmisibles causaron el 74% de todas las muertes en el mundo en 2023, frente al 58% en 2000, según las nuevas estimaciones de la agencia sanitaria de la ONU. La cardiopatía isquémica sigue siendo la principal causa de muerte, mientras las demencias ganan posiciones entre las…",
       "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542002",
-      "d": "1 oct 2026"
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542005",
+      "d": "2 oct 2026"
     }
   ]
 }
