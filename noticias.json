@@ -1,295 +1,275 @@
 {
-  "actualizado": "2026-10-06T11:07:45.329Z",
+  "actualizado": "2026-10-07T11:08:01.515Z",
   "items": [
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "El Gobierno aprueba por segunda vez los decretos de vivienda de espaldas al Congreso",
-      "s": "El presidente del Gobierno ha anunciado que el Consejo de Ministros ha vuelto a aprobar los decretos de vivienda que el Congreso tumbó la semana pasada para que los vote la Diputación Permanente. Leer",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El Ibex agrava su caída con la deuda",
+      "s": "Las presiones habituales en las últimas semanas se reactivan. El petróleo vuelve a superar los 100 dólares y los intereses de la deuda rozan máximos, un escenario que abre la puerta a nuevas subidas de tipos, como la adoptada hoy en India. El Ibex pone freno a tres jornadas al alza. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/06/6ac4cae8468aeb557a8b456f.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "RBC Capital eleva el precio objetivo de Johnson & Johnson por su fortaleza farmacéutica",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/rbc-capital-eleva-el-precio-objetivo-de-johnson--johnson-por-su-fortaleza-farmaceutica-93CH-3862284",
-      "d": "6 oct 2026"
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/07/6ac5ded0468aebbf758b4594.html",
+      "d": "7 oct 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Oppenheimer inicia cobertura de Vylor con calificación de Mejor Rendimiento",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/oppenheimer-inicia-cobertura-de-vylor-con-calificacion-de-mejor-rendimiento-93CH-3862283",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "¿Por qué suben hoy las acciones de Aixtron?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-aixtron-93CH-3862280",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "BD anuncia una inversión de 19.000 millones de dólares en EE.UU.",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/bd-anuncia-una-inversion-de-19000-millones-de-dolares-en-eeuu-93CH-3862273",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Las acciones de Constellation suben con un acuerdo nuclear de 20 años con Google",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-constellation-suben-con-un-acuerdo-nuclear-de-20-anos-con-google-3862275",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Últimos días para optar a los Premios EXPANSIÓN Start Up",
-      "s": "El plazo de presentación de candidaturas a la octava edición de los galardones finaliza el 14 de octubre. Las empresas que quieran participar deben dirigirse a la página https://premiosstartup.expansion.com/ y rellenar el formulario. Leer",
+      "t": "Los sindicatos convocan la huelga general para el 11 de noviembre",
+      "s": "El paro laboral a nivel nacional coincidirá con el arranque de la campaña electoral para las elecciones generales del 29 de noviembre. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/catalunya/2026/10/06/ultimos-dias-optar-premios-expansion-start-up.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Corredurías: ganar escala sin perder al cliente ni el talento",
-      "s": "La concentración, la entrada de capital extranjero y la digitalización transforman la mediación y orientan al sector a combinar crecimiento, cercanía al cliente, tecnología, integración y talento. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/06/6ac4361d468aeb3f2b8b45bd.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El Ibex toma impulso con el tirón de los bancos",
-      "s": "Los nuevos máximos de 2022 que vuelve a tocar el interés de la deuda de EEUU se une a los temores que genera la prima de riesgo de Francia. Las presiones desde la renta fija enfrían los ánimos de compra en Bolsa, y en un Ibex que intenta consolidar lo ganado ayer. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/06/6ac48e93e5fdea62798b4589.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Juan Roig entra en Niubiq, startup de inteligencia comercial",
-      "s": "Se incorporan también Elephant y el Club de Inversión örbita. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/valencia/2026/10/06/juan-roig-entra-niubiq-startup-inteligencia-comercial.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Las nuevas exigencias a las empresas para incluir en un contrato laboral que entraron en vigor el 5 de octubre",
-      "s": "Este lunes 5 de octubre entra en vigor el RD 723/2026 , la norma por la que las empresas están obligadas desde hoy a especificar por escrito en el contrato laboral asuntos como el sueldo, tipo de contrato y distribución de la jornada laboral, los sistemas algorítmicos o de inteligencia artificial y…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/05/6ac33802468aeb661e8b4570.html",
-      "d": "6 oct 2026"
+      "url": "https://www.expansion.com/economia/2026/10/07/6ac61b9e468aebc3418b456d.html",
+      "d": "7 oct 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "Las amenazas nucleares de Putin ya no surten efecto",
-      "s": "El debilitamiento de la capacidad de disuasión rusa tiene repercusiones a nivel global y no todas son positivas. Leer",
+      "t": "Observatorios españoles captan una gran bola de fuego a 256.000 km por hora",
+      "s": "Las cámaras del Proyecto SMART de varios observatorios de España captan una gran bola de fuego que sobrevoló el norte de África a 256.000 kilómetros por hora en la madrugada del 5 de octubre. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac4b18ae5fdeaa56d8b458d.html",
-      "d": "6 oct 2026"
+      "url": "https://www.expansion.com/estilo-vida/salud/2026/10/07/observatorios-espanoles-captan-gran-bola-fuego-256-000-km-hora.html",
+      "d": "7 oct 2026"
     },
     {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Aniversario de la unificación alemana",
-      "s": "Hace unos días, el 3 de octubre, se festejó el 36 aniversario de lo que formalmente se designa como El Día de la Unidad Alemana. Fue la fecha, en 1990, en que entró en vigor la reunificación de acuerdo con el contrato firmado por los dos gobiernos, el de la República Federal y el de la República…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/aniversario-unificacion-alemana-20261006-837096.html",
-      "d": "6 oct 2026"
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Georgia Capital publicará resultados del 3T26 el 28 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/georgia-capital-publicara-resultados-del-3t26-el-28-de-octubre-93CH-3864013",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "BTIG reitera su precio objetivo de 240 dólares para Coinbase por el aumento de volumen",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/btig-reitera-su-precio-objetivo-de-240-dolares-para-coinbase-por-el-aumento-de-volumen-93CH-3864009",
+      "d": "7 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Menopausia: la variable invisible de la economía",
-      "s": "Una mujer en menopausia que tiene sofocos, duerme mal, pierde la concentración, tiene ansiedad y atraviesa su jornada laboral sin entender qué le pasa suele enfrentar el problema sola. Pero, trabajando juntos, tenemos el poder de cambiar esta realidad. Ese fue el mensaje central de dos grandes…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/menopausia-variable-invisible-economia-20261006-837095.html",
-      "d": "6 oct 2026"
+      "t": "A cuánto llegarán el dólar y la inflación a fin de año, según los principales analistas del país",
+      "s": "Los expertos consultados por el REM anticipan una mayor desaceleración de precios en el último trimestre y un tipo de cambio por encima de los 1.600 pesos",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/07/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-ano-segun-los-principales-analistas-del-pais/",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Polonia lista para liberar reservas de petróleo si hay acuerdo colectivo",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/commodities-news/polonia-lista-para-liberar-reservas-de-petroleo-si-hay-acuerdo-colectivo-93CH-3864007",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "El Banco de Portugal eleva su previsión de crecimiento para 2026 al 2,3%",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/el-banco-de-portugal-eleva-su-prevision-de-crecimiento-para-2026-al-23-93CH-3864005",
+      "d": "7 oct 2026"
     },
     {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "FIA Formula 2 agenda a México para 2027",
-      "s": "La carrera de F2 se disputará el mismo fin de semana que el Gran Premio de México de F1 (del 29 al 31 de octubre 2027) como ocurre en otras sedes como Mónaco, Monza o Silverstone",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/deportes/fia-formula-2-agenda-mexico-20261006-837094.html",
-      "d": "6 oct 2026"
+      "t": "El Kremlin dice que la llamada Putin-Trump aún no está confirmada",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/el-kremlin-dice-que-la-llamada-putintrump-aun-no-esta-confirmada-93CH-3864004",
+      "d": "7 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Packaging: estrategia ESG ante mayores riesgos financieros y regulatorios",
-      "s": "Ignacio Parada, CEO y fundador de Bioelements, señaló que las compañías deben evaluar el empaque desde una perspectiva integral, debido a que las nuevas exigencias ambientales pueden modificar costos, procesos de producción y condiciones de acceso a distintos mercados.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/packaging-estrategia-esg-mayores-riesgos-financieros-regulatorios-20261006-837091.html",
-      "d": "6 oct 2026"
+      "t": "IBM lanza solución ERP en la nube de SAP para medianas empresas",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/ibm-lanza-solucion-erp-en-la-nube-de-sap-para-medianas-empresas-93CH-3863991",
+      "d": "7 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Un nuevo \"talón de Aquiles\" para los mercados",
-      "s": "La deuda pública, y en particular la de Francia, se convierten en el \"talón de Aquiles\" para la renta fija europea, el euro y hasta para la renta variable, según advierten los analistas. Leer",
+      "t": "Citi ve opciones de ganar un 20% con la Bolsa de Brasil",
+      "s": "El mercado brasileño se convierte en una de las apuestas activas más destacadas de Citi. El último 'trade' abierto por el banco se marca como objetivo una revalorización del 20% en la renta variable de Brasil. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/06/6ac39e08e5fdea693f8b459c.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "PAN defiende el acuerdo de seguridad entre los gobiernos de Querétaro y EU",
-      "s": "Legisladores del PAN criticaron la exigencia de la presidenta Claudia Sheinbaum para que el gobernador de Querétaro, Mauricio Kuri explique el acuerdo que tiene con Estados Unidos con relación a la Academia Internacional de Capacitación Policial en dicha entidad.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/pan-defiende-acuerdo-seguridad-gobiernos-queretaro-eu-20261006-837088.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "EU acusa, Sheinbaum pide las pruebas",
-      "s": "El 26 de septiembre, integrantes de la Guardia Costera de Estados Unidos que realizaban un operativo cerca de Garceno, Texas, a orillas del río Bravo y a unos kilómetros de Ciudad Camargo, Tamaulipas, reportaron haber recibido disparos desde México y respondieron al fuego. No hubo heridos ni daños.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/eu-acusa-sheinbaum-pide-pruebas-20261006-837086.html",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "En qué iniciativas trabaja el Gobierno para acelerar el crédito al público, los comercios y las empresas",
-      "s": "Avanzan en conjunto con las medidas el Banco Central, la CNV y el ministerio de Desregulación. Códigos de descuento para individuos, cupones de comercios y garantías para pymes, en la mira",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/06/en-que-iniciativas-trabaja-el-gobierno-para-acelerar-el-credito-al-publico-los-comercios-y-las-empresas/",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Menos cepo cambiario: las empresas ya giraron dividendos por más de USD 4.000 millones en lo que va de 2026",
-      "s": "La flexibilización del acceso al mercado oficial permitió remitir utilidades al exterior a un ritmo que supera los registros de la última década, aunque persisten límites para ganancias acumuladas",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/06/menos-cepo-cambiario-las-empresas-ya-giraron-dividendos-por-mas-de-usd-4000-millones-en-lo-que-va-de-2026/",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La electromovilidad gana terreno en la Argentina: casi uno de cada cinco autos patentados en septiembre fue híbrido o eléctrico",
-      "s": "En pocos meses se pasó del 14% del mercado a casi una quinta parte. Septiembre volvió a mostrar el auge de los autos con batería de litio, pero especialmente de los híbridos que no hace falta enchufar",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/06/la-electromovilidad-gana-terreno-en-la-argentina-casi-uno-de-cada-cinco-autos-patentados-en-septiembre-fue-hibrido-o-electrico/",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Más ricos que nunca: el auge de la IA disparó las fortunas de un grupo de magnates tecnológicos a niveles que nunca se vieron",
-      "s": "El índice de Bloomberg atribuye el avance al alza de las acciones del sector en Estados Unidos, cuyos grandes patrimonios suman ahora USD 4,6 billones, el 36% del total de las 500 mayores fortunas",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/06/mas-ricos-que-nunca-el-auge-de-la-ia-disparo-las-fortunas-de-un-grupo-de-magnates-tecnologicos-a-niveles-que-nunca-se-vieron/",
-      "d": "6 oct 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
-      "s": "El Departamento de Defensa usaba Claude para sus análisis de datos de inteligencia a través de un sistema llamado Maven, pero ahora ha tenido que migrar hacia otros modelos de IA.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c5398l9rzj3jo?at_medium=RSS&at_campaign=rss",
-      "d": "5 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Tras cruzar el estrecho de Ormuz, llegaron al país las monoboyas del oleducto que habilitará exportaciones por USD 15.000 millones",
-      "s": "Las estructuras, fabricadas en Emiratos Árabes Unidos, completaron el tramo más crítico de su traslado en medio de la guerra entre Estados Unidos, Israel e Irán y habilitan la etapa final de la terminal marítima de VMOS en Punta Colorada",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/05/tras-cruzar-el-estrecho-de-ormuz-llegaron-al-pais-las-monoboyas-del-oleducto-que-habilitara-exportaciones-por-usd-15000-millones/",
-      "d": "5 oct 2026"
+      "url": "https://www.expansion.com/mercados/2026/10/07/6ac61479468aeb91128b4592.html",
+      "d": "7 oct 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
-      "s": "La decisión de adelantar los comicios no ha sido una reacción impulsiva, sino una maniobra cuidadosamente meditada.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c8x234212407o?at_medium=RSS&at_campaign=rss",
-      "d": "5 oct 2026"
+      "t": "Spotify lanza audiolibros en España",
+      "s": "La plataforma ofrece un nuevo catálogo con más de 45.000 audiolibros en español gracias a acuerdos con editoriales y libros de autores independientes, pero sin contenido propio. Con el plan Premium se incluirán 12 horas de escucha de libros al mes. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/10/07/spotify-lanza-audiolibros-espana.html",
+      "d": "7 oct 2026"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
-      "s": "El secretario de Estado, Marco Rubio, expresó su preocupación de que el incidente pudiera haber provocado la propagación de la peste neumónica, aunque señaló que no había motivos para alarmarse.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss",
-      "d": "5 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "\"¡Otra vez no!\": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa",
-      "s": "Para muchos residentes de esta prefectura de Japón, la detención ha reavivado décadas de frustración.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6wyrlzkgxxmo?at_medium=RSS&at_campaign=rss",
-      "d": "5 oct 2026"
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Guía para inquilinos y caseros: así queda regulado el mercado del alquiler desde mañana",
+      "s": "El BOE publica hoy los dos Reales Decretos de Vivienda vueltos a aprobar ayer por el Consejo de Ministros. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/10/07/6ac60a80468aebfe198b4570.html",
+      "d": "7 oct 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
-      "s": "El anuncio de Sánchez se produce tras varios días de protestas en el país europeo, surgidas a raíz del desalojo de la anciana Maricarmen. Las elecciones se celebrarán el próximo 29 de noviembre.",
+      "t": "La oferta de alquiler se desploma: España pierde casi 400.000 viviendas desde 2018",
+      "s": "El número de viviendas en alquiler permanente disponibles se ha reducido drásticamente desde 2018, año en el que arrancó el Gobierno de Pedro Sánchez Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/10/07/6ac5f6ae468aebd45c8b45bd.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Mina El Moto obvia la incertidumbre electoral y salta a la Bolsa de Londres",
+      "s": "Abenójar Tungsten activa su colocación para financiar su proyecto de 211 millones de euros y ficha como consejero a José Luis de Mora, directivo de Santander y presidente de Merlin Properties. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/10/07/6ac5f5f2e5fdea6a028b456e.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Kutxabank paga el 3,10% el primer año y rompe el mercado de cuentas",
+      "s": "La rentabilidad baja al 0,75% el segundo año. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/10/07/6ac5f4fde5fdea0b2b8b4593.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Vigilan formación de dos nuevos posibles ciclones tropicales",
+      "s": "El Servicio Meteorológico Nacional (SMN) mantiene bajo vigilancia dos zonas de baja presión con potencial para convertirse en ciclones tropicales durante las próximas horas: una en el Golfo de México, que podría recibir el nombre de Isaías, y otra frente a las costas del Pacífico sur, que sería…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/vigilan-formacion-dos-nuevos-posibles-ciclones-tropicales-20261007-837313.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "México aumenta 21.2% su superávit comercial con Estados Unidos",
+      "s": "Nuestro país se ubicó en la segunda posición entre las economías con los mayores saldos positivos, superado por Vietnam (163,900 mdd) y por arriba de Taiwán (147,700 mdd) y China (109,600 mdd)",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/mexico-aumenta-21-2-superavit-comercial-estados-unidos-20261007-837311.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Diálogo con EU fluye favorablemente: Altagracia Gómez",
+      "s": "Las mejoras en las condiciones del comercio azucarero y de ganado en pie son muestra del buen momento de las conversaciones, afirmó.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/dialogo-eu-fluye-favorablemente-altagracia-gomez-20261007-837310.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Canacintra pide reforzar inteligencia contra piratería y contrabando",
+      "s": "Propone intercambiar información con autoridades sobre rutas de riesgo, modalidades de robo y patrones de contrabando; ANAM advierte que el comercio ilícito financia crimen foráneo.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/canacintra-pide-reforzar-inteligencia-pirateria-contrabando-20261007-837307.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Contrabando de cigarrillos: evasión por 23,000 millones de pesos",
+      "s": "En México, el mercado ilícito de cigarrillos provoca una evasión fiscal estimada en más de 23,000 millones de pesos anuales, afirmó el presidente del Consejo Nacional de la Industria Tabacalera (Conainta), Gastón Zambrano Margain.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/contrabando-cigarrillos-evasion-23-000-millones-pesos-20261007-837306.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "La IED de México en Estados Unidos suma 67,744 millones de dólares",
+      "s": "Las principales industrias inversoras son alimentos y bebidas; componentes automotrices; software y servicios de TI; servicios financieros; metalurgia, y servicios empresariales.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/ied-mexico-estados-unidos-suma-67-744-millones-dolares-20261007-837305.html",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Qué hacer con el dólar y a qué países se debería parecer Argentina: el diagnóstico del nuevo economista favorito de Milei",
+      "s": "Alberto Ades realizó una presentación ante el Gabinete por invitación del Presidente. Infobae accedió al documento, que advierte sobre un elevado nivel de apreciación cambiaria y cómo enfrentarlo. El impacto negativo de la suba de tasas en EEUU",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/07/que-hacer-con-el-dolar-y-a-que-paises-se-deberia-parecer-argentina-el-diagnostico-del-nuevo-economista-favorito-de-milei/",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Las alternativas que evalúa Economía para pagar la deuda en 2027 ante la suba de tasas y el freno de las colocaciones locales",
+      "s": "El Tesoro apuesta a refinanciar los vencimientos de los Bonares para cubrir los compromisos en dólares del año próximo. Si no consigue respaldo de los inversores, el Gobierno asegura que cuenta con recursos alternativos, aunque todavía no detalló cuáles serían",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/07/las-alternativas-que-evalua-economia-para-pagar-la-deuda-en-2027-ante-la-suba-de-tasas-y-el-freno-de-las-colocaciones-locales/",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Mañana se define la privatización de AySA: qué consorcios compiten por el control de una empresa de servicios clave",
+      "s": "Este jueves el Ejecutivo revelará las propuestas de los interesados en controlar la firma que brinda servicios sanitarios a 14 millones de personas del AMBA. Los montos ofertados serían menores a los USD 500 millones que espera Economía",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/07/manana-se-define-la-privatizacion-de-aysa-que-consorcios-compiten-por-el-control-de-una-empresa-de-servicios-clave/",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "El creciente acercamiento de España a China y las tensiones que provoca en la Unión Europea",
+      "s": "En medio de la agitación mundial, las estrechas relaciones entre ambos países despiertan recelos dentro de la Unión Europea.",
       "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss",
-      "d": "5 oct 2026"
+      "url": "https://www.bbc.com/mundo/articles/cw054jpyp84po?at_medium=RSS&at_campaign=rss",
+      "d": "7 oct 2026"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "El ébola llega a Kenya: confirman un primer caso importado",
+      "s": "Mientras, en la República Democrática del Congo, la epidemia suma 8544 casos confirmados y 4114 muertes, con más de 1900 niños que han perdido a uno o ambos padres y 2076 menores contagiados, de los que 1162 han fallecido. La prioridad es actuar rápido antes de que el virus se propague.",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542018",
+      "d": "6 oct 2026"
     },
     {
       "r": "asia",
@@ -299,6 +279,26 @@
       "s": "El calor extremo amenaza cada vez más a las mujeres embarazadas y sus bebés. La Corte Penal Internacional acusa a cuatro líderes talibanes de perseguir a mujeres y niñas. Muere un conductor en un ataque aéreo contra camiones de ayuda en Sudán. El mundo necesitará 50 millones de docentes más de aquí…",
       "src": "Noticias ONU",
       "url": "https://news.un.org/feed/view/es/story/2026/10/1542011",
+      "d": "5 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "El calor extremo amenaza cada vez más a las mujeres embarazadas y sus bebés",
+      "s": "Las altas temperaturas están relacionadas con partos prematuros, mortinatos y otras complicaciones y, para millones de personas, el embarazo se está convirtiendo en un “momento de ansiedad” ante los crecientes impactos, asegura el responsable de ONU Cambio Climático.",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542009",
+      "d": "5 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "En el delta del Mekong, un impulso para cultivar alimentos con agua salada",
+      "s": "El aumento del nivel del mar, los pantanos y el clima extremo están alterando el equilibrio que convirtió la región del Mekong en una potencia arrocera. Los agricultores prueban ahora un nuevo enfoque: adaptarse a la sal en lugar de combatirla.",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542010",
       "d": "5 oct 2026"
     }
   ]
