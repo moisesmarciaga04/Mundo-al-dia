@@ -1,305 +1,305 @@
 {
-  "actualizado": "2026-10-09T11:07:50.244Z",
+  "actualizado": "2026-10-10T11:05:41.058Z",
   "items": [
     {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
+      "s": "El epicentro del sismo se ubicó en el sur del país centroamericano, cerca de la costa Pacífico. Decenas de edificaciones resultaron afectadas.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss",
+      "d": "10 oct 2026"
+    },
+    {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El Banco de España eleva al 2,6% su previsión de crecimiento para este año, con una inflación del 3,9% al alza",
-      "s": "El Banco de España mejora en tres décimas su pronóstico de crecimiento del PIB respecto a su previsión anterior motivado por el alza de las exportaciones y la demanda nacional, pero anticipa una inflación del 2,9% para el cierre del ejercicio y una reducción del ritmo de creación de empleo. Leer",
+      "t": "La presidencia irlandesa de la UE propone un presupuesto de 1,6 billones de euros para 2028-2034",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/la-presidencia-irlandesa-de-la-ue-propone-un-presupuesto-de-16-billones-de-euros-para-20282034-3868709",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Tailandia se prepara para acoger las reuniones del FMI y el Banco Mundial con 15.000 delegados",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/tailandia-se-prepara-para-acoger-las-reuniones-del-fmi-y-el-banco-mundial-con-15000-delegados-3868707",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Putin confirma el acuerdo con Trump para el suministro de crudo a EEUU y al mercado mundial",
+      "s": "El presidente de Rusia, Vladímir Putin, confirmó este viernes el acuerdo alcanzado en conversación telefónica con su homólogo de EEUU, Donald Trump, para el suministro de petróleo ruso al mercado estadounidense y mundial. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/09/6ac7d696e5fdea8e2a8b45a7.html",
-      "d": "9 oct 2026"
+      "url": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Los fabricantes europeos de automóviles ganan margen con el acuerdo UE-China sobre híbridos",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/los-fabricantes-europeos-de-automoviles-ganan-margen-con-acuerdo-uechina-3868706",
+      "d": "10 oct 2026"
     },
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Cómo evitar multas durante el fin de semana largo: cuál es la documentación que hay que llevar sí o sí al salir a la ruta",
-      "s": "Existen documentos en formato físico y digital que son obligatorios para transitar por la vía pública. Su ausencia puede derivar en multas y, según el caso, en la retención del vehículo o la imposibilidad de que el conductor continúe el recorrido",
+      "t": "Ataque ruso en Zaporiyia mata a siete personas mientras la guerra se intensifica",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/ataque-ruso-en-zaporiyia-mata-a-siete-personas-mientras-la-guerra-se-intensifica-3868704",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "China creó más de 10 millones de nuevos empleos urbanos entre enero y septiembre",
+      "s": "China creó 10,52 millones de nuevos empleos urbanos entre enero y septiembre, el 87,7% del objetivo fijado por las autoridades para todo 2026, informó este sábado la cadena estatal CCTV. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/10/6ac9fe80e5fdea3c4f8b4595.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Venezuela autoriza Starlink de Elon Musk para operar en todo el país",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/venezuela-autoriza-starlink-de-elon-musk-para-operar-en-todo-el-pais-3868701",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El precio mayorista de la electricidad afronta el tercer otoño más caro de su historia",
+      "s": "El precio de la electricidad en el mercado mayorista o 'pool' está registrando uno de los otoños más caros de su historia coincidiendo con un mayor empleo de los ciclos de gas, que han compensando la caída de la generación eólica en un momento de creciente demanda. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/energia/2026/10/10/6ac9f04de5fdea742b8b456e.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "5 grandes movimientos de analistas en IA: Google reafirmado como favorito tras el lanzamiento del agente Gemini",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-google-reafirmado-como-favorito-tras-el-lanzamiento-del-agente-gemini-3868700",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "ERC y Bildu acuerdan reeditar su coalición electoral en el Senado",
+      "s": "ERC y EH Bildu han acordado que volverán a presentare como coalición en las elecciones del 29 de noviembre para el Senado con el objetivo de unir fuerzas en defensa de los derechos de vascos y catalanes, ampliar las coberturas sociales y hacer frente al \"bloque reaccionario\". Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6ac9f1efe5fdea3c4f8b458e.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "¿Por qué los precios del gas en la UE no son más altos?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/por-que-los-precios-del-gas-en-la-ue-no-son-mas-altos-3868697",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El gestor de carteras de Nuveen Michael Hamilton compra 26.106 dólares en acciones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-gestor-de-carteras-de-nuveen-michael-hamilton-compra-26106-dolares-en-acciones-93CH-3868695",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Bitcoin en soporte Fibonacci 82.650 USD: niveles en vivo",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/cryptocurrency-news/bitcoin-presiona-resistencia-en-87363-niveles-en-vivo-93CH-3859971",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Las acciones bancarias europeas caen ante el alza de los rendimientos",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-bancarias-europeas-caen-un-8-ante-el-alza-de-los-rendimientos-3868692",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Los datos oficiales no reflejan la realidad económica?: cómo lee el Gobierno las cifras del Indec y la mirada de los economistas",
+      "s": "La Casa Rosada relativiza las oscilaciones mensuales del EMAE y prioriza una serie que, según sostiene, permite identificar el ciclo económico. Especialistas advierten límites metodológicos y recomiendan evaluar varios indicadores antes de definir un diagnóstico",
       "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/09/como-evitar-multas-durante-el-fin-de-semana-largo-cual-es-la-documentacion-que-hay-que-llevar-si-o-si-al-salir-a-la-ruta/",
-      "d": "9 oct 2026"
+      "url": "https://www.infobae.com/economia/2026/10/10/los-datos-oficiales-no-reflejan-la-realidad-economica-como-lee-el-gobierno-las-cifras-del-indec-y-la-mirada-de-los-economistas/",
+      "d": "10 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Cerraron casi 1.000 empresas en julio: cuántas bajaron sus persianas desde que asumió el gobierno de Javier Milei",
+      "s": "Se trata de las firmas registradas con al menos un trabajador formal. Sólo en séptimo mes cerraron 948 unidades productivas en todo el país",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/10/cerraron-casi-1000-empresas-en-julio-cuantas-bajaron-sus-persianas-desde-que-asumio-el-gobierno-de-javier-milei/",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Una semana en la que la política de Brasil impactó el mercado local: subieron los bonos y el riesgo país cayó 10 por ciento",
+      "s": "La Bolsa de San Pablo escaló casi 9% tras la primera vuelta electoral. Los títulos públicos argentinos recuperaron 3% y el riesgo país quedó debajo de los 600 puntos. El S&P Merval ganó 2,2 por ciento. El dólar bajó a $1.535 en el Banco Nación y el BCRA compró USD 212 millones en el mercado",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/10/una-semana-en-la-que-la-politica-de-brasil-impacto-el-mercado-local-subieron-los-bonos-y-el-riesgo-pais-cayo-10-por-ciento/",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Mercosur-Unión Europea: el comercio ya reacciona, la política todavía no",
+      "s": "El nuevo esquema de control exige guardar documentación durante tres años y traslada toda la responsabilidad documental a los pequeños emprendimientos. Aumentan los riesgos de sanciones ante probables errores de fiscalización",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/10/10/mercosur-union-europea-el-comercio-ya-reacciona-la-politica-todavia-no/",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "No alcanza con hacer las cosas bien",
+      "s": "Las tasas de los bonos del Tesoro de Estados Unidos alcanzan máximos de 24 años y presionan a los mercados emergentes, mientras Argentina enfrenta un contexto externo cada vez más desafiante para su programa financiero",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/opinion/2026/10/10/no-alcanza-con-hacer-las-cosas-bien/",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
       "art": "polar",
-      "t": "¿Por qué cae hoy la acción de Semtech?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-semtech-93CH-3867797",
-      "d": "9 oct 2026"
+      "t": "Gobierno de Venezuela firma acuerdo con SpaceX para desplegar el servicio de Starlink en el país",
+      "s": "Los usuarios en Venezuela podrán contratar la conexión directamente en el país, gestionar los pagos mediante la red bancaria local y recibir los equipos receptores a domicilio.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/gobierno-venezuela-firma-acuerdo-spacex-desplegar-servicio-starlink-pais-20261009-837909.html",
+      "d": "10 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "BofA rebaja la calificación de Smithfield Foods ante la debilidad del mercado porcino",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/bofa-rebaja-la-calificacion-de-smithfield-foods-ante-la-debilidad-del-mercado-porcino-93CH-3867792",
-      "d": "9 oct 2026"
+      "t": "Las claves económicas de la semana (5 al 9 de octubre): De inflación en México y minutas del Banxico y la Fed",
+      "s": "Descubre la información económica más relevante que marcó esta semana para que disfrutes de tus días libres bien informado.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-5-9-octubre-inflacion-mexico-minutas-banxico-fed-20261009-837908.html",
+      "d": "10 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
+      "r": "americas",
+      "tag": "Américas",
       "art": "polar",
-      "t": "Raymond James inicia cobertura de la acción de Quince Therapeutics con calificación de Mejor Rendimiento",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/raymond-james-inicia-cobertura-de-la-accion-de-quince-therapeutics-con-calificacion-de-mejor-rendimiento-93CH-3867791",
-      "d": "9 oct 2026"
+      "t": "Terremoto en Panamá de magnitud 7.7 deja al menos dos heridos y edificios colapsados",
+      "s": "Según las autoridades, se han registrado más de 100 réplicas, incluso de 6 grados.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/terremoto-panama-magnitud-7-7-deja-dos-heridos-edificios-colapsados-20261009-837906.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Documental BBC: cómo sobreviven los niños en una Gaza devastada",
+      "s": "La BBC documentó durante meses la vida de varios niños en Gaza. ¿Cómo sobreviven frente al colapso casi absoluto de servicios esenciales?",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cme3xlvdjxdxo?at_medium=RSS&at_campaign=rss",
+      "d": "10 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "SpaceX arrastra en Bolsa a Telefónica y al resto de telecos",
-      "s": "La mayor tregua hoy en la deuda no impide un correctivo bursátil generalizado en el conjunto del sector de las empresas de telecomunicaciones. La presión ejercida por SpaceX impone las caídas tanto en las telecos estadounidenses como en las europeas. Telefónica no se libra de las presiones…",
+      "t": "Lula elimina temporalmente los impuestos a la gasolina en Brasil a dos semanas del balotaje",
+      "s": "Lula, que busca su cuarto mandato, intenta contener el aumento de los precios de los combustibles en medio de un encarecimiento internacional del petróleo debido a la guerra en Medio Oriente.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/economia/lula-elimina-temporalmente-impuestos-gasolina-brasil-dos-semanas-balotaje-20261009-837899.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Arabia Saudita reporta ataque \"a gran escala\" contra más de 100 objetivos hutíes",
+      "s": "Una fuente militar del bando gubernamental había indicado que el viernes se llevaba a cabo una \"operación a gran escala\" para recuperar el estratégico estrecho de Bab el Mandeb, que conecta Asia con Europa a través del canal de Suez, de manos de los combatientes proiraníes.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/arabia-saudita-reporta-ataque-gran-escala-100-objetivos-huties-20261009-837890.html",
+      "d": "10 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Europa busca soportes",
+      "s": "La Bolsa de París se deja por el camino un 12% desde los máximos históricos de agosto. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/09/6ac896fe468aebe1418b4599.html",
+      "url": "https://www.expansion.com/mercados/2026/10/10/6abd6abc468aebc6038b4585.html",
       "d": "9 oct 2026"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "¿Por qué caen hoy las acciones de Astera Labs?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-astera-labs-93CH-3867789",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El Ibex respira con el petróleo y con la deuda",
-      "s": "La última jornada de la semana aporta referencias más alentadores a los mercados. La negativa de Trump a lanzar un ataque sobre Irán apacigua el precio del petróleo, y el freno se extiende a los intereses de la deuda. El Ibex apunta al rebote y a la reconquista de los 19.000 puntos perdidos ayer…",
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "El coche eléctrico acelera en España: estos son los más vendidos",
+      "s": "Los turismos eléctricos son los que más crecen y superan las 100.000 unidades matriculadas en los nueve primeros meses del año. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/09/6ac8811f468aeb820b8b4594.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Truist ve valor en acciones de bancos medianos antes de resultados",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/truist-ve-valor-en-acciones-de-bancos-medianos-antes-de-resultados-93CH-3867771",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "BlackRock Smaller Companies Trust renueva su autorización de recompra de acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/blackrock-smaller-companies-trust-renueva-su-autorizacion-de-recompra-de-acciones-93CH-3867769",
+      "url": "https://www.expansion.com/empresas/motor/2026/10/10/6ac8f2bf468aebf7158b45a1.html",
       "d": "9 oct 2026"
     },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
-      "t": "Acción de salud seleccionada por IA sube +15% en preapertura tras mejora de Medicare",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/15-en-preapertura-este-gigante-sanitario-elegido-por-ia-logra-una-gran-mejora-en-medicare-3867764",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya",
-      "s": "El cambio climático está transformando los picos nevados de Papúa, los cuales tienen tanto un valor científico como un significado espiritual.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cxnvlv956rjjo?at_medium=RSS&at_campaign=rss",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "ANSES: cuándo cobro en octubre 2026 si mi DNI termina en 9",
-      "s": "La actualización del 1,66 % elevó los haberes previsionales y se suma un bono extraordinario de hasta $70.000 para quienes cumplan las condiciones previstas según la prestación que reciben",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/09/anses-cuando-cobro-en-octubre-2026-si-mi-dni-termina-en-9/",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "De un taller a adaptar vehículos para personas con movilidad reducida",
-      "s": "Rehatrans comenzó como un taller mecánico y se ha transformado en una fábrica con capacidad para adaptar 1.100 furgonetas al año. La empresa familiar acapara la mitad del mercado español y planea dar el salto a Portugal. Leer",
+      "t": "Josh Payne, el minero australiano que conquistó a los gigantes de la IA",
+      "s": "Con el respaldo de Sheryl Sandberg y Jensen Huang, espera convertir a Nscale en un hiperescalador valorado en un billón de dólares. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/transporte/2026/10/09/6ac76ed1468aeb6d458b4592.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La subida salarial media pactada en convenio sube hasta el 3,05% en septiembre",
-      "s": "Los convenios firmados en 2026 contemplan una subida media anual de los sueldos del 3,61% en septiembre, casi 1,3 puntos por debajo de la inflación . La jornada media se queda en en 38,1 horas semanales. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/09/6ac8b2a4468aebc20c8b459e.html",
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/10/6abd608e468aebfe268b459d.html",
       "d": "9 oct 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "Bruselas impulsa dos nuevos proyectos mineros críticos en Ciudad Real y Galicia",
-      "s": "La Comisión Europea lanza su nueva lista de proyectos estratégicos a los que dará ventajas administrativas y ayudará con financiación. De los 46 nuevos agraciados hay dos iniciativas españolas que se suman a las 7 anunciadas el pasado año. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/industria/2026/10/09/6ac8b319468aebe74a8b458f.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "EEUU ejecutará públicamente a un exsoldado con un pelotón de fusilamiento",
-      "s": "El ejército estadounidense transmitirá en directo la ejecución de un extremista que mató a 13 personas en Fort Hood en Texas en 2009. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8aef1468aebd97d8b4594.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Cinco señales para saber si se avecinan problemas en el mercado",
-      "s": "El coste de los seguros de impago de crédito (CDS) para las empresas de IA que buscan financiación está aumentando. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac89ec8e5fdea66258b4594.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Seamos serios con el predial",
-      "s": "México recauda poco predial por deficiencias catastrales y concentración municipal. Modernizar su administración, actualizar valores inmobiliarios y establecer tasas progresivas fortalecería las finanzas públicas y la redistribución de la riqueza.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/seamos-serios-predial-20261009-837757.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Importación mexicana de gas estadounidense aceleró en junio y julio",
-      "s": "México sigue siendo el principal cliente de la molécula que produce su vecino del norte, aunque su peso sigue reduciéndose; analista ve poco factible que haya cortes de suministro por razones geopolíticas porque eso implicaría que EU reduzca su producción petrolera.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/importacion-mexicana-gas-estadounidense-acelero-junio-julio-20261009-837755.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Una derecha ambientalista es posible",
-      "s": "Para todos es obvio que casi todas las causas ambientalistas o relacionadas con el desarrollo sustentable han sido, casi desde su origen, un subconjunto de reivindicaciones de la izquierda. Esto le ha dado a la izquierda una importante munición ideológica y de propuesta política, logrando…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/derecha-ambientalista-posible-20261009-837752.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Empresas de la Defensa están cumpliendo metas operativas: Sheinbaum",
-      "s": "La primera mandataria afirma que Mexicana de Aviación, el AIFA, el Tren Maya y Grupo Mundo Maya cumplen mensualmente sus objetivos de operación conforme al plan gubernamental.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/empresas-defensa-cumpliendo-metas-operativas-sheinbaum-20261009-837751.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Defiende Harfuch acciones tomadas por huachicol fiscal",
-      "s": "Se reúnen con presidenta del INE para analizar violencia política durante proceso electoral.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/defiende-harfuch-acciones-tomadas-huachicol-fiscal-20261009-837749.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Insiste Carter que EU perseguirá a gobernadores",
-      "s": "La directora de la oficina antidrogas afirmó que durante los próximos dos años y medio, periodo restante del mandato de Trump en ese momento, y posiblemente más allá de la actual administración, EU mantendrá la presión contra los cárteles.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/insiste-carter-eu-perseguira-gobernadores-20261009-837748.html",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Los bancos locales valen la mitad que a principios de 2025 en Wall Street: ¿hay margen para una suba de acciones?",
-      "s": "Éste es el segundo año de fuertes caídas, que contrastan con la fortaleza de las acciones del sector petróleo y gas. En Brasil fue buen negocio adelantarse a las elecciones y algunos sugieren que en Argentina puede pasar lo mismo",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/09/los-bancos-locales-valen-la-mitad-que-a-principios-de-2025-en-wall-street-hay-margen-para-una-suba-de-acciones/",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
-      "s": "En un acceso excepcional a Taiz, el Servicio Mundial de la BBC entrevista a niños, profesores y familias afectadas por los combates.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6y8l759mdl4o?at_medium=RSS&at_campaign=rss",
-      "d": "9 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Cuáles son los reclamos de los estudiantes que están participando en las violentas protestas que sacuden a Francia",
-      "s": "Los bloqueos y las marchas estudiantiles surgen de agravios reales, y también de la costumbre francesa de decidir sus políticas en las calles.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cj3vqre7rqp3o?at_medium=RSS&at_campaign=rss",
-      "d": "8 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Ucrania: al menos 85 civiles muertos en cuatro días por una nueva ola de ataques rusos",
-      "s": "Al menos 85 civiles han muerto y 346 han resultado heridos desde el lunes en ataques rusos, según la ONU. Tras el mortal bombardeo de un edificio residencial en Pryluky el miércoles, dos autobuses fueron alcanzados el jueves en Kramatorsk. Los ataques contra las infraestructuras eléctricas agravan…",
+      "t": "La Corte Penal Internacional rechaza categóricamente las sanciones de E.E. U.U. y la ONU las condena",
+      "s": "Las sanciones amenazan el derecho internacional y a las víctimas que acuden a la institución, según los expertos, mientras el titular de la ONU pide respeto. La Corte reitera que continuará ejerciendo su mandato \"con independencia e imparcialidad” y “no se dejará amedrentar. Y expertos…",
       "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542030",
-      "d": "8 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Afganistán, hipertensión, El Niño… Las noticias del jueves",
-      "s": "Denuncian detenciones de mujeres por incumplir las normas de vestimenta de los talibanes. La OMS publica una guía para combatir la hipertensión en el embarazo. El Niño se acerca a niveles no vistos desde que hay registros.&nbsp;",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542026",
-      "d": "8 oct 2026"
-    },
-    {
-      "r": "africa",
-      "tag": "África y Oceanía",
-      "art": "boats",
-      "t": "El ébola llega a Kenya: confirman un primer caso importado",
-      "s": "Mientras, en la República Democrática del Congo, la epidemia suma 8544 casos confirmados y 4114 muertes, con más de 1900 niños que han perdido a uno o ambos padres y 2076 menores contagiados, de los que 1162 han fallecido. La prioridad es actuar rápido antes de que el virus se propague.",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542018",
-      "d": "6 oct 2026"
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542032",
+      "d": "9 oct 2026"
     }
   ]
 }
