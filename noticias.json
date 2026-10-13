@@ -1,114 +1,284 @@
 {
-  "actualizado": "2026-10-12T11:10:03.753Z",
+  "actualizado": "2026-10-13T11:09:47.113Z",
   "items": [
     {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Wise Group nombra a Barak Eilam como presidente designado",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/wise-group-nombra-a-barak-eilam-como-presidente-designado-93CH-3871460",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Cómo el Valor Justo de InvestingPro anticipó la caída del 52% de Celcuity",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/investment-ideas/como-el-valor-justo-de-investingpro-anticipo-la-caida-del-52-de-celcuity-93CH-3871459",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Jaguar Uranium presenta estimación de recursos en proyecto de Argentina",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/jaguar-uranium-presenta-estimacion-de-recursos-en-proyecto-de-argentina-93CH-3871456",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "SentinelOne planea una oferta de notas convertibles por 1.250 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/sentinelone-planea-una-oferta-de-notas-convertibles-por-1250-millones-de-dolares-93CH-3871455",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Susquehanna recorta el precio objetivo de eToro por débiles volúmenes en el tercer trimestre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/susquehanna-recorta-el-precio-objetivo-de-etoro-por-debiles-volumenes-en-el-tercer-trimestre-93CH-3871451",
+      "d": "13 oct 2026"
+    },
+    {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Dos estadounidenses ganan el Nobel de Economía por su innovador trabajo sobre cómo estabilizar las fluctuaciones económicas",
-      "s": "La Academia Sueca destacó los aportes de ambos investigadores a los fundamentos microeconómicos de la estabilización macroeconómica.",
+      "t": "Waller (Fed) dice que el alza de los bonos de EEUU se debe al crecimiento",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/economy-news/waller-fed-dice-que-el-alza-de-los-bonos-de-eeuu-se-debe-al-crecimiento-3871453",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "El Ibex busca esquivar el revés a la IA",
+      "s": "El varapalo bursátil sufrido en Asia por el revés a los valores más ligados a la IA pasa de puntillas por la renta variable europea. A la espera de los primeros resultados de Wall Street, la tregua del petróleo y de la deuda permite al Ibex consolidar el 1,33% ganado en la sesión de ayer. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/13/6acdc73b468aebdf418b456f.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "El BOE publica el calendario laboral de 2027: festivos y puentes en todas las comunidades autónomas",
+      "s": "El Boletín Oficial del Estado (BOE) publica hoy el calendario laboral de 2027, con 12 festivos nacionales, nueve comunes para toda España. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/13/6acdd8ae468aeb73758b45a3.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "30 premios en 125 años: por qué menos del 4% de los Nobel de ciencia han sido para mujeres",
+      "s": "Expertas aseguran que la estadística es preocupante, pero llaman a ampliar el debate y centrarse en las barreras previas que enfrentan las mujeres en sus trayectorias.",
       "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-      "d": "12 oct 2026"
+      "url": "https://www.bbc.com/mundo/articles/cr1exnelj2vxo?at_medium=RSS&at_campaign=rss",
+      "d": "13 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Día de la Hispanidad: las mejores imágenes del desfile del 12 de octubre",
-      "s": "El desfile militar del 12 de octubre y la recepción real congregan a los máximos responsables del Ejecutivo central, presidentes autonómicos, estamentos civiles y militares y otros representantes del mundo político y cultural en un acto enmarcado en plena precampaña electoral y el viaje de los…",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Las criptomonedas alternativas sufren un correctivo de hasta el 10%",
+      "s": "La menor euforia en el mercado cripto hace mella, sobre todo, en las altcoins. Las criptomonedas alternativas registran un revés que en las últimas 24 horas alcanza incluso el 10%, y el 15% en la última semana. Zcash, monero, hiperliquid o cardano destacan entre los más penalizados. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/economia/politica/album/2026/10/12/6acc92bce5fdea742b8b45a5.html",
-      "d": "12 oct 2026"
+      "url": "https://www.expansion.com/mercados/criptomonedas/2026/10/13/6acdf6cbe5fdea4c458b4591.html",
+      "d": "13 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El Brent se da la vuelta y vuelve a superar los 105 dólares",
-      "s": "El precio del petróleo brent, que a primera hora de la mañana registraba una caída de más del 1 % y se situaba en 103,5 dólares, se ha dado la vuelta este lunes y sube el 0,75 %, por lo que supera los 105 dólares. Leer",
+      "t": "Los decretos causan la retirada de 4.235 viviendas del alquiler en sólo diez días",
+      "s": "El 88,9% de las agencias inmobiliarias constata el impacto en el mercado del alquiler habitual tras las medidas contenidas en los decretos de vivienda aprobados por el Gobierno. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/12/6accbba3468aeb052c8b4571.html",
-      "d": "12 oct 2026"
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/10/13/6acdfedc468aeb667f8b456d.html",
+      "d": "13 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La 'fintech' ID Finance levanta 545 millones de euros",
+      "s": "La operación combina deuda y capital y servirá para seguir impulsando y mejorando Plazo, la 'app' financiera de la compañía que ofrece una tarjeta virtual y ayuda a los usuarios a gestionar su dinero de forma ágil y flexible. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/expansion-empleo/emprendedores/2026/10/13/6acdf095468aeb7e218b456e.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
       "art": "polar",
-      "t": "BTIG inicia cobertura de Quoin Pharmaceuticals con recomendación de compra",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/btig-inicia-cobertura-de-quoin-pharmaceuticals-con-recomendacion-de-compra-93CH-3869691",
-      "d": "12 oct 2026"
+      "t": "Por qué Donald Trump va directo a la yugular de Zelenski",
+      "s": "Por más que los aliados de EEUU pidan al presidente que apope a Ucrania, él no puede perdonar a su presidente que haya dejado en evidencia su propia incapacidad para cerrar acuerdos. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/13/6acdef70e5fdeac6058b4589.html",
+      "d": "13 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La creación de empresas sube un 5,7% en su mejor agosto en 19 años",
+      "s": "El número de nuevas sociedades mercantiles subió un 5,7% en agosto en comparación con el mismo mes de 2025, hasta sumar un total de 7.526 empresas, la mayor cifra en un mes de agosto desde 2007, según los datos publicados hoy por el Instituto Nacional de Estadística (INE). Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/13/6acdec76468aebdf418b457d.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Inditex, Iberdrola y ACS, para superar la travesía electoral",
+      "s": "Antonio Castelo, analista de iBroker, asegura que lo más importante para el mercado es que de los comicios del 29-N salga un Gobierno fuerte. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/podcasts/en-accion/2026/10/13/6acd6958468aeb585f8b458d.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Las empresas chinas de chips amenazan el rally bursátil de la IA",
+      "s": "Las turbulencias regresan a los valores y a los índices más ligados a la IA. Los avances de las empresas chinas de chips emergen como nuevo factor de presión. Su creciente competencia desata un correctivo que desinfla hasta un 6% al índice Kospi de Corea. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/13/6acdd2d5e5fdea3b588b458d.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
       "art": "polar",
-      "t": "Lazard reporta activos bajo gestión de 284.000 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/lazard-reporta-activos-bajo-gestion-de-284000-millones-de-dolares-93CH-3869686",
-      "d": "12 oct 2026"
+      "t": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
+      "s": "La montaña rusa se quedó atascasda y los pasajeros tuvieron que recibir apoyo para bajarse.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/crly0134j51xo?at_medium=RSS&at_campaign=rss",
+      "d": "13 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Italia planea incentivos fiscales para software en el presupuesto de 2027",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/economy-news/italia-planea-incentivos-fiscales-para-software-en-el-presupuesto-de-2027-93CH-3869685",
-      "d": "12 oct 2026"
+      "t": "Una lección de economía conductual",
+      "s": "Al MIDE por sus 20 años.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/leccion-economia-conductual-20261013-838307.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Cristina Rivera Garza y la estética del residuo",
+      "s": "En la presentación de su nuevo libro, \"Lo roto precede a lo entero\", en la FIL Monterrey, la ganadora del Premio Pulitzer reflexiona sobre el poder crítico de la literatura, el desaprendizaje en el oficio de escribir, la inteligencia artificial y la urgencia de construir lenguajes colectivos frente…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/arteseideas/cristina-rivera-garza-estetica-residuo-20261013-838304.html",
+      "d": "13 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La directora financiera de SentinelOne, Sonalee Parekh, vende acciones por 413.291 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-financiera-de-sentinelone-sonalee-parekh-vende-acciones-por-413291-dolares-93CH-3869680",
-      "d": "12 oct 2026"
+      "t": "Analizan obras para abasto de agua en Guadalajara",
+      "s": "La mandataria mencionó que en el sexenio anterior se construyó la presa El Zapotillo, como parte de las acciones para atender las necesidades de abastecimiento de agua en la zona metropolitana de Guadalajara, Jalisco, pero quedó pendiente un ducto cuya construcción también contemplaba una…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/analizan-obras-abasto-agua-guadalajara-20261013-838301.html",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "México y Egipto: grandes obras, viejas carencias",
+      "s": "Luxor, Egipto.- Esta es una ciudad pequeña, caótica y polvosa, junto al Nilo. No asusta a quienes vivimos en México y conocemos el tránsito desordenado, las construcciones sin terminar, las calles deterioradas y la basura acumulada. Sin embargo, hace unos 4,000 años se levantó aquí Tebas, capital…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/mexico-egipto-grandes-obras-viejas-carencias-20261013-838299.html",
+      "d": "13 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El director de Operaciones/Tecnología de Analog Devices vende acciones por 833.962 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-operacionestecnologia-de-analog-devices-vende-acciones-por-833962-dolares-93CH-3869679",
-      "d": "12 oct 2026"
+      "t": "En línea con el FMI, Milei explicó por qué este año la economía crecerá menos de lo previsto",
+      "s": "El Presidente además se mostró confiado en un buen 2027, de la mano del crédito hipotecario, la baja de la inflación, recuperación del consumo y las inversiones en obras viales más lo que entre por el RIGI",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/13/en-linea-con-el-fmi-milei-explico-por-que-este-ano-la-economia-crecera-menos-de-lo-previsto/",
+      "d": "13 oct 2026"
     },
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "El director ejecutivo de Innsuites Hospitality Trust vende 2.173 millones de dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-innsuites-hospitality-trust-vende-2173-millones-de-dolares-en-acciones-93CH-3869678",
+      "t": "El Indec publica hoy el dato de inflación de septiembre: qué esperan los especialistas",
+      "s": "El mercado proyecta una suba cercana al 1,9%, por encima del 1,7% de agosto. Alimentos y precios estacionales aparecen entre los factores que presionarían sobre el índice",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/13/el-indec-publica-hoy-el-dato-de-inflacion-de-septiembre-que-esperan-los-especialistas/",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La nafta acumula una suba del 23% en dólares en Argentina este año: cuáles son los precios en el resto de América Latina",
+      "s": "El contexto internacional, sumado a los aumentos de impuestos, provocaron un incremento de 0,263 dólares por litro en las bocas de expendio locales. Qué está pasando en la región",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/13/la-nafta-acumula-una-suba-del-23-en-dolares-en-argentina-este-ano-cuales-son-los-precios-en-el-resto-de-america-latina/",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Se agravó la crisis global de bonos soberanos y pone a prueba la baja del riesgo país argentino",
+      "s": "La tensión en Estados Unidos, Europa y Japón complica a los mercados. En la Argentina, los bonos buscan sostener la mejora reciente y la duda es si el riesgo país podrá mantenerse debajo de los 600 puntos",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/13/se-agravo-la-crisis-global-de-bonos-soberanos-y-pone-a-prueba-la-baja-del-riesgo-pais-argentino/",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Especial BBC: el desértico campo de batalla donde se libra una guerra con consecuencias globales",
+      "s": "La guerra civil en Yemen es ahora imposible de ignorar. Pero en los quirófanos de Adén, su ciudad portuaria, la geopolítica parece algo lejano.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmg471q9wrd4o?at_medium=RSS&at_campaign=rss",
+      "d": "13 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
+      "s": "El ataque contra el software de Danfoss afectó a unas 400 tiendas y los equipos llegaron a 50°C, con pérdidas estimadas en millones de euros.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/c6wydn1pvznqo?at_medium=RSS&at_campaign=rss",
       "d": "12 oct 2026"
     },
     {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
-      "t": "La china Avatr elige España para su entrada en Europa y anuncia el lanzamiento de seis coches",
-      "s": "La marca prémium del grupo Changan tiene previsto llegar a España durante el primer semestre de 2027 y ya está seleccionando concesionarios y socios locales. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/12/6accb5efe5fdea4b498b456d.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Robert E. Hall y Michael Woodford, premio Nobel de Economía 2026",
-      "s": "La Real Academia de las Ciencias de Suecia ha otorgado el Premio de Ciencias Económicas en Memoria de Alfred Nobel 2026 a los economistas estadounidenses Robert E. Hall y Michael Woodford. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/12/6accaef1468aebcd638b4575.html",
+      "t": "Cómo es Yandex, el \"Google de Rusia\" que se ha convertido en blanco de ataques de Ucrania",
+      "s": "El gigante tecnologico es una pieza clave para Rusia en el desarrollo de su propia IA y en su ambición por construir una internet \"soberana\".",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/c670pwl08kgeo?at_medium=RSS&at_campaign=rss",
       "d": "12 oct 2026"
     },
     {
@@ -122,183 +292,13 @@
       "d": "12 oct 2026"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Qué es la \"depresión sonriente\" y cómo puedes identificarla",
-      "s": "Parecer feliz por fuera pero estar sufriendo por dentro puede ser una forma atípica de depresión. Los estudios muestran que ocultar los verdaderos sentimientos puede ser perjudicial para la salud mental.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cmwyvd29kgkyo?at_medium=RSS&at_campaign=rss",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Berkeley se dispara en Bolsa más del 20% en dos sesiones",
-      "s": "Berkeley repunta en Bolsa más del 6% tras cerrar el viernes con un alza que superó el 14% al anunciar que propondrá en su junta de accionistas del 18 de noviembre el nombramiento como consejero de José Bogas, que fue consejero delegado de Endesa hasta abril. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/12/6acca0a3468aeb61778b459d.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Auditar a la IA: el nuevo reto de los inversores",
-      "s": "Invertir en IA ya no es sólo una cuestión de potencial, sino de riesgos ocultos. Los inversores intensifican sus auditorías y miden la seguridad como una deuda capaz de frenar las ventas o de bloquear futuras adquisiciones. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/emprendedores/2026/10/10/6ac909ed468aebbb268b4570.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "La IA no destruye las carreras, pero borra los primeros peldaños laborales",
-      "s": "La nueva edición del Barómetro E&E de habilidades profesionales refleja una paradoja de la inteligencia artificial: al automatizar las tareas rutinarias, las empresas ganan productividad pero suprimen el aprendizaje inicial de los recién llegados. Sin puestos para adquirir experiencia, la promoción…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/profesiones/2026/10/11/6ac7dd98468aebf62b8b456d.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La nueva elite laboral: sueldos de directivo para expertos sin equipo",
-      "s": "El nuevo Barómetro E&E de habilidades profesionales confirma un cambio de era en el empleo: la demanda de capacidades básicas de IA se desinfla mientras se disparan las especializaciones complejas. En la nueva escala profesional, el salario ya no depende del cargo, sino del impacto de las…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/profesiones/2026/10/11/6ac931d1e5fdeada6d8b4583.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El Ibex recupera los 19.100 puntos pendiente del petróleo",
-      "s": "Los futuros de las Bolsas europeas anticipan una apertura en positivo, con los inversores pendientes, una sesión más, del precio del petróleo y de los intereses de la deuda, a los que se suma el inicio de la temporada de resultados. El Ibex, en una jornada semifestiva, partirá desde los 19.033…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Hacia un invierno sin garantías para el gas",
-      "s": "Europa encara la próxima temporada invernal con las reservas de gas en mínimos desde 2011. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/opinion/2026/10/12/invierno-garantias-gas.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Dos siglos de una relación que mira hacia adelante",
-      "s": "Doscientos años de relación entre dos países no se explican solo por acuerdos o visitas de Estado. Se construyen con empresas, inversiones, ideas y generaciones de personas que han tendido puentes en ambos sentidos. En 2026, México y Francia conmemoramos un bicentenario de historias compartidas y…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/dos-siglos-relacion-mira-adelante-20261012-838109.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Reino Unido se pone a prueba con otro giro",
-      "s": "El primer ministro británico, el laborista Andy Burnham, ha desvelado por fin la mayoría de sus cartas con las que pretende deshacer buena parte de las reformas privatizadoras de Margaret Thatcher y construir el Reino Unido de la próxima década. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/opinion/2026/10/12/reino-unido-pone-prueba-giro.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Morena a los 15: los problemas de la adolescencia",
-      "s": "Morena cumple quince años. Conviene precisar la fecha, porque en ella hay una primera lección: en octubre de 2011 Andrés Manuel López Obrador fundó un movimiento, no un partido. Ni siquiera renunció entonces al PRD; de hecho, en 2012 fue su candidato presidencial por segunda ocasión. Sólo después…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/morena-15-problemas-adolescencia-20261012-838100.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Temporada de calor deja 152 muertes; 85% más que en el 2025, reporta SSA",
-      "s": "La temporada de calor en curso, que está por terminar, ya provocó 152 muertes en México, cifra equivalente a 85.3% más que los 82 fallecimientos registrados durante el mismo periodo del año pasado —Semana Epidemiológica (SE) 39—; los casos notificados en 2026 aumentaron 43% respecto de 2025 al…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/temporada-calor-deja-152-muertes-85-2025-reporta-ssa-20261012-838097.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Las rentas vitalicias ganan atractivo con más rentabilidad",
-      "s": "Las entidades renuevan la rentabilidad de sus productos tras la subida de los tipos de interés. Ofrecen rendimientos de hasta el 4%, que se mantienen durante toda la vida del asegurado. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/seguros/2026/10/12/6acbbb97468aeb0d508b45a8.html",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "La Argentina recupera participación en el comercio mundial: proyectan que en 2035 exportará USD 180.000 millones",
-      "s": "En 2023 tocó su piso histórico de proporción de las exportaciones globales, pero desde 2024 se viene recuperando. Desde entonces, su participación relativa aumentó 37% y este año, por primera vez, las ventas al exterior superarían los USD 100.000 millones",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/12/la-argentina-recupera-participacion-en-el-comercio-mundial-proyectan-que-en-2035-exportara-usd-180000-millones/",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Por qué los bonos de un gigante tech ya rinden casi lo mismo que los del Tesoro de Estados Unidos",
-      "s": "El aumento de las tasas que deben pagar “soberanos” como EEUU y otras grandes economías comprimió la diferencia con las grandes corporaciones. Déficits, deudas, competencia por capital con la IA y el impacto en países como la Argentina",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/12/por-que-los-bonos-de-un-gigante-tech-ya-rinden-casi-lo-mismo-que-los-del-tesoro-de-estados-unidos/",
-      "d": "12 oct 2026"
-    },
-    {
       "r": "asia",
       "tag": "Asia y Medio Oriente",
       "art": "missile",
-      "t": "\"Cada día muere gente\": las familias en Gaza que siguen bajo los ataques israelíes pese al alto el fuego, mientras el acuerdo de paz se estanca",
-      "s": "A un año del alto el fuego, en Gaza denuncian que cada día mueren personas por ataques israelíes y aún no comienzan las labores de reconstrucción.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c95ynxjmp253o?at_medium=RSS&at_campaign=rss",
-      "d": "12 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Dos ataques contra el aeropuerto internacional de Riad el fin de semana dejan al menos 14 muertos y más de 300 heridos",
-      "s": "Estos hechos ocurren días después de que los hutíes de Yemen reivindicaran ataques similares contra dicha instalación.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
-      "d": "11 oct 2026"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "La costa del Pacífico de México se enfrenta a los efectos del poderoso huracán Simon",
-      "s": "Uno de los mayores peligros de Simon es, además de las lluvias torrenciales y los vientos catastróficos, la marejada ciclónica que afecta a la costa.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
-      "d": "11 oct 2026"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Denuncian un bajo control de la pesca en el Mar Argentino, mientras Malvinas y China participan de un acuerdo sobre una especie clave",
-      "s": "“El mar como caja negra” se titula un estudio que delata la falta de inspecciones, en especial en el caso del calamar, la especie más buscada por pesqueras del gigante asiático, que además de asolar la “Milla 201″ controlan el grueso de los buques que operan en aguas nacionales",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/11/denuncian-un-bajo-control-de-la-pesca-en-el-mar-argentino-mientras-malvinas-y-china-participan-de-un-acuerdo-sobre-una-especie-clave/",
+      "t": "Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita",
+      "s": "Un ataque con misiles de los hutíes contra el principal aeropuerto de Riad dejó al menos 12 muertos y más de 300 heridos. El Secretario General de la ONU condenó el bombardeo y exigió el cese inmediato de los ataques contra civiles, en medio de una nueva escalada de la guerra en Yemen que agrava…",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542037",
       "d": "11 oct 2026"
     }
   ]
