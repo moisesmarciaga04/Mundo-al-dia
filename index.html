@@ -123,9 +123,14 @@ footer strong{color:var(--ink);font-weight:600}
 .oil-intro p{font-family:var(--sans);color:var(--muted);font-size:.95rem;margin:0 0 18px;max-width:40rem}
 .oil-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-bottom:10px}
 .oil-card h3{font-family:var(--sans);font-weight:600;font-size:.95rem;margin:0 0 8px;color:var(--ink)}
-.tradingview-widget-container{border:1px solid var(--line);height:340px}
-.tradingview-widget-container > div{height:100%}
+.tradingview-widget-container{border:1px solid var(--line)}
+.oil-card .tradingview-widget-container{height:340px}
+.oil-card .tradingview-widget-container > div{height:100%}
 .oil-note{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:10px 0 30px}
+.bolsa-intro{padding:28px 0 4px}
+.bolsa-intro h2{font-family:var(--serif);font-weight:700;font-size:1.7rem;letter-spacing:-.01em;margin:0 0 6px}
+.bolsa-intro p{font-family:var(--sans);color:var(--muted);font-size:.95rem;margin:0 0 18px;max-width:40rem}
+.bolsa-note{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:10px 0 30px}
 
 @media (max-width:820px){
   .oil-grid{grid-template-columns:1fr}
@@ -157,6 +162,73 @@ footer strong{color:var(--ink);font-weight:600}
 
 <div class="wrap">
   <nav class="sections" aria-label="Secciones" id="filters"></nav>
+</div>
+
+<div class="wrap" id="bolsaCharts" hidden>
+  <div class="bolsa-intro">
+    <h2>Bolsa de valores en vivo</h2>
+    <p>El S&amp;P 500 y las principales empresas de Estados Unidos, junto a las principales empresas internacionales. Cambia de pestaña dentro del propio recuadro para ver cada grupo.</p>
+  </div>
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+    {
+      "colorTheme": "light",
+      "dateRange": "12M",
+      "showChart": true,
+      "locale": "es",
+      "largeChartUrl": "",
+      "isTransparent": false,
+      "showSymbolLogo": true,
+      "showFloatingTooltip": false,
+      "width": "100%",
+      "height": "500",
+      "plotLineColorGrowing": "rgba(11, 92, 173, 1)",
+      "plotLineColorFalling": "rgba(11, 92, 173, 1)",
+      "gridLineColor": "rgba(226, 230, 234, 1)",
+      "scaleFontColor": "rgba(91, 103, 115, 1)",
+      "belowLineFillColorGrowing": "rgba(11, 92, 173, 0.12)",
+      "belowLineFillColorFalling": "rgba(11, 92, 173, 0.12)",
+      "symbolActiveColor": "rgba(11, 92, 173, 0.12)",
+      "tabs": [
+        {
+          "title": "Estados Unidos",
+          "originalTitle": "Estados Unidos",
+          "symbols": [
+            {"s":"SP:SPX","d":"S&P 500"},
+            {"s":"NASDAQ:AAPL","d":"Apple"},
+            {"s":"NASDAQ:MSFT","d":"Microsoft"},
+            {"s":"NASDAQ:NVDA","d":"Nvidia"},
+            {"s":"NASDAQ:GOOGL","d":"Alphabet (Google)"},
+            {"s":"NASDAQ:AMZN","d":"Amazon"},
+            {"s":"NASDAQ:META","d":"Meta"},
+            {"s":"NYSE:BRK.B","d":"Berkshire Hathaway"},
+            {"s":"NASDAQ:TSLA","d":"Tesla"},
+            {"s":"NYSE:LLY","d":"Eli Lilly"},
+            {"s":"NASDAQ:AVGO","d":"Broadcom"}
+          ]
+        },
+        {
+          "title": "Internacional",
+          "originalTitle": "Internacional",
+          "symbols": [
+            {"s":"TADAWUL:2222","d":"Saudi Aramco"},
+            {"s":"NYSE:TSM","d":"TSMC"},
+            {"s":"KRX:005930","d":"Samsung Electronics"},
+            {"s":"OTC:TCEHY","d":"Tencent"},
+            {"s":"NYSE:NVO","d":"Novo Nordisk"},
+            {"s":"EURONEXT:MC","d":"LVMH"},
+            {"s":"NASDAQ:ASML","d":"ASML"},
+            {"s":"NYSE:TM","d":"Toyota"},
+            {"s":"NYSE:SHEL","d":"Shell"},
+            {"s":"OTC:NSRGY","d":"Nestlé"}
+          ]
+        }
+      ]
+    }
+    </script>
+  </div>
+  <p class="bolsa-note">Datos y gráfica cortesía de TradingView. Los valores pueden tener algunos minutos de rezago según el mercado; es información orientativa, no para operar en bolsa.</p>
 </div>
 
 <div class="wrap" id="petroleoCharts" hidden>
@@ -449,6 +521,7 @@ var STORIES = [];
       b.setAttribute("aria-pressed","true");
       if(location.hash.indexOf("#/nota/") === 0){ location.hash = "#/"; }
       document.getElementById("petroleoCharts").hidden = (current !== "petroleo");
+      document.getElementById("bolsaCharts").hidden = (current !== "economia");
       renderHome();
     });
     fbox.appendChild(b);
