@@ -1,5 +1,6 @@
 // Actualiza noticias.json leyendo feeds RSS públicos.
-// Enfocado en economía, finanzas y política económica mundial.
+// Enfocado en economía global, bolsa de valores (EE. UU. e internacional)
+// y una sección propia dedicada solo al petróleo.
 // Requiere Node 20 o superior. No usa dependencias externas.
 //
 // Uso:   node scripts/actualizar-noticias.mjs
@@ -13,38 +14,39 @@ import { pathToFileURL } from "node:url";
 // ------------------------------------------------------------------
 const CONFIG = {
   feeds: [
-    // Generales, para mantener contexto mundial
     { nombre: "BBC Mundo",    url: "https://feeds.bbci.co.uk/mundo/rss.xml" },
     { nombre: "DW Español",   url: "https://rss.dw.com/xml/rss-es-all" },
     { nombre: "Noticias ONU", url: "https://news.un.org/feed/subscribe/es/news/all/rss.xml" },
-    // Especializados en economía y finanzas
-    { nombre: "Investing.com", url: "https://es.investing.com/rss/news.rss" },
-    { nombre: "El Economista", url: "https://www.eleconomista.com.mx/rss/ultimas-noticias" },
-    { nombre: "Expansión",     url: "https://e00-expansion.uecdn.es/rss/portada.xml" },
+    { nombre: "Investing.com",    url: "https://es.investing.com/rss/news.rss" },
+    { nombre: "El Economista",    url: "https://www.eleconomista.com.mx/rss/ultimas-noticias" },
+    { nombre: "Expansión",        url: "https://e00-expansion.uecdn.es/rss/portada.xml" },
     { nombre: "Infobae Economía", url: "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml" }
   ],
-  maxPorFeed: 14,         // noticias que se leen de cada feed antes de filtrar
-  maxTotal: 30,           // noticias totales en la portada
-  maxDias: 3,             // se ignoran notas más viejas que esto
-  minimoParaGuardar: 6,   // si salen menos, se conserva el archivo anterior
+  maxPorFeed: 16,
+  maxTotal: 36,
+  maxDias: 3,
+  minimoParaGuardar: 6,
   maxExtracto: 300,
-  usarImagenesDelFeed:  true,
+  usarImagenesDelFeed: true,
   archivo: "noticias.json",
-  // Cuántas noticias como máximo entran en la portada por sección.
-  // Economía tiene la cuota más alta: así la portada gira en torno a ella.
-  cuotas: { economia: 14, europa: 4, americas: 4, asia: 3, africa: 2, ciencia: 2, mundo: 3 }
+  cuotas: { economia: 16, petroleo: 7, europa: 3, americas: 3, asia: 3, africa: 2, ciencia: 2, mundo: 3 }
 };
 
-// Secciones: se elige la que más palabras clave coincida con el titular y el extracto.
 const SECCIONES = {
-  economia: { etiqueta: "Economía", art: "rates", palabras: [
-    "economía","economia","inflación","inflacion","petróleo","petroleo","bolsa","mercados","mercado","banco central",
-    "bancos centrales","tasas de interés","tasa de interes","tipos de interés","FMI","Banco Mundial","comercio","aranceles",
-    "sanciones económicas","precios","empleo","desempleo","deuda","déficit","presupuesto","gasto público","impuestos",
-    "PIB","producto interno bruto","inversión","inversion","empresas","dólar","dolar","euro","yuan","crudo","Brent",
-    "Wall Street","criptomonedas","bitcoin","Reserva Federal","Fed","BCE","recesión","recesion","crecimiento económico",
-    "exportaciones","importaciones","divisa","tipo de cambio","acciones","bono","bonos","subsidios","política monetaria",
-    "política fiscal","OPEP" ]},
+  economia: { etiqueta: "Economía y Bolsa", art: "rates", palabras: [
+    "economía","economia","inflación","inflacion","bolsa","bolsas","bolsa de valores","mercados","mercado financiero",
+    "banco central","bancos centrales","tasas de interés","tasa de interes","tipos de interés","FMI","Banco Mundial",
+    "comercio","aranceles","sanciones económicas","precios","empleo","desempleo","deuda","déficit","presupuesto",
+    "gasto público","impuestos","PIB","producto interno bruto","inversión","inversion","empresas","dólar","dolar",
+    "euro","yuan","Wall Street","Dow Jones","S&P 500","Nasdaq","IBEX 35","Ibex35","bolsa de Nueva York","NYSE",
+    "mercados emergentes","renta variable","renta fija","fondo de inversión","acciones","bono","bonos",
+    "criptomonedas","bitcoin","Reserva Federal","Fed","BCE","recesión","recesion","crecimiento económico",
+    "exportaciones","importaciones","divisa","tipo de cambio","subsidios","política monetaria","política fiscal" ]},
+  petroleo: { etiqueta: "Petróleo", art: "oilrig", palabras: [
+    "petróleo","petroleo","crudo","Brent","WTI","OPEP","OPEP+","barril","barriles","refinería","refineria",
+    "oleoducto","producción petrolera","produccion petrolera","reservas petroleras","exportaciones de petróleo",
+    "sanciones petroleras","Aramco","Pemex","Ecopetrol","YPF","gasolina","diésel","diesel","gas natural",
+    "estrecho de Ormuz","Hormuz","petrolero","tanquero","yacimiento petrolero","campo petrolero" ]},
   americas: { etiqueta: "Américas", art: "polar", palabras: [
     "Estados Unidos","EE.UU.","EEUU","Trump","Casa Blanca","Washington","México","Brasil","Argentina","Colombia","Venezuela",
     "Canadá","Panamá","Chile","Perú","Cuba","Ecuador","Bolivia","Uruguay","Paraguay","Haití","Groenlandia","Centroamérica","Latinoamérica","Caribe" ]},
@@ -53,7 +55,7 @@ const SECCIONES = {
     "OTAN","Polonia","Londres","París","Berlín","Moscú","Kiev","Parlamento Europeo","Europa" ]},
   asia: { etiqueta: "Asia y Medio Oriente", art: "missile", palabras: [
     "Irán","Israel","Gaza","Palestina","China","India","Japón","Arabia Saudita","Yemen","hutíes","Pakistán","Siria","Líbano",
-    "Corea","Taiwán","Irak","Afganistán","Qatar","Emiratos","Ormuz","Hezbolá","Tailandia","Indonesia","Filipinas","Birmania","Turquía" ]},
+    "Corea","Taiwán","Irak","Afganistán","Qatar","Emiratos","Hezbolá","Tailandia","Indonesia","Filipinas","Birmania","Turquía" ]},
   africa: { etiqueta: "África y Oceanía", art: "boats", palabras: [
     "Sudán","Nigeria","Marruecos","Etiopía","Egipto","Kenia","Sudáfrica","Congo","Yibuti","Somalia","Sahel","Túnez","Libia",
     "Argelia","Mali","Níger","Uganda","Ghana","Camerún","Mozambique","África","Australia","Nueva Zelanda","Oceanía","Pacífico" ]},
@@ -63,9 +65,6 @@ const SECCIONES = {
 };
 const POR_DEFECTO = { etiqueta: "Mundo", art: "polar" };
 
-// ------------------------------------------------------------------
-// Utilidades
-// ------------------------------------------------------------------
 const normalizar = (s) => s.toLowerCase().normalize("NFD").replace(/\p{Diacritic}/gu, "");
 const escapar = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
@@ -117,9 +116,6 @@ function fechaLegible(d) {
   return d.toLocaleDateString("es", { day: "numeric", month: "short", year: "numeric" }).replace(/\./g, "");
 }
 
-// ------------------------------------------------------------------
-// Lectura de un feed RSS 2.0
-// ------------------------------------------------------------------
 export function leerRss(xml, nombreFuente) {
   const bloques = xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || [];
   const items = [];
@@ -145,9 +141,6 @@ async function descargar(feed) {
   return leerRss(await r.text(), feed.nombre);
 }
 
-// ------------------------------------------------------------------
-// Armado de la portada: aplica cuotas por sección, con economía primero
-// ------------------------------------------------------------------
 export function armarPortada(porFeed, ahora = new Date()) {
   const limite = ahora.getTime() - CONFIG.maxDias * 86400000;
   const vistosUrl = new Set(), vistosTitulo = new Set();
@@ -203,9 +196,6 @@ export function armarPortada(porFeed, ahora = new Date()) {
   });
 }
 
-// ------------------------------------------------------------------
-// Programa principal
-// ------------------------------------------------------------------
 async function principal() {
   const resultados = await Promise.allSettled(CONFIG.feeds.map(descargar));
   const listas = [];
@@ -224,16 +214,17 @@ async function principal() {
   console.log(`Guardadas ${items.length} noticias en ${CONFIG.archivo}`);
 }
 
-// Prueba sin internet: comprueba que el lector entiende un feed de ejemplo
 async function prueba() {
   const ahora = new Date();
   const rfc = ahora.toUTCString();
   const xml = `<?xml version="1.0"?><rss><channel>
   <item><title><![CDATA[Bancos centrales suben tasas de interés por la inflación y el petróleo]]></title>
    <link>https://ejemplo.com/a</link><description><![CDATA[<p>Los <b>mercados</b> reaccionan &amp; el crudo sube.</p>]]></description><pubDate>${rfc}</pubDate></item>
-  <item><title>Ucrania y Rusia intercambian ataques con drones en la frontera</title>
-   <link>https://ejemplo.com/b</link><description>Nueva ronda de ataques.</description><pubDate>${rfc}</pubDate></item>
-  <item><title>Título corto</title><link>https://ejemplo.com/c</link><pubDate>${rfc}</pubDate></item>
+  <item><title>Wall Street cierra con fuertes alzas en el Dow Jones y el Nasdaq</title>
+   <link>https://ejemplo.com/b</link><description>Las acciones tecnológicas impulsaron la bolsa.</description><pubDate>${rfc}</pubDate></item>
+  <item><title>El precio del barril de Brent sube tras un recorte de la OPEP+</title>
+   <link>https://ejemplo.com/c</link><description>El crudo cotiza al alza tras el anuncio.</description><pubDate>${rfc}</pubDate></item>
+  <item><title>Título corto</title><link>https://ejemplo.com/d</link><pubDate>${rfc}</pubDate></item>
   </channel></rss>`;
   const leidos = leerRss(xml, "Fuente de prueba");
   console.log(JSON.stringify(armarPortada([leidos], ahora), null, 2));
