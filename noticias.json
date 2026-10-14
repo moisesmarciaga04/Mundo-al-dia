@@ -1,16 +1,52 @@
 {
-  "actualizado": "2026-10-14T21:07:58.890Z",
+  "actualizado": "2026-10-14T21:29:41.462Z",
   "items": [
     {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero",
-      "s": "El titular de la petrolera de mayoría estatal habló en el tradicional almuerzo del del Consejo Interamericano de Comercio y Producción, en el Hotel Alvear. Los números de la empresa y foco total en Vaca Muerta",
+      "t": "La inflación en EEUU impactó en los mercados: cayeron las acciones y el riesgo país superó los 600 puntos",
+      "s": "Los índices de Wall Street perdieron hasta 1,9% luego de conocido que el IPC norteamericano se elevó al 3,7% anual. El S&P Merval bajó 1,2%",
       "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/horacio-marin-de-ypf-en-el-cicyp-la-inspiracion-de-messi-y-como-argentina-paso-de-ser-un-pais-con-petroleo-a-uno-petrolero/",
+      "url": "https://www.infobae.com/economia/2026/10/14/la-inflacion-en-eeuu-lleva-cautela-a-los-mercados-caen-las-acciones-y-los-bonos-argentinos/",
       "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/YY6F6ZV37FA5XNUZREKMEON2ZE.jpg?auth=82a092b7ca806c725ef7281bb3005ce9fe15a697a0b81dd50838e49e7a0cbbfc&smart=true&width=1920&height=1080",
+      "img": "https://www.infobae.com/resizer/v2/OBSYU3IUG5C7RE53TRWC7TVNI4.JPG?auth=fde6b863f93751fb3546d6ef72b73972838e75a9c82a3cd18d9d18d0b9f21a04&smart=true&width=6000&height=4000",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Jornada financiera: el mal clima global golpeó a la Argentina y el riesgo país volvió a superar los 600 puntos",
+      "s": "Los indicadores de Wall Street perdieron hasta 1,9% tras conocerse que la inflación en EEUU subió al 3,7% anual. El S&P Merval bajó 1,2% y el riesgo país aumentó 12 unidades",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/jornada-financiera-el-mal-clima-global-golpeo-a-la-argentina-y-el-riesgo-pais-volvio-a-superar-los-600-puntos/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/HT7TM2ZT2ZBBHEJREGFGUDXU3Q.JPG?auth=9a45e62484849c4715f242dcb59aaa69dbcfd8eba8fac1141976a7b85f6e5e43&smart=true&width=5474&height=3649",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Brugada descarta aumentar el predial en CDMX y prevé eliminar multas y recargos en 2027",
+      "s": "En la presentación de su segundo informe de Gobierno, la funcionaria explicó que la meta es mejorar la recaudación sin incrementar la carga fiscal.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/estados/brugada-descarta-aumentar-predial-cdmx-preve-eliminar-multas-recargos-20261014-838602.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/10/14/6acff15a62b0e.r_d.1077-392-0.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Argentina firmó con EEUU un protocolo adicional para fortalecer el acuerdo bilateral sobre Comercio e Inversiones Recíprocas",
+      "s": "En el marco de la visita de Javier Milei a Washington, el canciller firmó con el representante comercial de la administración Trump un protocolo adicional que consolida la agenda bilateral entre Balcarce 50 y la Casa Blanca",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/argentina-firmo-con-eeuu-un-protocolo-adicional-para-fortalecer-el-acuerdo-bilateral-sobre-comercio-e-inversiones-reciprocas/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/GN6K5ZNPYND7BAFYTNKJSJO3OM.jpg?auth=985817157c0f5b75d2bf3e4423797ecd650e912087365346e421b4f21102624e&smart=true&width=1920&height=1536",
       "credit": "Imagen: Infobae Economía"
     },
     {
@@ -26,16 +62,124 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "SpaceX limita el acceso a Starlink en Ucrania y genera sospechas",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/spacex-limita-el-acceso-a-starlink-en-ucrania-y-genera-sospechas-3874437",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
-      "t": "La inflación en EEUU llevó cautela a los mercados: cayeron las acciones y el riesgo país superó los 600 puntos",
-      "s": "Los índices de Wall Street perdieron hasta 1,9% luego de conocido que el IPC norteamericano se elevó al 3,7% anual. El S&P Merval bajó 1,2%",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/la-inflacion-en-eeuu-lleva-cautela-a-los-mercados-caen-las-acciones-y-los-bonos-argentinos/",
+      "t": "Peso mexicano se deprecia frente al dólar tras datos de inflación de Estados Unidos",
+      "s": "El peso perdió terreno ante un fortalecimiento del dólar tras la publicación del reporte de inflación de EU, que respaldó las apuestas por un alza en la tasa de la Fed en el corto plazo.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-14-octubre-2026-cuanto-cerro-20261014-838601.html",
       "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/OBSYU3IUG5C7RE53TRWC7TVNI4.JPG?auth=fde6b863f93751fb3546d6ef72b73972838e75a9c82a3cd18d9d18d0b9f21a04&smart=true&width=6000&height=4000",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/08/6ac7c47fefc72.webp",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Fairfax seleccionada para adquirir el 60,72% de IDBI Bank por 5.600 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/fairfax-seleccionada-para-adquirir-el-6072-de-idbi-bank-por-5600-millones-de-dolares-93CH-3874436",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero",
+      "s": "El titular de la petrolera de mayoría estatal habló en el tradicional almuerzo del Consejo Interamericano de Comercio y Producción, en el Hotel Alvear. Los números de la empresa y foco total en Vaca Muerta",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/horacio-marin-de-ypf-en-el-cicyp-la-inspiracion-de-messi-y-como-argentina-paso-de-ser-un-pais-con-petroleo-a-uno-petrolero/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/YY6F6ZV37FA5XNUZREKMEON2ZE.jpg?auth=82a092b7ca806c725ef7281bb3005ce9fe15a697a0b81dd50838e49e7a0cbbfc&smart=true&width=1920&height=1080",
       "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "El papa León XIV evoluciona favorablemente tras ser operado de un cáncer de pulmón",
+      "s": "En la intervención quirúrgica realizada el martes se extirpó parte del pulmón derecho del papa, quien ahora está a la espera de los resultados de una biopsia para determinar si el cáncer se ha extendido.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/papa-leon-xiv-evoluciona-favorablemente-operado-cancer-pulmon-20261014-838599.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfedb877f10.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Reportan localización de 16,000 personas mediante la Estrategia Nacional de Búsqueda; integran grupo de especialistas",
+      "s": "Gracias a las acciones de la Estrategia Nacional de Búsqueda se han localizado en los últimos meses a más de 16 mil personas, informó la Secretaría de Gobernación (Segob), al tiempo que dio a conocer la integración de un grupo de nueve expertos nacionales e internacionales que realizará el análisis…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/reportan-localizacion-16-000-personas-mediante-estrategia-nacional-busqueda-integran-grupo-especialistas-20261014-838598.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfee74b31d9.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "NXT Energy completa encuesta en África y se moviliza hacia el sur de Asia",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/nxt-energy-completa-encuesta-en-africa-y-se-moviliza-hacia-el-sur-de-asia-93CH-3874431",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM502AK_150x108_S.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Aptar Pharma obtiene el marcado CE para su dispositivo de vacuna intranasal",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/aptar-pharma-obtiene-el-marcado-ce-para-su-dispositivo-de-vacuna-intranasal-93CH-3874430",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "Afiliados de Silver Lake venden acciones de Dell por 29,4 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/afiliados-de-silver-lake-venden-acciones-de-dell-por-294-millones-de-dolares-93CH-3874426",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía",
+      "art": "rates",
+      "t": "La directora ejecutiva de United Therapeutics vende acciones por 5,18 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/la-directora-ejecutiva-de-united-therapeutics-vende-acciones-por-518-millones-de-dolares-93CH-3874425",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -62,54 +206,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Diputados aprueban en lo general la Ley de Ingresos; prevén maratónica discusión para lo particular",
-      "s": "El pleno de San Lázaro tiene como fecha máxima el 15 de octubre para aprobar la Ley de Ingresos de la Federación 2027 y turnarla al Senado de la República, quien a su vez tendrá hasta el 31 de dicho mes para dictaminarla, analizarla y votarla.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/economia/diputados-aprueban-general-ley-ingresos-preven-maratonica-discusion-particular-20261014-838594.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfe8eea905e.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Kairos Power recauda 643 millones de dólares para reactor en Tennessee",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/kairos-power-recauda-643-millones-de-dolares-para-reactor-en-tennessee-93CH-3874371",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEA990FF_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Ritchie Bros. amplía su subasta de Orlando a seis días en 2027",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/ritchie-bros-amplia-su-subasta-de-orlando-a-seis-dias-en-2027-93CH-3874370",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3F142_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Mayfair Gold completa una inversión de 10 millones de dólares canadienses de Macquarie Bank",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/mayfair-gold-completa-una-inversion-de-10-millones-de-dolares-canadienses-de-macquarie-bank-93CH-3874368",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/Gold_800x533_L_1629277091.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
       "r": "economia",
       "tag": "Economía",
       "art": "rates",
@@ -131,18 +227,6 @@
       "url": "https://www.infobae.com/economia/2026/10/14/el-banco-central-compro-otros-usd-100-millones-y-busca-fortalecer-la-bazuca-de-dolares-para-evitar-tensiones-en-2027/",
       "d": "14 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/24WL2TUV4JB7VJ574XLRZATKLI.jpg?auth=88829582d004877c8c6bc45b87ca16592e5627c2a313eb751f9a0246b010d157&smart=true&width=3909&height=2606",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Argentina firmó con EEUU un protocolo adicional para fortalecer el acuerdo bilateral sobre Comercio e Inversiones Recíprocas",
-      "s": "En el marco de la visita de Javier Milei a Washington, el canciller firmó con el representante comercial de la administración Trump un protocolo adicional que consolida la agenda bilateral entre Balcarce 50 y la Casa Blanca",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/argentina-firmo-con-eeuu-un-protocolo-adicional-para-fortalecer-el-acuerdo-bilateral-sobre-comercio-e-inversiones-reciprocas/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/GN6K5ZNPYND7BAFYTNKJSJO3OM.jpg?auth=985817157c0f5b75d2bf3e4423797ecd650e912087365346e421b4f21102624e&smart=true&width=1920&height=1536",
       "credit": "Imagen: Infobae Economía"
     },
     {
@@ -242,42 +326,6 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Libro Beige de la Fed muestra presiones inflacionarias en un contexto de alzas de los combustibles",
-      "s": "La encuesta sirve como una especie de barómetro de las presiones económicas a las que se enfrentan los votantes estadounidenses antes de las elecciones legislativas del 3 de noviembre.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/sectorfinanciero/libro-beige-fed-muestra-presiones-inflacionarias-contexto-alzas-combustibles-20261014-838584.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/21/6a603811025df.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El dólar operó estable a la espera de una licitación de deuda clave del Tesoro",
-      "s": "La Secretaría de Finanzas procura extender plazos para después de las elecciones y renovar vencimientos por $4,9 billones. La divisa mayorista quedó a $1.513 y al público continuó a $1.535 en el Banco Nación",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/el-dolar-opero-estable-a-la-espera-de-una-licitacion-de-deuda-clave-del-tesoro/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/4FIYU67BWNACFPF7BB7672MRTU.JPG?auth=857e9dea46a10122cc6c0369736a17bc85717b1933d4a258479a05aaad12645c&smart=true&width=4000&height=2492",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "El FMI elogió el ajuste fiscal de Argentina al tiempo que reclamó reducir exenciones impositivas y mejorar la calidad del gasto",
-      "s": "Era Dabla-Norris, subdirectora de Asuntos Fiscales del organismo, pidió avanzar con reformas tributarias, reemplazar gravámenes distorsivos y focalizar los subsidios en los hogares vulnerables.",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/el-fmi-elogio-el-ajuste-fiscal-de-argentina-al-tiempo-que-reclamo-reducir-exenciones-impositivas-y-mejorar-la-calidad-del-gasto/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/7TM2PTXSYVH6NLFR2OVDVTDC6E.jpg?auth=8e5e3b9b03267461468fee8a3aa676856b01359ecf3e82dee559fa720c9ece71&smart=true&width=1920&height=1080",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
@@ -287,18 +335,6 @@
       "url": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html",
       "d": "14 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919988517018_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Las acciones del sector de defensa europeo emiten una señal de alarma geopolítica",
-      "s": "Incluso cuando los Gobiernos comprometen grandes sumas, los contratistas de defensa tardan un tiempo en aumentar su producción. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/14/acciones-sector-defensa-europeo-emiten-senal-alarma-geopolitica.html",
-      "d": "14 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919970891794_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
@@ -324,42 +360,6 @@
       "d": "14 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919891436049_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Yemen: la ONU advierte de una \"catástrofe humanitaria\" mientras los combates bloquean la entrega de ayuda",
-      "s": "Los combates en Yemen han cortado la ayuda vital a 800.000 personas. \"Esto puede convertirse rápidamente en una catástrofe humanitaria”, advierte la agencia de la ONU encargada de la distribución de comida, que tiene a 37 de sus trabajadores entre los 72 miembros del personal de la ONU detenidos…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542058",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-04.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "De Gaza a Sevilla: la maleta con los papeles de Suha",
-      "s": "Una refugiada palestina de Gaza estudió y trabajó con ayuda de la UNRWA. Hoy teme que la agencia de la ONU desaparezca y con ella los documentos que prueban de dónde viene. Es la protagonista del primer episodio de Sin la ONU, un nuevo podcast narrativo.",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542047",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/Suha%20Alnajjar.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Solo el 21 % de las mujeres europeas sabe que el alcohol puede causar cáncer de mama",
-      "s": "La agencia para la salud de la ONU lanza un portal con un asistente de inteligencia artificial que responde solo con evidencia verificada y muestra la fuente de cada respuesta, para que \"las conversaciones sobre el alcohol sean una parte normal de la atención, no un añadido incómodo\".",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542057",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-02-2023-Unsplash-Breast-Cancer-awareness.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
     }
   ]
 }
