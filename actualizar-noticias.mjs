@@ -24,7 +24,9 @@ const CONFIG = {
   ],
   maxPorFeed: 30,
   maxTotal: 78,
-  maxDias: 3,
+  maxDias: 3,             // se prefieren notas de estos últimos días
+  maxDiasRespaldo: 14,    // si una sección no junta el mínimo, se buscan notas de hasta estos días atrás
+  minimoPorSeccion: 2,    // noticias mínimas que se intentan garantizar por sección
   minimoParaGuardar: 6,
   maxExtracto: 420,
   usarImagenesDelFeed: true,
@@ -142,37 +144,56 @@ async function descargar(feed) {
 }
 
 export function armarPortada(porFeed, ahora = new Date()) {
-  const limite = ahora.getTime() - CONFIG.maxDias * 86400000;
   const vistosUrl = new Set(), vistosTitulo = new Set();
-  const elegidos = [];
+  const todos = [];
 
+  // Primero se juntan todas las noticias recibidas, sin filtrar aún por fecha,
+  // para poder usar las más viejas como respaldo si una sección se queda corta.
   for (const lista of porFeed) {
-    const recientes = lista
-      .filter((i) => i.fecha.getTime() >= limite && i.fecha.getTime() <= ahora.getTime() + 3600000)
+    const ordenado = [...lista]
+      .filter((i) => i.fecha.getTime() <= ahora.getTime() + 3600000) // descarta fechas futuras erróneas
       .sort((a, b) => b.fecha - a.fecha)
       .slice(0, CONFIG.maxPorFeed);
-    for (const i of recientes) {
+    for (const i of ordenado) {
       const claveTitulo = normalizar(i.titulo).slice(0, 60);
       if (vistosUrl.has(i.url) || vistosTitulo.has(claveTitulo)) continue;
       vistosUrl.add(i.url); vistosTitulo.add(claveTitulo);
-      elegidos.push(i);
+      todos.push(i);
     }
   }
 
-  elegidos.sort((a, b) => b.fecha - a.fecha);
-  const clasificados = elegidos.map((i) => ({ ...i, sec: clasificar(`${i.titulo} ${i.descripcion}`) }));
+  todos.sort((a, b) => b.fecha - a.fecha);
+  const clasificados = todos.map((i) => ({ ...i, sec: clasificar(`${i.titulo} ${i.descripcion}`) }));
 
   const porSeccion = {};
   for (const it of clasificados) {
-    const k = it.sec.clave;
-    (porSeccion[k] ||= []).push(it);
+    (porSeccion[it.sec.clave] ||= []).push(it); // ya viene ordenado de más nuevo a más viejo
   }
+
+  const limite = ahora.getTime() - CONFIG.maxDias * 86400000;
+  const limiteRespaldo = ahora.getTime() - CONFIG.maxDiasRespaldo * 86400000;
 
   const finales = [];
   const usados = new Set();
   for (const [clave, cuota] of Object.entries(CONFIG.cuotas)) {
-    const lista = (porSeccion[clave] || []).slice(0, cuota);
-    for (const it of lista) { finales.push(it); usados.add(it.url); }
+    const lista = porSeccion[clave] || [];
+    let elegidosSec = lista.filter((it) => it.fecha.getTime() >= limite).slice(0, cuota);
+
+    // Respaldo: si la sección no junta el mínimo con noticias recientes,
+    // se completa con las noticias de esa misma sección un poco más viejas,
+    // en vez de dejarla vacía.
+    if (elegidosSec.length < CONFIG.minimoPorSeccion) {
+      const yaElegidas = new Set(elegidosSec.map((it) => it.url));
+      for (const it of lista) {
+        if (elegidosSec.length >= CONFIG.minimoPorSeccion) break;
+        if (yaElegidas.has(it.url)) continue;
+        if (it.fecha.getTime() < limiteRespaldo) continue;
+        elegidosSec.push(it); yaElegidas.add(it.url);
+      }
+      elegidosSec.sort((a, b) => b.fecha - a.fecha);
+    }
+
+    for (const it of elegidosSec) { finales.push(it); usados.add(it.url); }
   }
   if (finales.length < CONFIG.maxTotal) {
     for (const it of clasificados) {
