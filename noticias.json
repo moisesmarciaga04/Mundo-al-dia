@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-10-14T21:29:41.462Z",
+  "actualizado": "2026-10-14T21:34:46.589Z",
   "items": [
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "La inflación en EEUU impactó en los mercados: cayeron las acciones y el riesgo país superó los 600 puntos",
       "s": "Los índices de Wall Street perdieron hasta 1,9% luego de conocido que el IPC norteamericano se elevó al 3,7% anual. El S&P Merval bajó 1,2%",
@@ -15,7 +15,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Jornada financiera: el mal clima global golpeó a la Argentina y el riesgo país volvió a superar los 600 puntos",
       "s": "Los indicadores de Wall Street perdieron hasta 1,9% tras conocerse que la inflación en EEUU subió al 3,7% anual. El S&P Merval bajó 1,2% y el riesgo país aumentó 12 unidades",
@@ -51,7 +51,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos",
       "s": "Economía adjudicó $6,61 billones, logró un rollover de 136,14% y descartó emitir el AO29 en dólares por el aumento de los rendimientos tras la suba del riesgo país",
@@ -75,7 +75,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Peso mexicano se deprecia frente al dólar tras datos de inflación de Estados Unidos",
       "s": "El peso perdió terreno ante un fortalecimiento del dólar tras la publicación del reporte de inflación de EU, que respaldó las apuestas por un alza en la tasa de la Fed en el corto plazo.",
@@ -98,9 +98,9 @@
       "credit": "Imagen: Investing.com"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
+      "r": "petroleo",
+      "tag": "Petróleo",
+      "art": "oilrig",
       "t": "Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero",
       "s": "El titular de la petrolera de mayoría estatal habló en el tradicional almuerzo del Consejo Interamericano de Comercio y Producción, en el Hotel Alvear. Los números de la empresa y foco total en Vaca Muerta",
       "src": "Infobae Economía",
@@ -123,7 +123,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Reportan localización de 16,000 personas mediante la Estrategia Nacional de Búsqueda; integran grupo de especialistas",
       "s": "Gracias a las acciones de la Estrategia Nacional de Búsqueda se han localizado en los últimos meses a más de 16 mil personas, informó la Secretaría de Gobernación (Segob), al tiempo que dio a conocer la integración de un grupo de nueve expertos nacionales e internacionales que realizará el análisis…",
@@ -159,7 +159,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Afiliados de Silver Lake venden acciones de Dell por 29,4 millones de dólares",
       "s": "Consulta la noticia completa en Investing.com.",
@@ -171,7 +171,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "La directora ejecutiva de United Therapeutics vende acciones por 5,18 millones de dólares",
       "s": "Consulta la noticia completa en Investing.com.",
@@ -180,18 +180,6 @@
       "d": "14 oct 2026",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
       "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
-      "t": "Sindicato de Escondida acepta nuevo contrato y evita huelga en la mayor mina de cobre del mundo",
-      "s": "El 64% de los afiliados del sindicato aprobó la propuesta de la empresa y evitó una paralización que amenazaba con perturbar el mercado del cobre.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/sindicato-escondida-acepta-nuevo-contrato-evita-huelga-mayor-mina-cobre-mundo-20261014-838597.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfea5fbee3a.jpeg",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "africa",
@@ -206,9 +194,9 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "economia",
-      "tag": "Economía",
-      "art": "rates",
+      "r": "petroleo",
+      "tag": "Petróleo",
+      "art": "oilrig",
       "t": "Precios del petróleo suben impulsados por las tensiones en Medio Oriente y los ataques en Ormuz",
       "s": "El precio del barril de Brent del mar del Norte, para entrega en diciembre, ganó un 0.35% hasta 106.06 dólares.",
       "src": "El Economista",
@@ -219,7 +207,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "El Banco Central compró otros USD 100 millones y busca fortalecer la “bazuca” de dólares para evitar tensiones en 2027",
       "s": "La autoridad monetaria hilvanó doce jornadas consecutivas con saldo comprador y está cerca de superar las compras de agosto",
@@ -231,7 +219,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este miércoles 14 de octubre",
       "s": "El billete al público continuó ofrecido a $1.535 para la venta en el Banco Nación. El blue quedó a $1.550. El BCRA compró USD 101 millones en el mercado",
@@ -267,7 +255,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Uruguay anuncia inversión de 5,700 millones de dólares en parque de centro de datos",
       "s": "La empresa genera energía solar en Uruguay a través de dos plantas fotovoltaicas que venden energía a UTE, la estatal uruguaya que monopoliza la distribución de electricidad.",
@@ -275,18 +263,6 @@
       "url": "https://www.eleconomista.com.mx/internacionales/uruguay-anuncia-inversion-5-700-millones-dolares-parque-centro-datos-20261014-838590.html",
       "d": "14 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/02/20/699891e1f3eb1.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "La llegada de turistas internacionales a México cayó 0.5% en agosto: Inegi",
-      "s": "El Inegi reportó que la llegada de turistas internacionales a México rompió una racha de 10 meses de crecimiento.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/llegada-turistas-internacionales-mexico-cayo-0-5-agosto-inegi-20261014-838589.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2023/09/14/66e4a4d09330e.png",
       "credit": "Imagen: El Economista"
     },
     {
@@ -303,7 +279,7 @@
     },
     {
       "r": "economia",
-      "tag": "Economía",
+      "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "OHLA llevará en noviembre a junta extraordinaria un 'contrasplit' para agrupar acciones",
       "s": "Se votará la ratificación y reelección de María Luz Medrano y el nombramiento de Maria Eugenia Sidaoui como consejeras de la compañía. Leer",
@@ -326,6 +302,42 @@
       "credit": "Imagen: Expansión"
     },
     {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Libro Beige de la Fed muestra presiones inflacionarias en un contexto de alzas de los combustibles",
+      "s": "La encuesta sirve como una especie de barómetro de las presiones económicas a las que se enfrentan los votantes estadounidenses antes de las elecciones legislativas del 3 de noviembre.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/sectorfinanciero/libro-beige-fed-muestra-presiones-inflacionarias-contexto-alzas-combustibles-20261014-838584.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/21/6a603811025df.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El dólar operó estable a la espera de una licitación de deuda clave del Tesoro",
+      "s": "La Secretaría de Finanzas procura extender plazos para después de las elecciones y renovar vencimientos por $4,9 billones. La divisa mayorista quedó a $1.513 y al público continuó a $1.535 en el Banco Nación",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/el-dolar-opero-estable-a-la-espera-de-una-licitacion-de-deuda-clave-del-tesoro/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/4FIYU67BWNACFPF7BB7672MRTU.JPG?auth=857e9dea46a10122cc6c0369736a17bc85717b1933d4a258479a05aaad12645c&smart=true&width=4000&height=2492",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El FMI elogió el ajuste fiscal de Argentina al tiempo que reclamó reducir exenciones impositivas y mejorar la calidad del gasto",
+      "s": "Era Dabla-Norris, subdirectora de Asuntos Fiscales del organismo, pidió avanzar con reformas tributarias, reemplazar gravámenes distorsivos y focalizar los subsidios en los hogares vulnerables.",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/el-fmi-elogio-el-ajuste-fiscal-de-argentina-al-tiempo-que-reclamo-reducir-exenciones-impositivas-y-mejorar-la-calidad-del-gasto/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/7TM2PTXSYVH6NLFR2OVDVTDC6E.jpg?auth=8e5e3b9b03267461468fee8a3aa676856b01359ecf3e82dee559fa720c9ece71&smart=true&width=1920&height=1080",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
@@ -335,6 +347,30 @@
       "url": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html",
       "d": "14 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919988517018_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones del sector de defensa europeo emiten una señal de alarma geopolítica",
+      "s": "Incluso cuando los Gobiernos comprometen grandes sumas, los contratistas de defensa tardan un tiempo en aumentar su producción. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/14/acciones-sector-defensa-europeo-emiten-senal-alarma-geopolitica.html",
+      "d": "14 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919970891794_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "EEUU amenaza con imponer un arancel de 200.000 dólares a cada buque español y con restringir las exportaciones de aceite",
+      "s": "La Comisión Marítima Federal he hecho la propuesta como represalia al bloqueo de buques que transporten armas para Israel. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/14/eeuu-amenaza-imponer-arancel-200-000-dolares-buque-espanol-restringir-exportaciones-aceite.html",
+      "d": "14 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919949798520_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
@@ -350,16 +386,50 @@
       "credit": "Imagen: BBC Mundo"
     },
     {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Ford nombra a Elena Burguete nueva presidenta y CEO en España y Portugal",
-      "s": "Burguete sustituye a Jesús Alonso, que ocupaba el puesto desde 2015. Leer",
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Los hutíes dejan al descubierto los límites del enorme arsenal de Arabia Saudí",
+      "s": "Aunque el reino es uno de los mayores compradores de armas del mundo, ha tenido dificultades para hacer frente a los ataques de los rebeldes respaldados por Irán. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/14/6acf957ee5fdea36398b456f.html",
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/14/huties-dejan-descubierto-limites-enorme-arsenal-arabia-saudi.html",
+      "d": "14 oct 2026"
+    },
+    {
+      "r": "petroleo",
+      "tag": "Petróleo",
+      "art": "oilrig",
+      "t": "Colombia, cáncer y alcohol, podcast Sin la ONU… Las noticias del miércoles",
+      "s": "Colombia: Expertos piden que Ecopetrol repare a las víctimas del conflicto armado. Solo el 21% de las europeas sabe que el alcohol puede causar cáncer de mama. ¿Para qué sirve realmente la ONU? Un nuevo podcast cuenta historias que no serían posibles sin ella.",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542059",
       "d": "14 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919891436049_150x0.jpg",
-      "credit": "Imagen: Expansión"
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-07-25-COLOMBIA-UNICEF5.jpg/image560x340cropped.jpg",
+      "credit": "Imagen: Noticias ONU"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Yemen: la ONU advierte de una \"catástrofe humanitaria\" mientras los combates bloquean la entrega de ayuda",
+      "s": "Los combates en Yemen han cortado la ayuda vital a 800.000 personas. \"Esto puede convertirse rápidamente en una catástrofe humanitaria”, advierte la agencia de la ONU encargada de la distribución de comida, que tiene a 37 de sus trabajadores entre los 72 miembros del personal de la ONU detenidos…",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542058",
+      "d": "14 oct 2026",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-04.jpg/image560x340cropped.jpg",
+      "credit": "Imagen: Noticias ONU"
+    },
+    {
+      "r": "petroleo",
+      "tag": "Petróleo",
+      "art": "oilrig",
+      "t": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+      "s": "Trump responsabiliza a la guerra entre Ucrania y Rusia del alza del petróleo en EE.UU. para contener el descontento de los votantes. Pero los problemas en la escena internacional se le multiplican.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
+      "d": "14 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ab4/live/fd7fde40-c776-11f1-8ea6-d52df4b01e11.jpg",
+      "credit": "Imagen: BBC Mundo"
     }
   ]
 }
