@@ -1,6 +1,134 @@
 {
-  "actualizado": "2026-10-14T21:34:46.589Z",
+  "actualizado": "2026-10-14T21:49:02.726Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
+      "s": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss",
+      "d": "14 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6b/live/76c594b0-c813-11f1-b60d-ef789a67d4e2.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos",
+      "s": "Economía adjudicó $6,61 billones, logró un rollover de 136,14% y descartó emitir el AO29 en dólares por el aumento de los rendimientos tras la suba del riesgo país",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-de-deuda-y-absorbio-175-billones-de-pesos/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/4XLYJPFSPFH2LEOIXCZPT2BTAQ.jpg?auth=5c2d0e8ac073acd801cf8221feca1fa4032f29571355aac6fd3bf2f3a7d2dae2&smart=true&width=1184&height=741",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Meta analizará decreto de Sheinbaum para proteger a menores en redes sociales",
+      "s": "Meta, propietaria de Facebook e Instagram, revisará el decreto de Claudia Sheinbaum que exige verificar edades y retirar contenidos violentos para menores en México; la empresa mantendrá el diálogo con el gobierno y aún no precisa cambios en sus aplicaciones.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/tecnologia/meta-analizara-decreto-sheinbaum-proteger-menores-redes-sociales-20261014-838609.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2022/01/27/66e473091cc4e.png",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Accionistas de Fox y Roku aprueban acuerdo de streaming por 22.000 millones",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/accionistas-de-fox-y-roku-aprueban-acuerdo-de-streaming-por-22000-millones-3874454",
+      "d": "14 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Por qué cae hoy la acción de Rocket Lab?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-rocket-lab-93CH-3874453",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "AMIA advierte que elevar el contenido regional en el T-MEC encarecería costos y frenaría inversiones",
+      "s": "El representante de las automotrices de autos ligeros que operan en México refirió que los países del T-MEC cuentan con la regla de origen más estricta del mundo del 75% del valor de la región, pero con la intención del presidente Donald Trump de llevarla al 83 u 85% debilitaría la competitividad…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/amia-advierte-elevar-contenido-regional-t-mec-encareceria-costos-frenaria-inversiones-20261014-838608.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/08/07/6894f57fcd7d5.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El director de Blend Labs, Nima Ghamsari, vende acciones por 24.470 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-blend-labs-nima-ghamsari-vende-acciones-por-24470-dolares-93CH-3874452",
+      "d": "14 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El secretario de Trabajo defendió el monotributo: “Hay personas que no quieren trabajar en relación de dependencia”",
+      "s": "Julio Cordero analizó el momento del mercado laboral y atribuyó parte de la caída del empleo formal a la decisión de los propios empleados. Qué dijo sobre los salarios",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/el-secretario-de-trabajo-defendio-el-monotributo-hay-personas-que-no-quieren-trabajar-en-relacion-de-dependencia/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/ZV4SMZTZHNGYFCBIFOQ5MVMNIA.jpg?auth=9e7eb158209774852961bba5d7640c5685a57d985f9dd1a8723f699ba3c55870&smart=true&width=1920&height=1280",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "SCJN avala restricciones a comida chatarra",
+      "s": "La Corte rechazó amparos contra la restricción a la venta de comida chatarra en las escuelas de México. La decisión confirma que las medidas también pueden aplicarse en universidades y aclara sus efectos para las empresas.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/videos/scjn-avala-restricciones-comida-chatarra-20261014-838607.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acff3fb488d5.webp",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Moderna y Liomont acuerdan suministro de vacunas contra Covid-19; impulsarán manufactura local",
+      "s": "Román Saglio, responsable de Operaciones Comerciales para Latinoamérica de Moderna, dijo que la colaboración busca contribuir a la infraestructura de salud pública de México y al desarrollo de capacidades estratégicas de manufactura para el futuro.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/moderna-liomont-acuerdan-suministro-vacunas-covid-19-impulsaran-manufactura-local-20261014-838605.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/05/13/6a04cefcadb34.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Vanda Pharmaceuticals caen tras el fracaso de su fármaco contra la ansiedad",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-vanda-pharmaceuticals-caen-tras-el-fracaso-de-su-farmaco-contra-la-ansiedad-3874449",
+      "d": "14 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
     {
       "r": "economia",
       "tag": "Economía y Bolsa",
@@ -26,40 +154,16 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Brugada descarta aumentar el predial en CDMX y prevé eliminar multas y recargos en 2027",
-      "s": "En la presentación de su segundo informe de Gobierno, la funcionaria explicó que la meta es mejorar la recaudación sin incrementar la carga fiscal.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/estados/brugada-descarta-aumentar-predial-cdmx-preve-eliminar-multas-recargos-20261014-838602.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/10/14/6acff15a62b0e.r_d.1077-392-0.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Argentina firmó con EEUU un protocolo adicional para fortalecer el acuerdo bilateral sobre Comercio e Inversiones Recíprocas",
-      "s": "En el marco de la visita de Javier Milei a Washington, el canciller firmó con el representante comercial de la administración Trump un protocolo adicional que consolida la agenda bilateral entre Balcarce 50 y la Casa Blanca",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/argentina-firmo-con-eeuu-un-protocolo-adicional-para-fortalecer-el-acuerdo-bilateral-sobre-comercio-e-inversiones-reciprocas/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/GN6K5ZNPYND7BAFYTNKJSJO3OM.jpg?auth=985817157c0f5b75d2bf3e4423797ecd650e912087365346e421b4f21102624e&smart=true&width=1920&height=1536",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
-      "t": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos",
-      "s": "Economía adjudicó $6,61 billones, logró un rollover de 136,14% y descartó emitir el AO29 en dólares por el aumento de los rendimientos tras la suba del riesgo país",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-de-deuda-y-absorbio-175-billones-de-pesos/",
+      "t": "Creación acumulada de empleo formal alcanza 410,000 puestos a septiembre: BBVA Research",
+      "s": "En términos anuales, la variación del empleo formal se ubicó en 1.6%, situándose en 1.2% al excluir el impacto de las plataformas digitales.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/creacion-acumulada-empleo-formal-alcanza-410-000-puestos-septiembre-bbva-research-20261014-838604.html",
       "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/4XLYJPFSPFH2LEOIXCZPT2BTAQ.jpg?auth=5c2d0e8ac073acd801cf8221feca1fa4032f29571355aac6fd3bf2f3a7d2dae2&smart=true&width=1184&height=741",
-      "credit": "Imagen: Infobae Economía"
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/06/6a7547321f75f.jpeg",
+      "credit": "Imagen: El Economista"
     },
     {
       "r": "europa",
@@ -70,7 +174,7 @@
       "src": "Investing.com",
       "url": "https://es.investing.com/news/stock-market-news/spacex-limita-el-acceso-a-starlink-en-ucrania-y-genera-sospechas-3874437",
       "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+      "img": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg",
       "credit": "Imagen: Investing.com"
     },
     {
@@ -86,18 +190,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Fairfax seleccionada para adquirir el 60,72% de IDBI Bank por 5.600 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/fairfax-seleccionada-para-adquirir-el-6072-de-idbi-bank-por-5600-millones-de-dolares-93CH-3874436",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
       "r": "petroleo",
       "tag": "Petróleo",
       "art": "oilrig",
@@ -110,18 +202,6 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "El papa León XIV evoluciona favorablemente tras ser operado de un cáncer de pulmón",
-      "s": "En la intervención quirúrgica realizada el martes se extirpó parte del pulmón derecho del papa, quien ahora está a la espera de los resultados de una biopsia para determinar si el cáncer se ha extendido.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/papa-leon-xiv-evoluciona-favorablemente-operado-cancer-pulmon-20261014-838599.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfedb877f10.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -132,54 +212,6 @@
       "d": "14 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfee74b31d9.jpeg",
       "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "africa",
-      "tag": "África y Oceanía",
-      "art": "boats",
-      "t": "NXT Energy completa encuesta en África y se moviliza hacia el sur de Asia",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/nxt-energy-completa-encuesta-en-africa-y-se-moviliza-hacia-el-sur-de-asia-93CH-3874431",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM502AK_150x108_S.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Aptar Pharma obtiene el marcado CE para su dispositivo de vacuna intranasal",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/aptar-pharma-obtiene-el-marcado-ce-para-su-dispositivo-de-vacuna-intranasal-93CH-3874430",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Afiliados de Silver Lake venden acciones de Dell por 29,4 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/afiliados-de-silver-lake-venden-acciones-de-dell-por-294-millones-de-dolares-93CH-3874426",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "La directora ejecutiva de United Therapeutics vende acciones por 5,18 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-ejecutiva-de-united-therapeutics-vende-acciones-por-518-millones-de-dolares-93CH-3874425",
-      "d": "14 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "africa",
@@ -228,30 +260,6 @@
       "d": "14 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/NZYGUQJ3UVAC5A3XWEL4A5FNSM.JPG?auth=605bc17984737cd9d2789c8a0fcfb71bf34491e309c24cffa78ab0c2c5ae1264&smart=true&width=3500&height=2250",
       "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Cuánto cobran los empleados de las principales cadenas de comida rápida de la Argentina en octubre 2026",
-      "s": "La escala vigente contempla categorías de atención, cocina, administración, mantenimiento y limpieza, además de adicionales por presentismo, antigüedad, trabajo nocturno y zona fría",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/cuando-cobran-los-empleados-de-las-principales-cadenas-de-comida-rapida-de-la-argentina-en-octubre-2026/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/3POUIXJYSVB3VLTM3RWKZXZIQU.png?auth=e9a1ef73529065b8a632d41823bad8921f8133fd83f1bc7f1d69eb965786ef1c&smart=true&width=2752&height=1536",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
-      "s": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. Las exportaciones crecieron un 210% entre enero y agosto.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
-      "d": "14 oct 2026",
-      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0092/live/a411f560-c7e3-11f1-b712-6f93dfe07e87.jpg",
-      "credit": "Imagen: BBC Mundo"
     },
     {
       "r": "economia",
@@ -305,18 +313,6 @@
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
-      "t": "Libro Beige de la Fed muestra presiones inflacionarias en un contexto de alzas de los combustibles",
-      "s": "La encuesta sirve como una especie de barómetro de las presiones económicas a las que se enfrentan los votantes estadounidenses antes de las elecciones legislativas del 3 de noviembre.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/sectorfinanciero/libro-beige-fed-muestra-presiones-inflacionarias-contexto-alzas-combustibles-20261014-838584.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/21/6a603811025df.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
       "t": "El dólar operó estable a la espera de una licitación de deuda clave del Tesoro",
       "s": "La Secretaría de Finanzas procura extender plazos para después de las elecciones y renovar vencimientos por $4,9 billones. La divisa mayorista quedó a $1.513 y al público continuó a $1.535 en el Banco Nación",
       "src": "Infobae Economía",
@@ -347,30 +343,6 @@
       "url": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html",
       "d": "14 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919988517018_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones del sector de defensa europeo emiten una señal de alarma geopolítica",
-      "s": "Incluso cuando los Gobiernos comprometen grandes sumas, los contratistas de defensa tardan un tiempo en aumentar su producción. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/14/acciones-sector-defensa-europeo-emiten-senal-alarma-geopolitica.html",
-      "d": "14 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919970891794_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "EEUU amenaza con imponer un arancel de 200.000 dólares a cada buque español y con restringir las exportaciones de aceite",
-      "s": "La Comisión Marítima Federal he hecho la propuesta como represalia al bloqueo de buques que transporten armas para Israel. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/14/eeuu-amenaza-imponer-arancel-200-000-dolares-buque-espanol-restringir-exportaciones-aceite.html",
-      "d": "14 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919949798520_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
@@ -420,6 +392,18 @@
       "credit": "Imagen: Noticias ONU"
     },
     {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Solo el 21 % de las mujeres europeas sabe que el alcohol puede causar cáncer de mama",
+      "s": "La agencia para la salud de la ONU lanza un portal con un asistente de inteligencia artificial que responde solo con evidencia verificada y muestra la fuente de cada respuesta, para que \"las conversaciones sobre el alcohol sean una parte normal de la atención, no un añadido incómodo\".",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542057",
+      "d": "14 oct 2026",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-02-2023-Unsplash-Breast-Cancer-awareness.jpg/image560x340cropped.jpg",
+      "credit": "Imagen: Noticias ONU"
+    },
+    {
       "r": "petroleo",
       "tag": "Petróleo",
       "art": "oilrig",
@@ -430,6 +414,18 @@
       "d": "14 oct 2026",
       "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ab4/live/fd7fde40-c776-11f1-8ea6-d52df4b01e11.jpg",
       "credit": "Imagen: BBC Mundo"
+    },
+    {
+      "r": "petroleo",
+      "tag": "Petróleo",
+      "art": "oilrig",
+      "t": "Del petróleo al electrón: cómo las renovables están redefiniendo la seguridad energética",
+      "s": "El 90 % de la capacidad eléctrica nueva que se añade cada año en el mundo ya es renovable, y China superó por primera vez su capacidad solar a la del carbón en julio, pero ONU advierte de que la eficiencia energética se ha quedado corta y la brecha entre demanda y oferta para 2030 puede ser mayor…",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542048",
+      "d": "13 oct 2026",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/03-09-2026-Climate-Visuals-Indonesia-05.jpg/image560x340cropped.jpg",
+      "credit": "Imagen: Noticias ONU"
     }
   ]
 }
