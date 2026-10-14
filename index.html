@@ -118,7 +118,17 @@ textarea{min-height:120px;resize:vertical}
 footer{border-top:1px solid var(--line);padding:28px 0 36px;margin-top:24px;font-family:var(--sans);font-size:.85rem;color:var(--muted)}
 footer strong{color:var(--ink);font-weight:600}
 
+.oil-intro{padding:28px 0 4px}
+.oil-intro h2{font-family:var(--serif);font-weight:700;font-size:1.7rem;letter-spacing:-.01em;margin:0 0 6px}
+.oil-intro p{font-family:var(--sans);color:var(--muted);font-size:.95rem;margin:0 0 18px;max-width:40rem}
+.oil-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-bottom:10px}
+.oil-card h3{font-family:var(--sans);font-weight:600;font-size:.95rem;margin:0 0 8px;color:var(--ink)}
+.tradingview-widget-container{border:1px solid var(--line);height:340px}
+.tradingview-widget-container > div{height:100%}
+.oil-note{font-family:var(--sans);font-size:.78rem;color:var(--muted);margin:10px 0 30px}
+
 @media (max-width:820px){
+  .oil-grid{grid-template-columns:1fr}
   .news-grid,.two,.article-layout{grid-template-columns:1fr;gap:32px}
   .list{border-left:0;padding-left:0;border-top:1px solid var(--line);padding-top:24px}
   .more{grid-template-columns:1fr}
@@ -147,6 +157,28 @@ footer strong{color:var(--ink);font-weight:600}
 
 <div class="wrap">
   <nav class="sections" aria-label="Secciones" id="filters"></nav>
+</div>
+
+<div class="wrap" id="petroleoCharts" hidden>
+  <div class="oil-intro">
+    <h2>Petróleo a nivel mundial</h2>
+    <p>Precio del crudo WTI (referencia en Estados Unidos) y Brent (referencia internacional), con gráfica en vivo de TradingView.</p>
+  </div>
+  <div class="oil-grid">
+    <div class="oil-card">
+      <h3>WTI (Estados Unidos)</h3>
+      <div class="tradingview-widget-container">
+        <div id="tv_wti"></div>
+      </div>
+    </div>
+    <div class="oil-card">
+      <h3>Brent (internacional)</h3>
+      <div class="tradingview-widget-container">
+        <div id="tv_brent"></div>
+      </div>
+    </div>
+  </div>
+  <p class="oil-note">Gráficas y cotizaciones cortesía de TradingView. Pueden tener unos minutos de rezago según el mercado.</p>
 </div>
 
 <div class="clocks" aria-label="Hora en el mundo">
@@ -224,6 +256,26 @@ footer strong{color:var(--ink);font-weight:600}
   </div>
 </footer>
 
+<!-- Gráficas en vivo del petróleo (TradingView, gratuito). Solo se ven al elegir la pestaña "Petróleo". -->
+<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+<script type="text/javascript">
+(function(){
+  function widget(id, symbol){
+    if(!window.TradingView) return;
+    new TradingView.widget({
+      autosize: true, symbol: symbol, interval: "D", timezone: "America/Panama",
+      theme: "light", style: "2", locale: "es", toolbar_bg: "#F1F7FC",
+      enable_publishing: false, hide_top_toolbar: true, hide_legend: false,
+      container_id: id
+    });
+  }
+  window.addEventListener("load", function(){
+    widget("tv_wti", "TVC:USOIL");
+    widget("tv_brent", "TVC:UKOIL");
+  });
+})();
+</script>
+
 <!-- ============================================================
      AJUSTES DEL SITIO
      Las noticias NO se escriben aquí: se cargan de noticias.json,
@@ -240,9 +292,10 @@ var STORIES = [];
 <script>
 (function(){
   var FILTERS = [
-    {k:"todo", n:"Todo"}, {k:"americas", n:"Américas"}, {k:"europa", n:"Europa"},
+    {k:"todo", n:"Todo"}, {k:"economia", n:"Economía y Bolsa"}, {k:"petroleo", n:"Petróleo"},
+    {k:"americas", n:"Américas"}, {k:"europa", n:"Europa"},
     {k:"asia", n:"Asia y Medio Oriente"}, {k:"africa", n:"África y Oceanía"},
-    {k:"economia", n:"Economía"}, {k:"ciencia", n:"Ciencia y Tecnología"}
+    {k:"ciencia", n:"Ciencia y Tecnología"}
   ];
   var CITIES = [
     ["Panamá","America/Panama"],["Nueva York","America/New_York"],["Londres","Europe/London"],
@@ -331,6 +384,17 @@ var STORIES = [];
       }
       r+='<circle cx="320" cy="180" r="62" fill="'+N+'" stroke="'+W+'" stroke-opacity=".5" stroke-width="2"/><circle cx="320" cy="180" r="24" fill="'+W+'"/>';
       return r;
+    },
+    oilrig:function(){
+      var r='<rect width="640" height="360" fill="'+L+'"/>'+
+      '<path d="M0 260H640V360H0Z" fill="'+N+'"/>'+
+      '<path d="M300 40L260 180H340Z" fill="none" stroke="'+N+'" stroke-width="6"/>'+
+      '<path d="M270 110H330M258 150H342" stroke="'+N+'" stroke-width="5"/>'+
+      '<rect x="286" y="180" width="28" height="80" fill="'+N+'"/>'+
+      '<path d="M150 260L180 150H210L230 260Z" fill="'+B+'" opacity=".55"/>'+
+      '<path d="M420 260L450 170H470L495 260Z" fill="'+B+'" opacity=".55"/>'+
+      '<path d="M560 170C560 150 580 150 580 170C580 182 566 182 566 170C566 160 574 160 574 168" stroke="'+W+'" stroke-width="5" fill="none" stroke-linecap="round"/>'+
+      '<path d="M500 210C500 190 520 190 520 210C520 222 506 222 506 210C506 200 514 200 514 208" stroke="'+W+'" stroke-width="5" fill="none" stroke-linecap="round" opacity=".7"/>';
     }
   };
 
@@ -384,6 +448,7 @@ var STORIES = [];
       Array.prototype.forEach.call(fbox.children, function(c){ c.setAttribute("aria-pressed","false"); });
       b.setAttribute("aria-pressed","true");
       if(location.hash.indexOf("#/nota/") === 0){ location.hash = "#/"; }
+      document.getElementById("petroleoCharts").hidden = (current !== "petroleo");
       renderHome();
     });
     fbox.appendChild(b);
