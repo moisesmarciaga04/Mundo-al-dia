@@ -28,7 +28,7 @@ const CONFIG = {
   maxDias: 3,             // se ignoran notas más viejas que esto
   minimoParaGuardar: 6,   // si salen menos, se conserva el archivo anterior
   maxExtracto: 300,
-  usarImagenesDelFeed: false,
+  usarImagenesDelFeed:  true,
   archivo: "noticias.json",
   // Cuántas noticias como máximo entran en la portada por sección.
   // Economía tiene la cuota más alta: así la portada gira en torno a ella.
