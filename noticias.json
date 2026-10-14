@@ -1,18 +1,6 @@
 {
-  "actualizado": "2026-10-14T21:57:29.789Z",
+  "actualizado": "2026-10-14T22:04:16.831Z",
   "items": [
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
-      "s": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss",
-      "d": "14 oct 2026",
-      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6b/live/76c594b0-c813-11f1-b60d-ef789a67d4e2.jpg",
-      "credit": "Imagen: BBC Mundo"
-    },
     {
       "r": "economia",
       "tag": "Economía y Bolsa",
@@ -24,6 +12,78 @@
       "d": "14 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/4XLYJPFSPFH2LEOIXCZPT2BTAQ.jpg?auth=5c2d0e8ac073acd801cf8221feca1fa4032f29571355aac6fd3bf2f3a7d2dae2&smart=true&width=1184&height=741",
       "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Argentina firmó con EEUU un protocolo adicional para fortalecer el acuerdo bilateral sobre Comercio e Inversiones Recíprocas",
+      "s": "En el marco de la visita de Javier Milei a Washington, el canciller firmó con el representante comercial de la administración Trump un protocolo adicional que consolida la agenda bilateral entre Balcarce 50 y la Casa Blanca",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/argentina-firmo-con-eeuu-un-protocolo-adicional-para-fortalecer-el-acuerdo-bilateral-sobre-comercio-e-inversiones-reciprocas/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/GN6K5ZNPYND7BAFYTNKJSJO3OM.jpg?auth=985817157c0f5b75d2bf3e4423797ecd650e912087365346e421b4f21102624e&smart=true&width=1920&height=1536",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "El Senado aprobó la nueva ley catastral y registral",
+      "s": "Con el voto de la oposición en contra, el decreto correspondiente será remitido al Ejecutivo Federal para su publicación en el Diario Oficial de la Federación y entrada en vigor.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/economia/senado-aprobo-nueva-ley-catastral-registral-20261014-838614.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/12/05/69331a81dcf39.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Primas de seguro, deducibles y restricciones suben en costa: Amasfac",
+      "s": "Elizabeth Ortiz, tesorera del organismo, explicó que el comportamiento responde a un entorno multifactorial que combina desaceleración económica, mayor siniestralidad y presiones inflacionarias en el sector salud.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/estados/primas-seguro-deducibles-restricciones-suben-costa-amasfac-20261014-838613.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/03/02/69a63fddd96ef.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Bolsa mexicana cae tras cuatro días con ganancias; Grupo Carso pierde más de 6%",
+      "s": "Los índices locales cayeron luego de cuatro días con ganancias, siguiendo a sus pares del exterior, que reaccionaron a un reporte de inflación estadounidense.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-cae-cuatro-dias-ganancias-grupo-carso-pierde-20261014-838612.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/12/26/694ea1fc54335.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Juan Villoro: “un gobierno progresista debe aceptar la crítica”",
+      "s": "Al recibir el Premio Internacional Carlos Fuentes 2026, el escritor advirtió sobre las deudas sociales de México, pidió más presupuesto para ciencia, cultura, educación y salud, y reivindicó las capacidades transformadoras de los pueblos indígenas.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/arteseideas/juan-villoro-gobierno-progresista-debe-aceptar-critica-20261014-838611.html",
+      "d": "14 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acff7b61c273.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
+      "s": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss",
+      "d": "14 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6b/live/76c594b0-c813-11f1-b60d-ef789a67d4e2.jpg",
+      "credit": "Imagen: BBC Mundo"
     },
     {
       "r": "americas",
@@ -103,18 +163,6 @@
       "url": "https://www.eleconomista.com.mx/videos/scjn-avala-restricciones-comida-chatarra-20261014-838607.html",
       "d": "14 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acff3fb488d5.webp",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Moderna y Liomont acuerdan suministro de vacunas contra Covid-19; impulsarán manufactura local",
-      "s": "Román Saglio, responsable de Operaciones Comerciales para Latinoamérica de Moderna, dijo que la colaboración busca contribuir a la infraestructura de salud pública de México y al desarrollo de capacidades estratégicas de manufactura para el futuro.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/moderna-liomont-acuerdan-suministro-vacunas-covid-19-impulsaran-manufactura-local-20261014-838605.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/05/13/6a04cefcadb34.jpeg",
       "credit": "Imagen: El Economista"
     },
     {
@@ -214,30 +262,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "africa",
-      "tag": "África y Oceanía",
-      "art": "boats",
-      "t": "La Fórmula 1 regresa a África: Ruanda tendrá el Gran Premio de África",
-      "s": "Será la primera carrera de la F1 en el continente desde 1993, cuando se corrió el último Gran Premio de Sudáfrica en Kyalami.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/autos/formula-1-regresa-africa-gran-premio-ruanda-20261014-838596.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfe9abbc7db.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "petroleo",
-      "tag": "Petróleo",
-      "art": "oilrig",
-      "t": "Precios del petróleo suben impulsados por las tensiones en Medio Oriente y los ataques en Ormuz",
-      "s": "El precio del barril de Brent del mar del Norte, para entrega en diciembre, ganó un 0.35% hasta 106.06 dólares.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/mercados/precios-petroleo-suben-impulsados-tensiones-medio-oriente-ataques-ormuz-20261014-838593.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/11/12/69154c2f8f51a.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -262,18 +286,6 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Uruguay anuncia inversión de 5,700 millones de dólares en parque de centro de datos",
-      "s": "La empresa genera energía solar en Uruguay a través de dos plantas fotovoltaicas que venden energía a UTE, la estatal uruguaya que monopoliza la distribución de electricidad.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/uruguay-anuncia-inversion-5-700-millones-dolares-parque-centro-datos-20261014-838590.html",
-      "d": "14 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/02/20/699891e1f3eb1.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
@@ -295,18 +307,6 @@
       "url": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6acfd830468aeba3568b456d.html",
       "d": "14 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17920062293989_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "El FBI detiene a un empleado de OpenAI por posible espionaje",
-      "s": "La acusación contra el empleado saudí levanta la sospecha de posible espionaje a la compañía de IA. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/10/14/fbi-detiene-empleado-openai-posible-espionaje.html",
-      "d": "14 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17920058753615_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
@@ -392,18 +392,6 @@
       "credit": "Imagen: Noticias ONU"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Solo el 21 % de las mujeres europeas sabe que el alcohol puede causar cáncer de mama",
-      "s": "La agencia para la salud de la ONU lanza un portal con un asistente de inteligencia artificial que responde solo con evidencia verificada y muestra la fuente de cada respuesta, para que \"las conversaciones sobre el alcohol sean una parte normal de la atención, no un añadido incómodo\".",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542057",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-02-2023-Unsplash-Breast-Cancer-awareness.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
-    },
-    {
       "r": "petroleo",
       "tag": "Petróleo",
       "art": "oilrig",
@@ -425,6 +413,18 @@
       "url": "https://news.un.org/feed/view/es/story/2026/10/1542048",
       "d": "13 oct 2026",
       "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/03-09-2026-Climate-Visuals-Indonesia-05.jpg/image560x340cropped.jpg",
+      "credit": "Imagen: Noticias ONU"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "Llegan menos migrantes a Europa por mar, pero las travesías son más peligrosas",
+      "s": "Las llegadas por mar a Europa desde África Occidental cayeron casi un 60 % en el primer semestre de 2026, pero las muertes en la ruta atlántica apenas bajaron un 4 % entre 2024 y 2025: 1172 fallecidos frente a 1215. El refuerzo de controles en Marruecos, Mauritania y Senegal empuja las salidas más…",
+      "src": "Noticias ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542049",
+      "d": "13 oct 2026",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_IOM_Migration_West_Africa_Routes.jpg/image560x340cropped.jpg",
       "credit": "Imagen: Noticias ONU"
     }
   ]
