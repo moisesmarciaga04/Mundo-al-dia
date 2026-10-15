@@ -44,8 +44,7 @@ jobs:
 
       - name: Preparar la carpeta del sitio
         run: |
-          mkdir dist
-          cp index.html noticias.json dist/
+         mkdir dist cp *.html dist/ cp noticias.json dist/ 2>/dev/null || true
 
       - name: Configurar Pages
         uses: actions/configure-pages@v5
