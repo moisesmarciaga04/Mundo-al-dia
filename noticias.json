@@ -1,17 +1,171 @@
 {
-  "actualizado": "2026-10-15T16:04:45.763Z",
+  "actualizado": "2026-10-15T16:43:20.185Z",
   "items": [
     {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Orientación vocacional: cómo tomar una decisión universitaria informada",
-      "s": "COLABORACIÓN INVITADA",
+      "t": "Estudiante de Fisioterapia desarrolla brazo biónico de código abierto para reducir costos",
+      "s": "Abraham Vargas Gálvez, alumno de Universidad UNIVER en Tlaquepaque, trabaja en un prototipo que busca ofrecer una alternativa más accesible para personas que han perdido una extremidad superior.",
       "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/los-especiales/orientacion-vocacional-tomar-decision-universitaria-informada-20261015-838666.html",
+      "url": "https://www.eleconomista.com.mx/arteseideas/estudiante-fisioterapia-desarrolla-brazo-bionico-codigo-abierto-reducir-costos-20261015-838785.html",
       "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad02a0677314.jpeg",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad10099b640d.jpeg",
       "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "\"Me quedé en shock\": el testimonio de una de las mujeres que acusa de violación al actor Russell Brand, exesposo de Katy Perry",
+      "s": "El hombre de 51 años se enfrenta a tres cargos de violación, tres cargos de agresión sexual y uno de agresión indecente.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmy83d1lnyj7o?at_medium=RSS&at_campaign=rss",
+      "d": "15 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Microsoft AI presenta un modelo de 2,8 billones de parámetros con mayor eficiencia",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/microsoft-ai-presenta-un-modelo-de-28-billones-de-parametros-con-mayor-eficiencia-3876178",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Televisa y Fintech comprarán una AT&T México que gana 1.3 millones de clientes de pospago",
+      "s": "La telefónica cerró junio de 2026 con 23.4 millones de suscriptores, una disminución anual de 1.7 por ciento. Aunque fortaleció su cartera de pospago y aumentó sus ingresos, su utilidad operativa cayó 17.4 por ciento.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/televisa-fintech-compraran-at-t-mexico-gana-1-3-millones-clientes-pospago-20261015-838784.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acff1e46cb60.webp",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Tras rechazo de trabajadores, Sheinbaum pide al IMSS revisar nueva oferta salarial \"en el marco de lo posible\"",
+      "s": "Luego de que trabajadores sindicalizados del IMSS rechazaron en consulta un incremento salarial de 6.8%, la presidenta Claudia Sheinbaum llamó al titular de este instituto a revisar una nueva oferta pero que esté \"en el marco de lo posible\".",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/rechazo-trabajadores-sheinbaum-pide-imss-revisar-nueva-oferta-salarial-marco-posible-20261015-838783.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd2e6a91951.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "La Audiencia Nacional retrasa el inicio del juicio del 'caso Popular'",
+      "s": "El juicio finalmente comenzará en octubre del año que viene y se extenderá hasta principios de 2028. La Justicia ha decidido dilatar el comienzo del juicio por la \"complejida procesal\" del caso. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/15/6ad0fab0468aeba81b8b4570.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920805992258_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "La Cepal advierte riesgo de que el T-MEC derive en 2 acuerdos bilaterales",
+      "s": "La Cepal advirtió este jueves que las conversaciones separadas de Estados Unidos con Canadá y México, introduce incertidumbre sobre la posibilidad de que el acuerdo trilateral evolucione, formalmente o en la práctica, hacia dos acuerdos bilaterales.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/economia/cepal-advierte-riesgo-t-mec-derive-2-acuerdos-bilaterales-20261015-838781.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/06/6a4c2f499f690.webp",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "africa",
+      "tag": "África y Oceanía",
+      "art": "boats",
+      "t": "Trudy y Simon: alertas en el Pacífico",
+      "s": "La Conagua precisó que el centro del huracán se localizaba esta mañana aproximadamente a 465 kilómetros al sur-suroeste del puerto de Acapulco y a 720 kilómetros al sur-sureste de Manzanillo, Colima.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/videos/trudy-simon-alertas-pacifico-20261015-838780.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0fb783dcae.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Bolsa mexicana retoma las ganancias; Grupo Carso y Televisa lideran el movimiento",
+      "s": "Los índices locales suben tras haber interrumpido ayer una racha de cuatro días con avances, mientras los inversionistas asimilan cifras de inflación en EU.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-retoma-ganancias-grupo-carso-televisa-lideran-movimiento-20261015-838779.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/07/06/6a4c6cfaa3f86.r_d.1389-926-0.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Más allá del título: qué buscan las empresas en los universitarios",
+      "s": "Las habilidades que buscan las empresas están cambiando. Stanford, Harvard, Oxford, Wharton y universidades de AL revelan qué necesitan los jóvenes para competir en un mercado transformado por la IA",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/los-especiales/titulo-buscan-empresas-universitarios-20261015-838661.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad02419df302.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Benjamin G.Voyer: \"Las personas ricas son muy complejas\"",
+      "s": "Benjamin G. Voyer , doctor y catedrático de ciencias del comportamiento y psicología social del consumidor en ESCP Business School de París, ha apuntado que el consumidor de lujo actual ha adoptado nuevas reglas en las que prevalecen conceptos como las experiencias o la conciencia medioambiental…",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0f6d6e5fdeae87b8b459c.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920803279594_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Inteligencia Artificial pedagógica: aliada del docente, no sustituto",
+      "s": "La formación es un proceso continuo que se extiende mucho más allá de un título universitario, pues aprender un idioma implica desarrollar la confianza para defender ideas y conectar con el mundo.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/los-especiales/inteligencia-artificial-pedagogica-aliada-docente-sustituto-20261015-838665.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad0290982007.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "S&P revisa la perspectiva de Prudential a negativa por los vientos en contra en Japón",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/sp-revisa-la-perspectiva-de-prudential-a-negativa-por-los-vientos-en-contra-en-japon-3876162",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "CT Global Managed Portfolio Trust emite 100.000 acciones de renta",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/ct-global-managed-portfolio-trust-emite-100000-acciones-de-renta-93CH-3876150",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3Q0HO_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -62,28 +216,16 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Tras el cambio de dueños, Profertil arrancó el diseño de su segunda planta de urea en Bahía Blanca",
-      "s": "Techint y la italiana Saipem desarrollarán la evaluación para la nueva planta que elevará la capacidad de producción de la empresa. El proyecto, postergado durante una década, se concreta con nuevos accionistas y el impulso del gas de Vaca Muerta",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/tras-el-cambio-de-duenos-profertil-arranco-el-diseno-de-su-segunda-planta-de-urea-en-bahia-blanca/",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Tether Global Investments compra acciones de Gold.com por 2,7 millones de dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/tether-global-investments-compra-acciones-de-goldcom-por-27-millones-de-dolares-93CH-3876124",
       "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/FCQ5D7IJSVDT3HGGDKZWBQY6QQ.jpg?auth=ef76ad5e80127b0634111b81af01bb8efe4b1d3f4dbf1d5e93caee3525d0048f&smart=true&width=1920&height=1069",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Sheinbaum ordena revisar aumento salarial del IMSS tras rechazo de trabajadores",
-      "s": "Claudia Sheinbaum anunció que el IMSS revisará su propuesta salarial tras el rechazo de trabajadores y buscará nuevas alternativas de negociación.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/sheinbaum-ordena-revisar-aumento-salarial-imss-rechazo-trabajadores-20261015-838775.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0f4d406222.png",
-      "credit": "Imagen: El Economista"
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "ciencia",
@@ -98,18 +240,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Xpeng integrará Google Play en sus vehículos a principios de 2027",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/xpeng-integrara-google-play-en-sus-vehiculos-a-principios-de-2027-93CH-3876122",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -118,30 +248,6 @@
       "src": "Expansión",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/15/6ad06b43e5fdea926a8b459b.html",
       "d": "15 oct 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "William Blair rebaja la calificación de Clarivate tras acuerdo de privatización",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/william-blair-rebaja-la-calificacion-de-clarivate-tras-acuerdo-de-privatizacion-93CH-3876121",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
-      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
-      "credit": "Imagen: Expansión"
     },
     {
       "r": "economia",
@@ -154,18 +260,6 @@
       "d": "15 oct 2026"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "SRE destaca que las relaciones de México con España atraviesan uno de sus mejores momentos",
-      "s": "El secretario de Relaciones Exteriores, Roberto Velasco asegura que trabaja a diario con Albares y su equipo para \"profundizar la colaboración\" bilateral.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/sre-destaca-relaciones-mexico-espana-atraviesan-mejores-momentos-20261015-838774.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfd1e8527d7.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -175,100 +269,6 @@
       "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-15-octubre-2026-cuanto-cotiza-20261015-838773.html",
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/05/6ac434be4f868.webp",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "¿Y si la IA prefiere los currículums redactados por la IA?",
-      "s": "Hay indicios de que ese es el caso, y la experiencia de un bufete de abogados resulta reveladora. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/15/ia-prefiere-curriculums-redactados-ia.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920772117348_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Quest Diagnostics podrían moverse un 4,4% tras resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-quest-diagnostics-podrian-moverse-un-44-tras-resultados-del-22-de-octubre-93CH-3876105",
-      "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Iberdrola instala más de 100 puntos de recarga de vehículos eléctricos al día",
-      "s": "Supera los 97.000 puntos de recarga instalados, de los que más de 85.000 se encuentran en hogares y empresas y más de 12.000 son de uso público. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/15/6ad0ead9468aeb8e5a8b4592.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920765291038_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Abercrombie & Fitch alcanzan un máximo anual en 155,25 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/las-acciones-de-abercrombie--fitch-alcanzan-un-maximo-anual-en-15525-dolares-93CH-3876104",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Etsy alcanzan un máximo de 52 semanas en 88,07 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/las-acciones-de-etsy-alcanzan-un-maximo-de-52-semanas-en-8807-dolares-93CH-3876103",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3J15O_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Eagle Eye concede opciones sobre acciones a directivos y gestores",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/eagle-eye-concede-opciones-sobre-acciones-a-directivos-y-gestores-93CH-3876102",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Trump descarta transmisión en directo de ejecución de un condenado por matanza en base militar",
-      "s": "La ejecución por fusilamiento del autor del tiroteo en una base militar estadounidense que dejó 13 muertos no será transmitida en directo, anunció este jueves el presidente de Estados Unidos, Donald Trump.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/trump-descarta-transmision-directo-ejecucion-condenado-matanza-base-militar-20261015-838772.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0eb018b1b6.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Organizaciones piden recursos y coordinación para el plan metropolitano del Valle de México",
-      "s": "Distintas asociaciones respaldan la actualización del programa, pero consideran necesario garantizar presupuesto, participación pública y acuerdos entre gobiernos",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/econohabitat/organizaciones-piden-recursos-coordinacion-plan-metropolitano-valle-mexico-20261015-838688.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2015/05/21/66ec1fcb99655.jpeg",
       "credit": "Imagen: El Economista"
     },
     {
@@ -344,16 +344,28 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Sánchez y Feijoo se enzarzan sobre las pensiones en Bruselas",
-      "s": "Los partidos activan el ‘modo campaña’ también en la UE. Los políticos defienden la revalorización de las pensiones con el IPC y se acusan de poner en jaque la estabilidad del sistema y de mentir al electorado. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/15/sanchez-feijoo-enzarzan-sobre-pensiones-bruselas.html",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 15 de octubre",
+      "s": "El billete al público continúa ofrecido a $1.535 para la venta en el Banco Nación. El blue es ofrecido a $1.550. El BCRA compró ayer USD 101 millones en el mercado",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-15-de-octubre/",
       "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920687715863_150x0.jpg",
-      "credit": "Imagen: Expansión"
+      "img": "https://www.infobae.com/resizer/v2/NZYGUQJ3UVAC5A3XWEL4A5FNSM.JPG?auth=605bc17984737cd9d2789c8a0fcfb71bf34491e309c24cffa78ab0c2c5ae1264&smart=true&width=3500&height=2250",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Un gigante de Wall Street asegura que el 41% de los inversores espera una suba en el precio de los activos argentinos",
+      "s": "El mercado sigue de cerca el riesgo país, la “bazooka” de dólares del Gobierno y las proyecciones de dólar, inflación y crecimiento para 2027. Qué factores externos entran en juego",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/un-gigante-de-wall-street-asegura-que-el-41-de-los-inversores-espera-una-suba-en-el-precio-de-los-activos-argentinos/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/3B2BGYNZXNG33KZ5VULGJORGFE.jpg?auth=3ed54e7b41fe0c1f144fc2752af52cde53a262fea91fae4e52c3975833a3306f&smart=true&width=1360&height=765",
+      "credit": "Imagen: Infobae Economía"
     },
     {
       "r": "asia",
@@ -377,18 +389,6 @@
       "url": "https://www.bbc.com/mundo/articles/cm79perw314vo?at_medium=RSS&at_campaign=rss",
       "d": "15 oct 2026",
       "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2660/live/af90b6c0-c87d-11f1-8101-e3c2ed61ec71.jpg",
-      "credit": "Imagen: BBC Mundo"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo",
-      "s": "Los arqueólogos creen que los restos del naufragio tienen hasta 4.700 años de antigüedad, remontándose a la Edad del Bronce Temprana.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cw240q4dd59ro?at_medium=RSS&at_campaign=rss",
-      "d": "14 oct 2026",
-      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
       "credit": "Imagen: BBC Mundo"
     },
     {
