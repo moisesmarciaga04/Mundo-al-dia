@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T15:04:21.717Z",
+  "actualizado": "2026-10-15T15:05:35.798Z",
   "items": [
     {
       "r": "ciencia",
@@ -12,6 +12,96 @@
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/07/21/687e9dfa03f04.png",
       "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Alemania se asociará con Nvidia en una iniciativa de desarrollo de IA",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/alemania-se-asociara-con-nvidia-en-una-iniciativa-de-desarrollo-de-ia-3876090",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Cinemark alcanzan un máximo de 52 semanas en 39,09 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/las-acciones-de-cinemark-alcanzan-un-maximo-de-52-semanas-en-3909-dolares-93CH-3876089",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Las opciones de Newmont sugieren un movimiento del 4,2% tras los resultados",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-opciones-de-newmont-sugieren-un-movimiento-del-42-tras-los-resultados-93CH-3876088",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Comcast podrían moverse un 4,7% con los resultados del 22 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-comcast-podrian-moverse-un-47-con-los-resultados-del-22-de-octubre-93CH-3876083",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Por qué sube hoy la acción de Equinox Gold?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-equinox-gold-93CH-3876081",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAG0JS_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Procter & Gamble podrían moverse un 2,6% con los resultados del 22 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-procter--gamble-podrian-moverse-un-26-con-los-resultados-del-22-de-octubre-93CH-3876080",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEAA30XY_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Dow Inc. podrían moverse un 4,9% tras sus resultados del 22 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-dow-inc-podrian-moverse-un-49-tras-sus-resultados-del-22-de-octubre-93CH-3876078",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Las opciones de PG&E apuntan a un movimiento del 3,6% tras resultados",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-opciones-de-pge-apuntan-a-un-movimiento-del-36-tras-resultados-93CH-3876077",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "mundo",
@@ -41,6 +131,30 @@
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
+      "t": "Las acciones de Honeywell podrían moverse un 5% tras resultados del 22 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-honeywell-podrian-moverse-un-5-tras-resultados-del-22-de-octubre-93CH-3876075",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPED99190_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Nationwide Building Society admite bonos por 1.050 millones de dólares en la Bolsa de Londres",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/nationwide-building-society-admite-bonos-por-1050-millones-de-dolares-en-la-bolsa-de-londres-93CH-3876074",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
       "t": "El Ibex gira a la baja, arrastrado por Wall Street",
       "s": "Una nueva oleada de ventas sacude a las tecnológicas. El revés se agrava en Asia, y se modera en Europa debido a su menor exposición a las temáticas de la IA. La mayor tención en los mercados atenaza al Ibex. Leer",
       "src": "Expansión",
@@ -60,18 +174,6 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Vueltas a lo redondo",
-      "s": "Tengo la edad que quiero y siento, la edad en que puedo gritar sin miedo lo que pienso. Saramago",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/vueltas-redondo-20261015-838770.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/12/02/692f30ffe8911.r_d.315-181-0.png",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -82,38 +184,6 @@
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/4GNJP4R6OVE5JEZBJJZDLE5QNA.png?auth=630f6517d89475d7fa7492f177deb82a18b392bf5bb8d715f9f5736a006f213c&smart=true&width=1408&height=768",
       "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Unum Group declara un dividendo trimestral de 0,505 dólares por acción",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/unum-group-declara-un-dividendo-trimestral-de-0505-dolares-por-accion-93CH-3876061",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de GigaCloud Tecnología alcanzan un máximo de 52 semanas en 58,27 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/las-acciones-de-gigacloud-tecnologia-alcanzan-un-maximo-de-52-semanas-en-5827-dolares-93CH-3876060",
-      "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "S&P 500, Dow Jones, IPC: Caída en Bolsas hoy; Anthropic mete miedo antes de su OPI",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/sp-500-dow-jones-ipc-caida-en-bolsas-hoy-anthropic-mete-miedo-antes-de-su-opi-3876058",
-      "d": "15 oct 2026"
     },
     {
       "r": "europa",
@@ -138,42 +208,6 @@
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/7VENHQDGGRCHNCD7D4WSISCPWQ.JPG?auth=0c56df49d49a6f6a2b172be2e57764b61b340bbeae4e255b6374e586d9e52e9e&smart=true&width=5664&height=3776",
       "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Las opciones de Bloom Energy apuntan a un movimiento del 9% en resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-opciones-de-bloom-energy-apuntan-a-un-movimiento-del-9-en-resultados-del-22-de-octubre-93CH-3876057",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEA740RP_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Stifel reitera su calificación de GlobalFoundries tras acuerdo en Japón",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/stifel-reitera-su-calificacion-de-globalfoundries-tras-acuerdo-en-japon-93CH-3876056",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_small-LYNXMPEM4519D_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Stifel reitera su calificación de Accenture por perspectivas de IA",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/stifel-reitera-su-calificacion-de-accenture-por-perspectivas-de-ia-93CH-3876054",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEA8N0F2_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "americas",
@@ -272,6 +306,18 @@
       "credit": "Imagen: El Economista"
     },
     {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "La Fiscalía española avala que se investigue a Julio Iglesias por agresión sexual",
+      "s": "La Fiscalía española dio un giro de 180 grados y avala ahora que se pueda abrir una investigación al cantante Julio Iglesias por presunta agresión sexual a dos exempleadas, luego de archivarse una primera denuncia, informaron este jueves fuentes del Ministerio Público.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/arteseideas/fiscalia-espanola-avala-investigue-julio-iglesias-agresion-sexual-20261015-838763.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/01/15/69695e7ba3e99.r_d.1389-755-0.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -282,18 +328,6 @@
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/ZCH7F37BYVALLJOVVH4HYEQFVI.jpg?auth=4684e575d47e99b64cfb32fca2a9576146f36d3b272336554e5df611b5a84f54&smart=true&width=1456&height=816",
       "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Detienen a un mexicano con serpientes y lagartos en un aeropuerto de Alemania",
-      "s": "Un mexicano llevaba 90 lagartos y serpientes venenosas ocultos en recipientes y calcetines en su equipaje a su llegada a un aeropuerto en Alemania, anunciaron este jueves las autoridades locales.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/detienen-mexicano-serpientes-lagartos-aeropuerto-alemania-20261015-838762.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0d9bfaf5c0.jpeg",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -330,54 +364,6 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Anthropic informa a los inversores de que los ingresos trimestrales aumentaron casi un 50%",
-      "s": "El rápido crecimiento es inferior a lo esperado por algunos actores en un momento en que la preocupación en torno a la IA inquieta a los mercados. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/15/anthropic-informa-inversores-ingresos-trimestrales-aumentaron-50.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920682971823_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Un gigante de Wall Street asegura que el 41% de los inversores espera una suba en el precio de los activos argentinos",
-      "s": "El mercado sigue de cerca el riesgo país, la “bazooka” de dólares del Gobierno y las proyecciones de dólar, inflación y crecimiento para 2027. Qué factores externos entran en juego",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/un-gigante-de-wall-street-asegura-que-el-41-de-los-inversores-espera-una-suba-en-el-precio-de-los-activos-argentinos/",
-      "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/3B2BGYNZXNG33KZ5VULGJORGFE.jpg?auth=3ed54e7b41fe0c1f144fc2752af52cde53a262fea91fae4e52c3975833a3306f&smart=true&width=1360&height=765",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "La inflación interanual oficial creció en Cuba y se situó en septiembre en el 28,44%, pero la cifra real puede ser mucho mayor",
-      "s": "El dato estatal no incluye el mercado informal, donde la variación de precios podría alcanzar los tres dígitos, según expertos independientes",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/cuba/2026/10/15/la-inflacion-interanual-oficial-crecio-en-cuba-y-se-situo-en-septiembre-en-el-2844-pero-la-cifra-real-puede-ser-mucho-mayor/",
-      "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/CRJHKRNOCR4AUKLBUP3UL6QIMQ.jpg?auth=dbb1ec8f066b5c33bd86adae59c25c0508b14f9de9213db2bcd90ed8122e118f&smart=true&width=5121&height=3555",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Una ronda de negocios reunirá a las 41 empresas que desarrollan proyectos RIGI con 1.800 proveedores locales",
-      "s": "La iniciativa busca conectar a las compañías con proyectos en el régimen de incentivos con empresas argentinas que puedan abastecerlas",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/una-ronda-de-negocios-reunira-a-las-41-empresas-que-desarrollan-proyectos-rigi-con-1800-proveedores-locales/",
-      "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/PBPKFDTYBJBBVEFIXPSMW2MR74.jpg?auth=52d7938adfad04e15a2661d1117260041b92407ca88c21eec7b0a94ba2fd3a93&smart=true&width=3000&height=2054",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
       "r": "asia",
       "tag": "Asia y Medio Oriente",
       "art": "missile",
@@ -388,6 +374,18 @@
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/4XOCSHY6FVDH7AMFAHOAA4YLCI.jpg?auth=42517a5a966276e1f73c248fb411d05af188b178c283b348f5ee8373bf06ddfc&smart=true&width=1920&height=1080",
       "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Mueren más de 30 niños y un maestro en Pakistán tras el derrumbe del techo de una escuela",
+      "s": "El derrumbe de un tejado en una escuela privada en Pakistán dejó más de 30 muertos, en su mayoría niños. El propietario de la institución ha sido detenido.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cm79perw314vo?at_medium=RSS&at_campaign=rss",
+      "d": "15 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2660/live/af90b6c0-c87d-11f1-8101-e3c2ed61ec71.jpg",
+      "credit": "Imagen: BBC Mundo"
     },
     {
       "r": "petroleo",
