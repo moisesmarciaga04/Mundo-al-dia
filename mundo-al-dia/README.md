@@ -1,4 +1,4 @@
-# Mundo al Día: sitio de noticias con actualización diaria
+# Clave Mundial: sitio de noticias con actualización diaria
 
 Este proyecto publica tu página gratis en **GitHub Pages** y la actualiza sola cada mañana.
 
