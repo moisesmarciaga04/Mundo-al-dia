@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-15T16:43:20.185Z",
+  "actualizado": "2026-10-15T16:53:44.465Z",
   "items": [
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Quién es Meredith Whittaker, la mujer más poderosa en el mundo de la IA (y por qué rechaza que haya riesgos para los humanos)",
+      "s": "En una entrevista exclusiva con la BBC, la directora de Signal afirma que la amenaza de la IA ha sido malinterpretada.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cqe8lydy6rpyo?at_medium=RSS&at_campaign=rss",
+      "d": "15 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65cf/live/0fabda30-bc12-11f1-a430-4d16ee157c41.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "\"Denuncio que Russell Brand me violó\": el testimonio de una de las 6 mujeres que acusa al actor y exesposo de Katy Perry",
+      "s": "El hombre de 51 años se enfrenta a tres cargos de violación, tres cargos de agresión sexual y uno de agresión indecente.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmy83d1lnyj7o?at_medium=RSS&at_campaign=rss",
+      "d": "15 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -14,16 +38,28 @@
       "credit": "Imagen: El Economista"
     },
     {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "El lujo de combinar artesanía, diseño y tecnología",
+      "s": "Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0f956e5fdea0c458b459c.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920821263978_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "\"Me quedé en shock\": el testimonio de una de las mujeres que acusa de violación al actor Russell Brand, exesposo de Katy Perry",
-      "s": "El hombre de 51 años se enfrenta a tres cargos de violación, tres cargos de agresión sexual y uno de agresión indecente.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cmy83d1lnyj7o?at_medium=RSS&at_campaign=rss",
+      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
+      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
       "d": "15 oct 2026",
-      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba88/live/d39f1a40-c8a3-11f1-9a39-31b474234113.jpg",
-      "credit": "Imagen: BBC Mundo"
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
+      "credit": "Imagen: Expansión"
     },
     {
       "r": "mundo",
@@ -60,18 +96,6 @@
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd2e6a91951.jpeg",
       "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "La Audiencia Nacional retrasa el inicio del juicio del 'caso Popular'",
-      "s": "El juicio finalmente comenzará en octubre del año que viene y se extenderá hasta principios de 2028. La Justicia ha decidido dilatar el comienzo del juicio por la \"complejida procesal\" del caso. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/15/6ad0fab0468aeba81b8b4570.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920805992258_150x0.jpg",
-      "credit": "Imagen: Expansión"
     },
     {
       "r": "americas",
@@ -132,18 +156,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920803279594_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Inteligencia Artificial pedagógica: aliada del docente, no sustituto",
-      "s": "La formación es un proceso continuo que se extiende mucho más allá de un título universitario, pues aprender un idioma implica desarrollar la confianza para defender ideas y conectar con el mundo.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/los-especiales/inteligencia-artificial-pedagogica-aliada-docente-sustituto-20261015-838665.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad0290982007.jpeg",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "asia",
@@ -226,18 +238,6 @@
       "d": "15 oct 2026",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
       "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Ciencia, talento e innovación abren camino al sector aeroespacial en Hidalgo",
-      "s": "Bajo la estrategia del gobernador Julio Menchaca Salazar de impulsar la articulación de capacidades científicas, formación de talento e innovación tecnológica, como herramientas para diversificar las oportunidades de desarrollo económico y profesional, el estado de Hidalgo explora nuevas…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/ciencia-talento-e-innovacion-abren-camino-sector-aeroespacial-hidalgo-20261015-838776.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0f3db9de87.jpeg",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -335,18 +335,6 @@
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
-      "t": "El lujo ofrece una oportunidad de inversión a largo plazo",
-      "s": "La inversión en lujo se encuentra en un proceso de recuperación, tras el frenazo de actividad que experimentó tras la pandemia. Los expertos del sector creen que el despegue de la industria se producirá a partir de 2027. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0d5aae5fdea480a8b459c.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920713047783_150x0.jpg",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
       "t": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 15 de octubre",
       "s": "El billete al público continúa ofrecido a $1.535 para la venta en el Banco Nación. El blue es ofrecido a $1.550. El BCRA compró ayer USD 101 millones en el mercado",
       "src": "Infobae Economía",
@@ -365,6 +353,18 @@
       "url": "https://www.infobae.com/economia/2026/10/15/un-gigante-de-wall-street-asegura-que-el-41-de-los-inversores-espera-una-suba-en-el-precio-de-los-activos-argentinos/",
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/3B2BGYNZXNG33KZ5VULGJORGFE.jpg?auth=3ed54e7b41fe0c1f144fc2752af52cde53a262fea91fae4e52c3975833a3306f&smart=true&width=1360&height=765",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "La inflación interanual oficial creció en Cuba y se situó en septiembre en el 28,44%, pero la cifra real puede ser mucho mayor",
+      "s": "El dato estatal no incluye el mercado informal, donde la variación de precios podría alcanzar los tres dígitos, según expertos independientes",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/cuba/2026/10/15/la-inflacion-interanual-oficial-crecio-en-cuba-y-se-situo-en-septiembre-en-el-2844-pero-la-cifra-real-puede-ser-mucho-mayor/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/CRJHKRNOCR4AUKLBUP3UL6QIMQ.jpg?auth=dbb1ec8f066b5c33bd86adae59c25c0508b14f9de9213db2bcd90ed8122e118f&smart=true&width=5121&height=3555",
       "credit": "Imagen: Infobae Economía"
     },
     {
