@@ -1,17 +1,101 @@
 {
-  "actualizado": "2026-10-15T15:47:47.945Z",
+  "actualizado": "2026-10-15T16:04:45.763Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Orientación vocacional: cómo tomar una decisión universitaria informada",
+      "s": "COLABORACIÓN INVITADA",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/los-especiales/orientacion-vocacional-tomar-decision-universitaria-informada-20261015-838666.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad02a0677314.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El Foro Económico Mundial podría designar a Lagarde presidenta en noviembre",
+      "s": "El nombramiento no implica que Lagarde renuncie a la presidencia del Banco Central Europeo. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/15/6ad0f6ffe5fdea831d8b45a3.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920794130984_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Trump cancela la transmisión en vivo de la ejecución con pelotón de fusilamiento del exmilitar Nidal Hasan",
+      "s": "Trump dijo que algunos \"preferirían no ver\" la ejecución de Nidal Hasan, la primera a un exmilitar en más de 60 años.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss",
+      "d": "15 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f672/live/b16bd830-c8a5-11f1-a573-f1e461934384.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
     {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
       "t": "Mercados: caen las acciones argentinas y el riesgo país vuelve a subir",
-      "s": "Los títulos públicos pierden 0,7% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,9%, mientras que los índices de Wall Street negocian dispares",
+      "s": "Los títulos públicos pierden 0,3% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,2%, mientras que los índices de Wall Street negocian dispares",
       "src": "Infobae Economía",
       "url": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/7VENHQDGGRCHNCD7D4WSISCPWQ.JPG?auth=0c56df49d49a6f6a2b172be2e57764b61b340bbeae4e255b6374e586d9e52e9e&smart=true&width=5664&height=3776",
       "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Sheinbaum destaca el crecimiento económico de México por arriba del promedio de la OCDE",
+      "s": "La presidenta Claudia Sheinbaum defendió este jueves que México se coloca entre los países con mayor crecimiento económico de la OCDE durante el segundo trimestre de 2026, con un crecimiento de 1.4% y un aumento de 3.6% en actividad industrial.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/sheinbaum-destaca-crecimiento-economico-mexico-promedio-ocde-20261015-838777.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0f6c2aad92.png",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Tras el cambio de dueños, Profertil arrancó el diseño de su segunda planta de urea en Bahía Blanca",
+      "s": "Techint y la italiana Saipem desarrollarán la evaluación para la nueva planta que elevará la capacidad de producción de la empresa. El proyecto, postergado durante una década, se concreta con nuevos accionistas y el impulso del gas de Vaca Muerta",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/tras-el-cambio-de-duenos-profertil-arranco-el-diseno-de-su-segunda-planta-de-urea-en-bahia-blanca/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/FCQ5D7IJSVDT3HGGDKZWBQY6QQ.jpg?auth=ef76ad5e80127b0634111b81af01bb8efe4b1d3f4dbf1d5e93caee3525d0048f&smart=true&width=1920&height=1069",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Sheinbaum ordena revisar aumento salarial del IMSS tras rechazo de trabajadores",
+      "s": "Claudia Sheinbaum anunció que el IMSS revisará su propuesta salarial tras el rechazo de trabajadores y buscará nuevas alternativas de negociación.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/sheinbaum-ordena-revisar-aumento-salarial-imss-rechazo-trabajadores-20261015-838775.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0f4d406222.png",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Ciencia, talento e innovación abren camino al sector aeroespacial en Hidalgo",
+      "s": "Bajo la estrategia del gobernador Julio Menchaca Salazar de impulsar la articulación de capacidades científicas, formación de talento e innovación tecnológica, como herramientas para diversificar las oportunidades de desarrollo económico y profesional, el estado de Hidalgo explora nuevas…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/ciencia-talento-e-innovacion-abren-camino-sector-aeroespacial-hidalgo-20261015-838776.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0f3db9de87.jpeg",
+      "credit": "Imagen: El Economista"
     },
     {
       "r": "mundo",
@@ -58,18 +142,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Koryx Copper avanza hacia la prefactibilidad con aumento de producción",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/transcripts/koryx-copper-avanza-hacia-la-prefactibilidad-con-aumento-de-produccion-93CH-3876118",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -200,30 +272,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Atención al cliente: la IA no resolverá tus problemas",
-      "s": "La semana pasada le regalé tres días de mi vida a la Inteligencia Artificial: solicitando la factura de una compra, cancelando un servicio de email y verificando mi conexión a internet. Y sé que no soy la única. La gran promesa de la IA de hacernos la vida más sencilla tiene un precio alto: tiempo…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/atencion-cliente-ia-resolvera-tus-problemas-20261015-838709.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/07/21/687e9dfa03f04.png",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Sheinbaum ve positiva la compra de AT&T por Televisa y Fintech; \"ayudará a la competencia en México\"",
-      "s": "La presidenta Claudia Sheinbaum dijo este jueves que la compra de la unidad mexicana de AT&T por parte de Televisa y Fintech Holdings, anunciada esta semana, va a ayudar a la competencia y a mejorar los servicios de internet en el país.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/sheinbaum-asegura-compra-at-t-televisa-fintech-ayudar-competencia-mexico-20261015-838771.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0e787dc1e3.png",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "europa",
       "tag": "Europa",
       "art": "bars",
@@ -260,18 +308,6 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "petroleo",
-      "tag": "Petróleo",
-      "art": "oilrig",
-      "t": "Ucrania ataca refinería rusa y Zelenski dice que \"se acabó\" la tregua energética de Trump",
-      "s": "Ucrania atacó este jueves una refinería de petróleo rusa, después de que el presidente Volodímir Zelenski dice que Kiev había \"dejado de\" apoyar el alto el fuego sobre objetivos energéticos anunciado por el presidente de Estados Unidos, Donald Trump, y que Rusia había ignorado.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/ucrania-ataca-refineria-rusa-zelenski-dice-acabo-tregua-energetica-trump-20261015-838768.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/14/6aa8c67c34c31.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -282,30 +318,6 @@
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/UVECSPCMRFBTTAXHQDGOUX24X4.jpg?auth=81a15afb1d6ba2f41a33a0f2ddd4ad9a3a64234773301e2e8287319cc081bd93&smart=true&width=1000&height=666",
       "credit": "Imagen: Infobae Economía"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "América Latina registra auge comercial en 2026 por 'boom' de materias primas y vínculos con Asia: Cepal",
-      "s": "Las exportaciones de América Latina y el Caribe se encaminan a registrar uno de sus mejores desempeños de los últimos años en 2026 impulsadas por el alza de los precios de las materias primas, mayores volúmenes de exportación y una creciente demanda desde Asia, reveló este jueves un estudio de la…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/america-latina-registra-auge-comercial-2026-boom-materias-primas-vinculos-asia-cepal-20261015-838767.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/11/13/691677591eb7e.webp",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "petroleo",
-      "tag": "Petróleo",
-      "art": "oilrig",
-      "t": "La AIE dice que la liberación total de reservas de petróleo superará los 400 millones de barriles",
-      "s": "La Agencia Internacional de la Energía anunció que el volumen total de reservas que se liberarán superará los 400 millones de barriles acordados inicialmente en marzo.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/mercados/aie-dice-liberacion-total-reservas-petroleo-superara-400-millones-barriles-20261015-838766.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/15/6a5823fbed040.webp",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -330,16 +342,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920713047783_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "De la F1 al Mutua Open: el negocio que mueve el deporte prémium en Madrid",
-      "s": "José Vicente de los Mozos y Gérard Tsobanian defienden el potencial de los grandes acontecimientos deportivos para atraer inversión, turismo y marcas de lujo. La Fórmula 1 en Madrid supera las expectativas económicas en su primer año mientras el tenis prepara su expansión. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09b23e5fdea2a328b4588.html",
-      "d": "15 oct 2026"
     },
     {
       "r": "europa",
