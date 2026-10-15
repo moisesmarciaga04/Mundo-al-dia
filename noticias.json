@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-15T15:19:20.474Z",
+  "actualizado": "2026-10-15T15:22:55.582Z",
   "items": [
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "SRE destaca que las relaciones de México con España atraviesan uno de sus mejores momentos",
+      "s": "El secretario de Relaciones Exteriores, Roberto Velasco asegura que trabaja a diario con Albares y su equipo para \"profundizar la colaboración\" bilateral.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/sre-destaca-relaciones-mexico-espana-atraviesan-mejores-momentos-20261015-838774.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfd1e8527d7.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Peso mexicano recupera terreno desde su peor nivel en casi un año ante retroceso del dólar",
+      "s": "Los operadores continúan atentos a las cifras económicas en Estados Unidos, en busca de pistas sobre el futuro de la tasa de interés de la Reserva Federal.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-15-octubre-2026-cuanto-cotiza-20261015-838773.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/05/6ac434be4f868.webp",
+      "credit": "Imagen: El Economista"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -29,13 +53,61 @@
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
-      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
+      "t": "Deditos de pescado con amaranto: una receta fácil y crujiente",
+      "s": "El amaranto también tiene lugar en la cocina salada. Esta receta lo utiliza para preparar una cubierta dorada que acompaña al pescado y se puede cocinar al horno.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/bistronomie/deditos-pescado-amaranto-receta-facil-crujiente-20261015-838595.html",
       "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
-      "credit": "Imagen: Expansión"
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfe84335430.png",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Alegrías de amaranto caseras: la receta fácil para que queden crujientes",
+      "s": "Amaranto reventado, piloncillo y un puñado de semillas bastan para preparar este dulce mexicano sin horno y con ingredientes fáciles de conseguir.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/bistronomie/alegrias-amaranto-caseras-receta-facil-queden-crujientes-20261015-838591.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfdcb65e5ba.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "15 de octubre, Día Nacional del Amaranto: un ingrediente de la cocina mexicana",
+      "s": "El amaranto reúne tradición, valor nutricional y posibilidades en la cocina más allá de las alegrías. Su día nacional invita a ampliar su consumo y fortalecer una cadena productiva que generó 88.86 millones de pesos en 2025.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/bistronomie/15-octubre-dia-nacional-amaranto-ingrediente-cocina-mexicana-20261015-838587.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfd927ab2fc.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Trump descarta transmisión en directo de ejecución de un condenado por matanza en base militar",
+      "s": "La ejecución por fusilamiento del autor del tiroteo en una base militar estadounidense que dejó 13 muertos no será transmitida en directo, anunció este jueves el presidente de Estados Unidos, Donald Trump.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/trump-descarta-transmision-directo-ejecucion-condenado-matanza-base-militar-20261015-838772.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0eb018b1b6.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Organizaciones piden recursos y coordinación para el plan metropolitano del Valle de México",
+      "s": "Distintas asociaciones respaldan la actualización del programa, pero consideran necesario garantizar presupuesto, participación pública y acuerdos entre gobiernos",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/econohabitat/organizaciones-piden-recursos-coordinacion-plan-metropolitano-valle-mexico-20261015-838688.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2015/05/21/66ec1fcb99655.jpeg",
+      "credit": "Imagen: El Economista"
     },
     {
       "r": "ciencia",
@@ -72,16 +144,6 @@
       "d": "15 oct 2026"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Las opciones de Newmont sugieren un movimiento del 4,2% tras los resultados",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-opciones-de-newmont-sugieren-un-movimiento-del-42-tras-los-resultados-93CH-3876088",
-      "d": "15 oct 2026"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -90,18 +152,6 @@
       "src": "Investing.com",
       "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-comcast-podrian-moverse-un-47-con-los-resultados-del-22-de-octubre-93CH-3876083",
       "d": "15 oct 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "¿Por qué sube hoy la acción de Equinox Gold?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-equinox-gold-93CH-3876081",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAG0JS_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -222,18 +272,6 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Nvidia y Apple donaron 25 millones de dólares cada una para el salón de baile de Trump",
-      "s": "Nvidia y Apple se comprometieron a aportar 25 millones de dólares cada una para el salón de baile que el presidente Donald Trump tiene previsto construir en la Casa Blanca, informó este jueves el Washington Post.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/internacionales/nvidia-apple-donaron-25-millones-dolares-salon-baile-trump-20261015-838769.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/07/04/6867e3b2bcbe2.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "petroleo",
       "tag": "Petróleo",
       "art": "oilrig",
@@ -282,54 +320,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Japón dice al G20 que debe vigilar movimientos del mercado cambiario con gran sentido de urgencia",
-      "s": "La ministra de Hacienda japonesa, Satsuki Katayama, afirmó este jueves que comunicó a sus homólogos del G20 que las autoridades deben vigilar los movimientos de las tasas de cambio con un gran sentido de urgencia.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/sectorfinanciero/japon-dice-g20-debe-vigilar-movimientos-mercado-cambiario-gran-sentido-urgencia-20261015-838765.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/04/6a72abc5ab371.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Reducción de la jornada laboral: Pagar para no ver",
-      "s": "Pagar horas extra para compensar la reducción de la jornada laboral puede resultar una salida fácil para las empresas, pero también una decisión costosa que posterga los cambios necesarios para mejorar su productividad.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/capital-humano/reduccion-jornada-laboral-pagar-ver-20261015-838592.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/02/6a98c0510d94f.webp",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "¿Ha cambiado la afiliación a los servicios de salud en México?",
-      "s": "La reciente publicación de la Encuesta Intercensal (EIC) 2025 permite actualizar una historia de treinta años sobre la afiliación a los servicios de salud en México. Aunque las instituciones públicas han cambiado bastante, la proporción de la población afiliada se ha modificado menos. Según la EIC…",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/cambiado-afiliacion-servicios-salud-mexico-20261015-838764.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/06/18/68530556a6a76.png",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "La Fiscalía española avala que se investigue a Julio Iglesias por agresión sexual",
-      "s": "La Fiscalía española dio un giro de 180 grados y avala ahora que se pueda abrir una investigación al cantante Julio Iglesias por presunta agresión sexual a dos exempleadas, luego de archivarse una primera denuncia, informaron este jueves fuentes del Ministerio Público.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/arteseideas/fiscalia-espanola-avala-investigue-julio-iglesias-agresion-sexual-20261015-838763.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/01/15/69695e7ba3e99.r_d.1389-755-0.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -354,14 +344,16 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "De la F1 al Mutua Open: el negocio que mueve el deporte prémium en Madrid",
-      "s": "José Vicente de los Mozos y Gérard Tsobanian defienden el potencial de los grandes acontecimientos deportivos para atraer inversión, turismo y marcas de lujo. La Fórmula 1 en Madrid supera las expectativas económicas en su primer año mientras el tenis prepara su expansión. Leer",
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Sheila Loewe: \"El arte y la artesanía pueden ser un refugio ante la IA\"",
+      "s": "Sheila Loewe, presidenta de la Fundación Loewe, afirma que, en un mundo en el que está en pleno ascenso la inteligencia artificial, el arte, la artesanía e incluso la poesía pueden ser \"como un refugio porque hablan del hombre, de dónde venimos, de nuestra identidad cultural\". Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09b23e5fdea2a328b4588.html",
-      "d": "15 oct 2026"
+      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0a5d6468aeb6e2e8b4592.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920680332113_150x0.jpg",
+      "credit": "Imagen: Expansión"
     },
     {
       "r": "asia",
@@ -385,6 +377,18 @@
       "url": "https://www.bbc.com/mundo/articles/cm79perw314vo?at_medium=RSS&at_campaign=rss",
       "d": "15 oct 2026",
       "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2660/live/af90b6c0-c87d-11f1-8101-e3c2ed61ec71.jpg",
+      "credit": "Imagen: BBC Mundo"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo",
+      "s": "Los arqueólogos creen que los restos del naufragio tienen hasta 4.700 años de antigüedad, remontándose a la Edad del Bronce Temprana.",
+      "src": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cw240q4dd59ro?at_medium=RSS&at_campaign=rss",
+      "d": "14 oct 2026",
+      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
       "credit": "Imagen: BBC Mundo"
     },
     {
