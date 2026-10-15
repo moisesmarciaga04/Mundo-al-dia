@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-15T14:58:03.816Z",
+  "actualizado": "2026-10-15T15:04:21.717Z",
   "items": [
+    {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "Atención al cliente: la IA no resolverá tus problemas",
+      "s": "La semana pasada le regalé tres días de mi vida a la Inteligencia Artificial: solicitando la factura de una compra, cancelando un servicio de email y verificando mi conexión a internet. Y sé que no soy la única. La gran promesa de la IA de hacernos la vida más sencilla tiene un precio alto: tiempo…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/atencion-cliente-ia-resolvera-tus-problemas-20261015-838709.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/07/21/687e9dfa03f04.png",
+      "credit": "Imagen: El Economista"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -12,6 +24,18 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
       "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Sheinbaum asegura que compra de AT&T por Televisa y Fintech va a ayudar a la competencia en México",
+      "s": "La presidenta Claudia Sheinbaum dijo este jueves que la compra de la unidad mexicana de AT&T por parte de Televisa y Fintech Holdings, anunciada esta semana, va a ayudar a la competencia y a mejorar los servicios de internet en el país.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/sheinbaum-asegura-compra-at-t-televisa-fintech-ayudar-competencia-mexico-20261015-838771.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0e787dc1e3.png",
+      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -34,6 +58,18 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920742424155_150x0.jpg",
       "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Vueltas a lo redondo",
+      "s": "Tengo la edad que quiero y siento, la edad en que puedo gritar sin miedo lo que pienso. Saramago",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/vueltas-redondo-20261015-838770.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/12/02/692f30ffe8911.r_d.315-181-0.png",
+      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -128,18 +164,6 @@
       "credit": "Imagen: Investing.com"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "La acción de Atkore alcanza un máximo de 52 semanas a 94,94 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/la-accion-de-atkore-alcanza-un-maximo-de-52-semanas-a-9494-dolares-93CH-3876055",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM1P0JL_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
@@ -162,18 +186,6 @@
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/07/04/6867e3b2bcbe2.jpeg",
       "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Stifel eleva el precio objetivo de Workday por el impulso de la IA",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/analyst-ratings/stifel-eleva-el-precio-objetivo-de-workday-por-el-impulso-de-la-ia-93CH-3876049",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "petroleo",
@@ -260,18 +272,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Los rancheros que se cuestionan el apoyo a Trump en Nebraska, gran bastión del presidente",
-      "s": "Muchos ganaderos de estados que apoyaron al presidente muestran su descontento a tan solo unas semanas de las cruciales elecciones de mitad de mandato.",
-      "src": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cwm235lgg69lo?at_medium=RSS&at_campaign=rss",
-      "d": "15 oct 2026",
-      "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f8f/live/f5aa9af0-c89f-11f1-929c-0b57deb4f9df.jpg",
-      "credit": "Imagen: BBC Mundo"
-    },
-    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -306,18 +306,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920713047783_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "FMI pronostica que la India superará a Japón como la cuarta mayor economía en 2027",
-      "s": "India va camino de convertirse en la cuarta economía más grande del mundo en 2027, superando a Japón, según proyecciones del Fondo Monetario Internacional presentadas este jueves.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/economia/fmi-pronostica-india-superara-japon-cuarta-mayor-economia-20261015-838760.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/11/19/691e6609aa3a3.jpeg",
-      "credit": "Imagen: El Economista"
     },
     {
       "r": "economia",
@@ -375,6 +363,18 @@
       "url": "https://www.infobae.com/cuba/2026/10/15/la-inflacion-interanual-oficial-crecio-en-cuba-y-se-situo-en-septiembre-en-el-2844-pero-la-cifra-real-puede-ser-mucho-mayor/",
       "d": "15 oct 2026",
       "img": "https://www.infobae.com/resizer/v2/CRJHKRNOCR4AUKLBUP3UL6QIMQ.jpg?auth=dbb1ec8f066b5c33bd86adae59c25c0508b14f9de9213db2bcd90ed8122e118f&smart=true&width=5121&height=3555",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Una ronda de negocios reunirá a las 41 empresas que desarrollan proyectos RIGI con 1.800 proveedores locales",
+      "s": "La iniciativa busca conectar a las compañías con proyectos en el régimen de incentivos con empresas argentinas que puedan abastecerlas",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/una-ronda-de-negocios-reunira-a-las-41-empresas-que-desarrollan-proyectos-rigi-con-1800-proveedores-locales/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/PBPKFDTYBJBBVEFIXPSMW2MR74.jpg?auth=52d7938adfad04e15a2661d1117260041b92407ca88c21eec7b0a94ba2fd3a93&smart=true&width=3000&height=2054",
       "credit": "Imagen: Infobae Economía"
     },
     {
