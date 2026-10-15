@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light">
 <title>Mundo al Día: información internacional</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
@@ -36,7 +37,8 @@ a{color:inherit;text-decoration:none}
 .topbar nav{display:flex;gap:20px}
 .topbar nav a:hover{color:var(--accent)}
 .brandbar{padding:28px 0 18px}
-.brand{font-family:var(--serif);font-weight:700;font-size:clamp(2rem,6vw,2.8rem);letter-spacing:-.02em;line-height:1.1;color:var(--ink)}
+.brand{display:inline-block;line-height:0}
+.brand-logo{display:block;height:clamp(52px,9vw,84px);width:auto;max-width:100%}
 .tagline{margin:4px 0 0;font-family:var(--sans);font-size:.95rem;color:var(--muted)}
 nav.sections{display:flex;gap:26px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--ink);font-family:var(--sans);font-size:.95rem}
 nav.sections::-webkit-scrollbar{display:none}
@@ -156,7 +158,7 @@ footer strong{color:var(--ink);font-weight:600}
 </div>
 
 <header class="wrap brandbar">
-  <a class="brand" href="#/">Mundo al Día</a>
+  <a class="brand" href="#/"><img class="brand-logo" src="assets/logo.png" alt="Mundo al Día: noticias que conectan al mundo"></a>
   <p class="tagline">Información internacional, verificada y en español</p>
 </header>
 
@@ -269,22 +271,9 @@ footer strong{color:var(--ink);font-weight:600}
   </main>
 
   <section class="block" id="sala-de-prensa">
-    <div class="wrap two">
-      <div>
-        <h2>Sala de prensa</h2>
-        <p>Recibimos comunicados de organizaciones, instituciones y empresas. Para poder revisarlos, incluye el titular, el texto completo, la fecha y un contacto verificable.</p>
-        <p>También aceptamos propuestas de cobertura de eventos y colaboraciones como corresponsal.</p>
-        <p class="contact-line">Contacto de prensa: <a id="mailLink" href="#">correo</a></p>
-      </div>
-      <div>
-        <form class="press" id="pressForm">
-          <label>Nombre<input name="nombre" required autocomplete="name"></label>
-          <label>Organización<input name="org" autocomplete="organization"></label>
-          <label>Asunto<input name="asunto" required></label>
-          <label>Comunicado o mensaje<textarea name="mensaje" required></textarea></label>
-          <button class="btn" type="submit">Enviar comunicado</button>
-        </form>
-      </div>
+    <div class="wrap">
+      <h2>Sala de prensa</h2>
+      <p>Mundo al Día revisa comunicados de organizaciones, instituciones y empresas que incluyan titular, texto completo, fecha y un origen verificable, así como propuestas de cobertura de eventos y colaboraciones como corresponsal.</p>
     </div>
   </section>
 
@@ -324,7 +313,7 @@ footer strong{color:var(--ink);font-weight:600}
 
 <footer>
   <div class="wrap">
-    <strong>Mundo al Día</strong>. Información internacional en español. <span id="footMail"></span>
+    <strong>Mundo al Día</strong>. Información internacional en español.
   </div>
 </footer>
 
@@ -355,7 +344,6 @@ footer strong{color:var(--ink);font-weight:600}
      ============================================================ -->
 <script>
 var CONFIG = {
-  correo: "tucorreo@ejemplo.com",
   aviso: "Titulares y extractos de los feeds públicos de BBC Mundo, DW y Noticias ONU. Cada nota enlaza a su fuente."
 };
 var STORIES = [];
@@ -499,10 +487,6 @@ var STORIES = [];
 
   // Ajustes
   var n = document.getElementById("notice");
-  
-  var ml = document.getElementById("mailLink");
-  ml.textContent = CONFIG.correo; ml.href = "mailto:" + CONFIG.correo;
-  document.getElementById("footMail").textContent = "Contacto: " + CONFIG.correo;
 
   // Fecha
   var f = new Date().toLocaleDateString("es", {weekday:"long", day:"numeric", month:"long", year:"numeric"});
@@ -664,14 +648,6 @@ var STORIES = [];
     });
   }
   tick(); setInterval(tick, 20000);
-
-  // Formulario de prensa: abre el correo con el comunicado preparado
-  document.getElementById("pressForm").addEventListener("submit", function(e){
-    e.preventDefault();
-    var fd = new FormData(e.target);
-    var body = "Nombre: " + fd.get("nombre") + "\nOrganización: " + (fd.get("org") || "-") + "\n\n" + fd.get("mensaje");
-    window.location.href = "mailto:" + CONFIG.correo + "?subject=" + encodeURIComponent("Comunicado: " + fd.get("asunto")) + "&body=" + encodeURIComponent(body);
-  });
 })();
 </script>
 </body>
