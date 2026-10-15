@@ -1,6 +1,52 @@
 {
-  "actualizado": "2026-10-15T15:22:55.582Z",
+  "actualizado": "2026-10-15T15:38:13.046Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
+      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Muzinich cree que no habrá crisis de deuda en Europa y que es una buena oportunidad para invertir en bonos",
+      "s": "La gestora apuesta por el tramo medio de la curva, con vencimientos entre los 2 y 5 o 6 años y se muestra muy optimista con el High Yield. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/renta-fija/2026/10/15/6ad0f0a9e5fdea480a8b45a5.html",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "La cancelación de la prima de emisión de Software Circle crea reservas de 25,6 millones de libras",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/la-cancelacion-de-la-prima-de-emision-de-software-circle-crea-reservas-de-256-millones-de-libras-93CH-3876113",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Fitch mejora perspectiva de Equinix a positiva por disciplina financiera",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/fitch-mejora-perspectiva-de-equinix-a-positiva-por-disciplina-financiera-3876112",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
     {
       "r": "americas",
       "tag": "Américas",
@@ -26,16 +72,38 @@
       "credit": "Imagen: El Economista"
     },
     {
+      "r": "ciencia",
+      "tag": "Ciencia y Tecnología",
+      "art": "fusion",
+      "t": "¿Y si la IA prefiere los currículums redactados por la IA?",
+      "s": "Hay indicios de que ese es el caso, y la experiencia de un bufete de abogados resulta reveladora. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/15/ia-prefiere-curriculums-redactados-ia.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920772117348_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
       "r": "mundo",
       "tag": "Mundo",
       "art": "polar",
-      "t": "Aumentó la VTV en la provincia de Buenos Aires: cuánto hay que pagar a partir de hoy",
-      "s": "El Gobierno bonaerense autorizó una suba de 17,6% que alcanza a todas las categorías del servicio obligatorio. La medida rige desde este jueves 15 de octubre",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/aumento-la-vtv-en-la-provincia-de-buenos-aires-cuanto-hay-que-pagar-a-partir-de-hoy/",
+      "t": "Caspian Sunrise completa la adquisición de Tau-Cen por 700.000 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/caspian-sunrise-completa-la-adquisicion-de-taucen-por-700000-dolares-93CH-3876107",
       "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/NRC25SQ3NFAQHPTYVENIW654BU.jpg?auth=ff007c17721ada5b64b4675520db7f0c284afd20b4990827ab8c3d31a7d9d75a&smart=true&width=1920&height=1080",
-      "credit": "Imagen: Infobae Economía"
+      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Quest Diagnostics podrían moverse un 4,4% tras resultados del 22 de octubre",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-quest-diagnostics-podrian-moverse-un-44-tras-resultados-del-22-de-octubre-93CH-3876105",
+      "d": "15 oct 2026"
     },
     {
       "r": "economia",
@@ -50,40 +118,40 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Deditos de pescado con amaranto: una receta fácil y crujiente",
-      "s": "El amaranto también tiene lugar en la cocina salada. Esta receta lo utiliza para preparar una cubierta dorada que acompaña al pescado y se puede cocinar al horno.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/bistronomie/deditos-pescado-amaranto-receta-facil-crujiente-20261015-838595.html",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Abercrombie & Fitch alcanzan un máximo anual en 155,25 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/las-acciones-de-abercrombie--fitch-alcanzan-un-maximo-anual-en-15525-dolares-93CH-3876104",
       "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfe84335430.png",
-      "credit": "Imagen: El Economista"
+      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Alegrías de amaranto caseras: la receta fácil para que queden crujientes",
-      "s": "Amaranto reventado, piloncillo y un puñado de semillas bastan para preparar este dulce mexicano sin horno y con ingredientes fáciles de conseguir.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/bistronomie/alegrias-amaranto-caseras-receta-facil-queden-crujientes-20261015-838591.html",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Las acciones de Etsy alcanzan un máximo de 52 semanas en 88,07 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/las-acciones-de-etsy-alcanzan-un-maximo-de-52-semanas-en-8807-dolares-93CH-3876103",
       "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfdcb65e5ba.jpeg",
-      "credit": "Imagen: El Economista"
+      "img": "https://content-media.investing.com/news/LYNXMPEM3J15O_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "15 de octubre, Día Nacional del Amaranto: un ingrediente de la cocina mexicana",
-      "s": "El amaranto reúne tradición, valor nutricional y posibilidades en la cocina más allá de las alegrías. Su día nacional invita a ampliar su consumo y fortalecer una cadena productiva que generó 88.86 millones de pesos en 2025.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/bistronomie/15-octubre-dia-nacional-amaranto-ingrediente-cocina-mexicana-20261015-838587.html",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Eagle Eye concede opciones sobre acciones a directivos y gestores",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/eagle-eye-concede-opciones-sobre-acciones-a-directivos-y-gestores-93CH-3876102",
       "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6acfd927ab2fc.jpeg",
-      "credit": "Imagen: El Economista"
+      "img": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "americas",
@@ -122,62 +190,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "europa",
-      "tag": "Europa",
-      "art": "bars",
-      "t": "Alemania se asociará con Nvidia en una iniciativa de desarrollo de IA",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/alemania-se-asociara-con-nvidia-en-una-iniciativa-de-desarrollo-de-ia-3876090",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Cinemark alcanzan un máximo de 52 semanas en 39,09 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/las-acciones-de-cinemark-alcanzan-un-maximo-de-52-semanas-en-3909-dolares-93CH-3876089",
-      "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Comcast podrían moverse un 4,7% con los resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-comcast-podrian-moverse-un-47-con-los-resultados-del-22-de-octubre-93CH-3876083",
-      "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Procter & Gamble podrían moverse un 2,6% con los resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-procter--gamble-podrian-moverse-un-26-con-los-resultados-del-22-de-octubre-93CH-3876080",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEAA30XY_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Dow Inc. podrían moverse un 4,9% tras sus resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-dow-inc-podrian-moverse-un-49-tras-sus-resultados-del-22-de-octubre-93CH-3876078",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
@@ -188,30 +200,6 @@
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0e787dc1e3.png",
       "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Las acciones de Honeywell podrían moverse un 5% tras resultados del 22 de octubre",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-honeywell-podrian-moverse-un-5-tras-resultados-del-22-de-octubre-93CH-3876075",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPED99190_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Nationwide Building Society admite bonos por 1.050 millones de dólares en la Bolsa de Londres",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/nationwide-building-society-admite-bonos-por-1050-millones-de-dolares-en-la-bolsa-de-londres-93CH-3876074",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -228,7 +216,7 @@
       "tag": "Europa",
       "art": "bars",
       "t": "José Miranda (BYD): \"No hemos venido a testar el mercado, queremos liderarlo\"",
-      "s": "El director de Marketing de BYD Europa, América y Oriente Medio asegura que el objetivo de la marca china es liderar el mercado español y asegura que Denza (la firma prémium del grupo) quiere \"revolucionar el mercado prémium\" en Europa. Leer",
+      "s": "El director de Marketing de BYD Europa, América y Oriente Medio asegura que el objetivo de la marca china es liderar el mercado español, mientras que Denza espera \"revolucionar el mercado prémium\" en Europa. Leer",
       "src": "Expansión",
       "url": "https://www.expansion.com/empresas/motor/2026/10/15/6ad0e501e5fdea1c238b458b.html",
       "d": "15 oct 2026",
@@ -344,15 +332,25 @@
       "credit": "Imagen: Expansión"
     },
     {
-      "r": "ciencia",
-      "tag": "Ciencia y Tecnología",
-      "art": "fusion",
-      "t": "Sheila Loewe: \"El arte y la artesanía pueden ser un refugio ante la IA\"",
-      "s": "Sheila Loewe, presidenta de la Fundación Loewe, afirma que, en un mundo en el que está en pleno ascenso la inteligencia artificial, el arte, la artesanía e incluso la poesía pueden ser \"como un refugio porque hablan del hombre, de dónde venimos, de nuestra identidad cultural\". Leer",
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "De la F1 al Mutua Open: el negocio que mueve el deporte prémium en Madrid",
+      "s": "José Vicente de los Mozos y Gérard Tsobanian defienden el potencial de los grandes acontecimientos deportivos para atraer inversión, turismo y marcas de lujo. La Fórmula 1 en Madrid supera las expectativas económicas en su primer año mientras el tenis prepara su expansión. Leer",
       "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0a5d6468aeb6e2e8b4592.html",
+      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09b23e5fdea2a328b4588.html",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "europa",
+      "tag": "Europa",
+      "art": "bars",
+      "t": "Sánchez y Feijoo se enzarzan sobre las pensiones en Bruselas",
+      "s": "Los partidos activan el ‘modo campaña’ también en la UE. Los políticos defienden la revalorización de las pensiones con el IPC y se acusan de poner en jaque la estabilidad del sistema y de mentir al electorado. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/15/sanchez-feijoo-enzarzan-sobre-pensiones-bruselas.html",
       "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920680332113_150x0.jpg",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920687715863_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
