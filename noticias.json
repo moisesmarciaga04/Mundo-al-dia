@@ -1,6 +1,16 @@
 {
-  "actualizado": "2026-10-15T03:03:46.197Z",
+  "actualizado": "2026-10-15T03:05:08.884Z",
   "items": [
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "¿Por qué cae hoy la acción de China National Building Material?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-china-national-building-material-93CH-3874544",
+      "d": "15 oct 2026"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -41,6 +51,18 @@
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
+      "t": "Las bolsas asiáticas caen por el repunte de la inflación en EE.UU.",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-por-el-repunte-de-la-inflacion-en-eeuu-3874543",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
       "t": "El oro cayó por datos de inflación y apuestas por alza de tasas de interés",
       "s": "El oro es una activo refugio que no paga intereses a los inversionistas y un alza de las tasas le quita atractivo ante los inversionistas.",
       "src": "El Economista",
@@ -72,6 +94,66 @@
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/19/66ec1e47643f2.jpeg",
       "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "¿Por qué cae el dólar australiano hoy?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-el-dolar-australiano-hoy-93CH-3874541",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Por qué sube hoy la acción de Wisetech Global?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-wisetech-global-93CH-3874540",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "¿Por qué sube hoy la acción del Bank of Queensland?",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-del-bank-of-queensland-93CH-3874539",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_S.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "La directora jurídica de Joby Aviation vende acciones por 42.140 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/la-directora-juridica-de-joby-aviation-vende-acciones-por-42140-dolares-93CH-3874538",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_small-LYNXMPEM3T1K3_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El director de Producto de Joby Aviation vende acciones por 140.448 dólares",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-producto-de-joby-aviation-vende-acciones-por-140448-dolares-93CH-3874537",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
     },
     {
       "r": "mundo",
@@ -110,16 +192,6 @@
       "credit": "Imagen: Investing.com"
     },
     {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Anthropic informa a inversores que sus ingresos del Q3 subieron un 45% hasta casi 16.800 millones de dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/anthropic-informa-a-inversores-que-sus-ingresos-del-q3-subieron-un-45-hasta-casi-16800-millones-de-dolares-3874534",
-      "d": "15 oct 2026"
-    },
-    {
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
@@ -129,18 +201,6 @@
       "url": "https://www.eleconomista.com.mx/opinion/trump-amigo-terrorista-putin-20261014-838676.html",
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/05/14/68256546a0704.r_d.292-207-0.png",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Michelob Ultra contra Amstel Ultra: Suprema Corte decidirá el jueves 15 de octubre",
-      "s": "El asunto involucra los derechos de propiedad intelectual de Anheuser Busch, que acusa a Heineken de imitar la presentación comercial de uno de sus productos. El IMPI le dio la razón en 2021 al propietario de Michelob Ultra, pero el asunto se complicó y ahora está en manos de la SCJN.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/michelob-ultra-amstel-ultra-suprema-corte-decidira-jueves-15-octubre-20261014-838674.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad03392e33d3.jpeg",
       "credit": "Imagen: El Economista"
     },
     {
@@ -154,64 +214,6 @@
       "d": "15 oct 2026",
       "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f98/live/aad9c400-c7f1-11f1-9bb8-8794f734d112.png",
       "credit": "Imagen: BBC Mundo"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "¿Por qué se desploman hoy las acciones de SK Hynix?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploman-hoy-las-acciones-de-sk-hynix-93CH-3874530",
-      "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "El director legal de Cue Biopharma vende 51.724 dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-legal-de-cue-biopharma-vende-51724-dolares-en-acciones-93CH-3874527",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Vicepresidente de Cue Biopharma vende 32.089 dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/vicepresidente-de-cue-biopharma-vende-32089-dolares-en-acciones-93CH-3874528",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "El director ejecutivo de Cue Biopharma, Lin Shao-Lee, vende 305.490 dólares en acciones",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-cue-biopharma-lin-shaolee-vende-305490-dolares-en-acciones-93CH-3874526",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "El oro rebota tras la caída impulsada por la inflación y las apuestas a subidas de tipos aumentan",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/commodities-news/el-oro-rebota-tras-la-caida-impulsada-por-la-inflacion-y-las-apuestas-a-subidas-de-tipos-aumentan-3874525",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEAAJ0FF_M.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "americas",
@@ -358,6 +360,18 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El secretario de Trabajo defendió el monotributo: “Hay personas que no quieren trabajar en relación de dependencia”",
+      "s": "Julio Cordero analizó el momento del mercado laboral y atribuyó parte de la caída del empleo formal a la decisión de los propios empleados. Qué dijo sobre los salarios",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/14/el-secretario-de-trabajo-defendio-el-monotributo-hay-personas-que-no-quieren-trabajar-en-relacion-de-dependencia/",
+      "d": "14 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/ZV4SMZTZHNGYFCBIFOQ5MVMNIA.jpg?auth=9e7eb158209774852961bba5d7640c5685a57d985f9dd1a8723f699ba3c55870&smart=true&width=1920&height=1280",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
       "r": "asia",
       "tag": "Asia y Medio Oriente",
       "art": "missile",
@@ -379,18 +393,6 @@
       "url": "https://news.un.org/feed/view/es/story/2026/10/1542059",
       "d": "14 oct 2026",
       "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-07-25-COLOMBIA-UNICEF5.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "Yemen: la ONU advierte de una \"catástrofe humanitaria\" mientras los combates bloquean la entrega de ayuda",
-      "s": "Los combates en Yemen han cortado la ayuda vital a 800.000 personas. \"Esto puede convertirse rápidamente en una catástrofe humanitaria”, advierte la agencia de la ONU encargada de la distribución de comida, que tiene a 37 de sus trabajadores entre los 72 miembros del personal de la ONU detenidos…",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542058",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-04.jpg/image560x340cropped.jpg",
       "credit": "Imagen: Noticias ONU"
     },
     {
