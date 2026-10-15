@@ -16,13 +16,13 @@ Este proyecto publica tu página gratis en **GitHub Pages** y la actualiza sola 
 ## Instalación (una sola vez, unos 15 minutos)
 
 1. **Crea una cuenta gratis** en [github.com](https://github.com).
-2. Pulsa **New repository** (el botón verde o el "+" arriba a la derecha). Ponle de nombre `mundo-al-dia`, márcalo como **Public** y pulsa **Create repository**.
+2. Pulsa **New repository** (el botón verde o el "+" arriba a la derecha). Ponle de nombre `clave-mundial`, márcalo como **Public** y pulsa **Create repository**.
 3. **Sube los archivos.** En la página del repositorio elige **uploading an existing file** y arrastra todo el contenido de esta carpeta (`index.html`, `noticias.json`, la carpeta `scripts` y la carpeta `.github`). Pulsa **Commit changes**.
    - Si tu computadora oculta la carpeta `.github` y no se sube, créala a mano: **Add file > Create new file**, escribe como nombre `.github/workflows/actualizar.yml`, pega el contenido del archivo del mismo nombre y pulsa **Commit changes**.
 4. Ve a **Settings > Pages**. En **Source** elige **GitHub Actions**.
 5. Ve a la pestaña **Actions**. Si aparece un aviso para habilitar los workflows, acéptalo. Elige **Actualizar noticias y publicar** y pulsa **Run workflow**.
 6. Espera 1 o 2 minutos. Cuando aparezca una marca verde, tu página estará en:
-   `https://TU-USUARIO.github.io/mundo-al-dia/`
+   `https://TU-USUARIO.github.io/clave-mundial/`
 
 Desde ahí se actualiza sola todos los días a las 6:00 a. m. (hora de Panamá).
 
