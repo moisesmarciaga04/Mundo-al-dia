@@ -1,0 +1,63 @@
+name: Rebuild Clave Mundial ZIP archives
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets.zip"
+      - "mundo-al-dia-proyecto.zip"
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Rebuild ZIP archives from current source
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile, ZIP_DEFLATED
+
+          root = Path(".").resolve()
+          excluded_dirs = {".git", ".github", ".vscode", "node_modules"}
+          excluded_files = {
+              "assets.zip",
+              "mundo-al-dia-proyecto.zip",
+          }
+
+          files = []
+          for p in root.rglob("*"):
+              if not p.is_file():
+                  continue
+              rel = p.relative_to(root)
+              if any(part in excluded_dirs for part in rel.parts):
+                  continue
+              if rel.name in excluded_files or ".DS_Store" in rel.parts:
+                  continue
+              files.append((p, rel))
+
+          for archive_name in ("assets.zip", "mundo-al-dia-proyecto.zip"):
+              with ZipFile(root / archive_name, "w", ZIP_DEFLATED) as z:
+                  for p, rel in sorted(files, key=lambda item: str(item[1])):
+                      z.write(p, Path("clave-mundial") / rel)
+              print(f"Generated {archive_name}: {(root / archive_name).stat().st_size} bytes")
+          PY
+
+      - name: Commit refreshed archives
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets.zip mundo-al-dia-proyecto.zip
+          if git diff --cached --quiet; then
+            echo "ZIP archives are already current."
+            exit 0
+          fi
+          git commit -m "Rebuild ZIP archives for Clave Mundial [skip ci]"
+          git push
