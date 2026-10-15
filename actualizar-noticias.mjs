@@ -22,13 +22,13 @@ const CONFIG = {
     { nombre: "Expansión",        url: "https://e00-expansion.uecdn.es/rss/portada.xml" },
     { nombre: "Infobae Economía", url: "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml" }
   ],
-  maxPorFeed: 30,
-  maxTotal: 78,
-  maxDias: 3,             // se prefieren notas de estos últimos días
+  maxPorFeed: 40,
+  maxTotal: 80,
+  maxDias: 5,             // se prefieren notas de estos últimos días
   maxDiasRespaldo: 14,    // si una sección no junta el mínimo, se buscan notas de hasta estos días atrás
-  minimoPorSeccion: 2,    // noticias mínimas que se intentan garantizar por sección
+  minimoPorSeccion: 3,    // noticias mínimas que se intentan garantizar por sección
   minimoParaGuardar: 6,
-  maxExtracto: 420,
+  maxExtracto: 500,
   usarImagenesDelFeed: true,
   archivo: "noticias.json",
   cuotas: { economia: 32, petroleo: 14, europa: 6, americas: 6, asia: 6, africa: 4, ciencia: 4, mundo: 6 }
