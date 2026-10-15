@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light">
-<title>Mundo al Día: información internacional</title>
+<title>Clave Mundial: política, economía y geopolítica</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
@@ -141,8 +141,8 @@ footer strong{color:var(--ink);font-weight:600}
 </div>
 
 <header class="wrap brandbar">
-  <a class="brand" href="#/">Mundo al Día</a>
-  <p class="tagline">Información internacional, verificada y en español</p>
+  <a class="brand" href="#/">Clave Mundial</a>
+  <p class="tagline">Política, economía y geopolítica explicadas con claridad</p>
 </header>
 
 <div class="wrap">
@@ -187,8 +187,8 @@ footer strong{color:var(--ink);font-weight:600}
   <section class="block" id="acerca-de">
     <div class="wrap two">
       <div>
-        <h2>Acerca de Mundo al Día</h2>
-        <p>Mundo al Día es un espacio informativo independiente que reúne y explica los acontecimientos más relevantes del mundo, organizados por región y por tema.</p>
+        <h2>Acerca de Clave Mundial</h2>
+        <p>Clave Mundial explica las decisiones políticas y económicas que transforman el mundo, con contexto, análisis accesible y fuentes identificables.</p>
       </div>
       <dl class="principles">
         <dt>Veracidad</dt><dd>Toda nota cita su fuente y su fecha de publicación.</dd>
@@ -220,7 +220,7 @@ footer strong{color:var(--ink);font-weight:600}
 
 <footer>
   <div class="wrap">
-    <strong>Mundo al Día</strong>. Información internacional en español. <span id="footMail"></span>
+    <strong>Clave Mundial</strong>. Información internacional en español. <span id="footMail"></span>
   </div>
 </footer>
 
@@ -350,10 +350,10 @@ var STORIES = [];
     if(s.img){
       var im = document.createElement("img");
       im.alt = "Imagen de la noticia: " + s.t; im.loading = "lazy"; im.src = s.img;
-      im.onerror = function(){ showArt(); cap.textContent = "Ilustración: Mundo al Día"; };
+      im.onerror = function(){ showArt(); cap.textContent = "Ilustración: Clave Mundial"; };
       box.appendChild(im);
     } else { showArt(); }
-    var cap = el("figcaption",null, s.img ? (s.credit || "Foto: crédito pendiente") : "Ilustración: Mundo al Día");
+    var cap = el("figcaption",null, s.img ? (s.credit || "Foto: crédito pendiente") : "Ilustración: Clave Mundial");
     fig.appendChild(box); fig.appendChild(cap);
     return fig;
   }
@@ -459,10 +459,10 @@ var STORIES = [];
     } else { p1.textContent = "Fuente: " + s.src + ", " + s.d + "."; }
     sb.appendChild(p1);
     sb.appendChild(el("p",null,(s.b && s.b.length)
-      ? "Este texto es un resumen redactado por Mundo al Día a partir de la fuente citada. Para ver el detalle completo, consulta el original."
-      : "Extracto publicado por la fuente. Mundo al Día no reproduce el texto completo: para leerlo, abre el enlace original."));
+      ? "Este texto es un resumen redactado por Clave Mundial a partir de la fuente citada. Para ver el detalle completo, consulta el original."
+      : "Extracto publicado por la fuente. Clave Mundial no reproduce el texto completo: para leerlo, abre el enlace original."));
     art.appendChild(sb);
-    document.title = s.t + " | Mundo al Día";
+    document.title = s.t + " | Clave Mundial";
 
     var others = STORIES.map(function(x,j){ return j; }).filter(function(j){ return j !== i; });
     var same = others.filter(function(j){ return STORIES[j].r === s.r; });
@@ -482,7 +482,7 @@ var STORIES = [];
       window.scrollTo(0,0);
     } else {
       view.hidden = true; home.hidden = false; fbox.hidden = false;
-      document.title = "Mundo al Día: información internacional";
+      document.title = "Clave Mundial: información internacional";
       var id = h.replace(/^#\/?/,"");
       var target = id ? document.getElementById(id) : null;
       if(target){ target.scrollIntoView(); } else { window.scrollTo(0,0); }
