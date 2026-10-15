@@ -126,7 +126,7 @@ export function leerRss(xml, nombreFuente) {
 
 async function descargar(feed) {
   const r = await fetch(feed.url, {
-    headers: { "User-Agent": "MundoAlDia/1.0 (lector RSS)", "Accept": "application/rss+xml, application/xml, text/xml" },
+    headers: { "User-Agent": "ClaveMundial/1.0 (lector RSS)", "Accept": "application/rss+xml, application/xml, text/xml" },
     signal: AbortSignal.timeout(20000)
   });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
