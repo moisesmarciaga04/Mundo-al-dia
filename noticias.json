@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-15T15:05:35.798Z",
+  "actualizado": "2026-10-15T15:19:20.474Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Aumentó la VTV en la provincia de Buenos Aires: cuánto hay que pagar a partir de hoy",
+      "s": "El Gobierno bonaerense autorizó una suba de 17,6% que alcanza a todas las categorías del servicio obligatorio. La medida rige desde este jueves 15 de octubre",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/aumento-la-vtv-en-la-provincia-de-buenos-aires-cuanto-hay-que-pagar-a-partir-de-hoy/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/NRC25SQ3NFAQHPTYVENIW654BU.jpg?auth=ff007c17721ada5b64b4675520db7f0c284afd20b4990827ab8c3d31a7d9d75a&smart=true&width=1920&height=1080",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Iberdrola instala más de 100 puntos de recarga de vehículos eléctricos al día",
+      "s": "Supera los 97.000 puntos de recarga instalados, de los que más de 85.000 se encuentran en hogares y empresas y más de 12.000 son de uso público. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/empresas/motor/2026/10/15/6ad0ead9468aeb8e5a8b4592.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920765291038_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
+      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
+      "d": "15 oct 2026",
+      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
+      "credit": "Imagen: Expansión"
+    },
     {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
@@ -90,30 +126,6 @@
       "d": "15 oct 2026",
       "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
       "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Las opciones de PG&E apuntan a un movimiento del 3,6% tras resultados",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/las-opciones-de-pge-apuntan-a-un-movimiento-del-36-tras-resultados-93CH-3876077",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Las imágenes del EXPANSIÓN Luxury Forum",
-      "s": "EXPANSIÓN Luxury Forum reúne en Madrid a líderes mundiales del sector para analizar los cambios estructurales que están transformando el mercado: desde la evolución del comportamiento del consumidor hasta las estrategias creativas y comerciales más vanguardistas. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920494297584_150x0.jpg",
-      "credit": "Imagen: Expansión"
     },
     {
       "r": "americas",
@@ -350,18 +362,6 @@
       "src": "Expansión",
       "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09b23e5fdea2a328b4588.html",
       "d": "15 oct 2026"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 15 de octubre",
-      "s": "El billete al público continúa ofrecido a $1.535 para la venta en el Banco Nación. El blue es ofrecido a $1.550. El BCRA compró ayer USD 101 millones en el mercado",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-15-de-octubre/",
-      "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/NZYGUQJ3UVAC5A3XWEL4A5FNSM.JPG?auth=605bc17984737cd9d2789c8a0fcfb71bf34491e309c24cffa78ab0c2c5ae1264&smart=true&width=3500&height=2250",
-      "credit": "Imagen: Infobae Economía"
     },
     {
       "r": "asia",
