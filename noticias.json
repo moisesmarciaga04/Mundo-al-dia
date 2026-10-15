@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-15T02:58:31.749Z",
+  "actualizado": "2026-10-15T03:03:46.197Z",
   "items": [
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Caña de azúcar en Campeche: el desafío de producir más con menos impacto ambiental",
+      "s": "Al final del día, la sostenibilidad es una condición indispensable para asegurar el futuro de la agroindustria cañera y garantizar el bienestar de las familias.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/opinion/cana-azucar-campeche-desafio-producir-impacto-ambiental-20261014-838683.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2014/09/12/66e46db4820cf.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "asia",
+      "tag": "Asia y Medio Oriente",
+      "art": "missile",
+      "t": "Corea del Norte realiza pruebas de lanzamiento de dos tipos de misiles de crucero desde submarinos",
+      "s": "El lanzamiento tuvo lugar tras semanas de creciente fricción en la península por la explosión de una mina terrestre a lo largo de la frontera entre Corea del Norte y Corea del Sur.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/corea-norte-realiza-pruebas-lanzamiento-dos-tipos-misiles-crucero-submarinos-20261014-838684.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/10/14/6ad03fa09ba44.r_d.4176-2919-0.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Bolsa de Londres recurre a NVIDIA",
+      "s": "El Grupo de la Bolsa de Valores de Londres (LSEG), anunció el miércoles que se ha asociado con la fabricante de chips de inteligencia artificial, NVIDIA, para ayudar a las instituciones financieras a procesar y analizar grandes volúmenes de datos históricos del mercado de forma más rápida y a gran…",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/bolsa-londres-recurre-nvidia-20261014-838682.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2020/12/29/66e871bcdf7e4.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El oro cayó por datos de inflación y apuestas por alza de tasas de interés",
+      "s": "El oro es una activo refugio que no paga intereses a los inversionistas y un alza de las tasas le quita atractivo ante los inversionistas.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/oro-cayo-datos-inflacion-apuestas-alza-tasas-interes-20261014-838680.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad03e152a23a.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "americas",
+      "tag": "Américas",
+      "art": "polar",
+      "t": "Congreso de Brasil aprueba reducción de semana laboral, promesa de Lula antes del balotaje",
+      "s": "El senador Flávio Bolsonaro, que había calificado inicialmente la propuesta de \"oportunista\", terminó votando a favor de la propuesta del presidente brasileño.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/internacionales/congreso-brasil-aprueba-reduccion-semana-laboral-promesa-lula-balotaje-20261014-838681.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad03f7d0b36c.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Morgan Stanley superó expectativas y subió 6.56% su utilidad neta",
+      "s": "El banco estadounidense de inversión Morgan Stanley reportó ingresos de 20,338 millones de dólares en el tercer trimestre del año, lo que se ubicó 11.6% por arriba de los 18,224 millones del mismo lapso del año previo.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/morgan-stanley-supero-expectativas-subio-6-56-utilidad-neta-20261014-838678.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/19/66ec1e47643f2.jpeg",
+      "credit": "Imagen: El Economista"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Tormenta tropical Rachel: Sube a 8 la cifra de muertos en Baja California",
+      "s": "El ejército y la marina continúan las labores de búsqueda y rescate. Otras dos personas permanecen desaparecidas, reportó el gobierno.",
+      "src": "El Economista",
+      "url": "https://www.eleconomista.com.mx/politica/tormenta-tropical-rachel-sube-8-cifra-muertos-baja-california-20261014-838677.html",
+      "d": "15 oct 2026",
+      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad0394927b1f.jpeg",
+      "credit": "Imagen: El Economista"
+    },
     {
       "r": "economia",
       "tag": "Economía y Bolsa",
@@ -80,30 +164,6 @@
       "src": "Investing.com",
       "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploman-hoy-las-acciones-de-sk-hynix-93CH-3874530",
       "d": "15 oct 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "¿Por qué cae hoy con fuerza la acción de SoftBank Group?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-con-fuerza-la-accion-de-softbank-group-93CH-3874531",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "¿Por qué se desploma hoy la acción de Samsung Electronics?",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-samsung-electronics-93CH-3874529",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -214,18 +274,6 @@
       "credit": "Imagen: El Economista"
     },
     {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Publican decreto para regular redes sociales: Los 7 tipos de contenido prohibidos para menores",
-      "s": "Las plataformas digitales deberán restringir el acceso de niñas, niños y adolescentes a contenidos violentos, sexuales y que promuevan conductas de riesgo. Las empresas tendrán 30 días para informar las medidas implementadas.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/publican-decreto-regular-redes-sociales-7-tipos-contenido-prohibidos-menores-20261014-838660.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/14/6ad023d1b4aee.webp",
-      "credit": "Imagen: El Economista"
-    },
-    {
       "r": "ciencia",
       "tag": "Ciencia y Tecnología",
       "art": "fusion",
@@ -235,30 +283,6 @@
       "url": "https://www.expansion.com/tecnologia/2026/10/15/batalla-ia-juega-margen-openai.html",
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920257714124_150x0.png",
-      "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "ONG piden aumentar presupuesto para pesca; se destinarán 2,960 millones de pesos en 2027",
-      "s": "Con base en las cifras presentadas por las organizaciones, la Conapesca tendría una asignación de 2,483 millones de pesos para 2027, menos de la mitad de los recursos que recibió en 2018, año a partir del cual comenzó a registrar recortes presupuestales.",
-      "src": "El Economista",
-      "url": "https://www.eleconomista.com.mx/politica/ong-piden-aumentar-presupuesto-pesca-destinaran-2-960-millones-pesos-20261014-838658.html",
-      "d": "15 oct 2026",
-      "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/02/25/66e96ffb53924.jpeg",
-      "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "americas",
-      "tag": "Américas",
-      "art": "polar",
-      "t": "Iberdrola no logra reactivar una demanda por fraude contra Oaktree en EEUU",
-      "s": "Un tribunal de Nueva York zanja una disputa derivada de la construcción de una central de ciclo combinado en Salem Harbor (Massachusetts). El contrato, valorado en 630 millones de euros, fue rescindido por la sociedad promotora cuando la planta ya estaba ejecutada al 98% y desató un litigio de más…",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/10/15/6acfc5cc468aebe76f8b458d.html",
-      "d": "15 oct 2026",
-      "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17920008894489_150x0.jpg",
       "credit": "Imagen: Expansión"
     },
     {
@@ -334,18 +358,6 @@
       "credit": "Imagen: Infobae Economía"
     },
     {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "El secretario de Trabajo defendió el monotributo: “Hay personas que no quieren trabajar en relación de dependencia”",
-      "s": "Julio Cordero analizó el momento del mercado laboral y atribuyó parte de la caída del empleo formal a la decisión de los propios empleados. Qué dijo sobre los salarios",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/14/el-secretario-de-trabajo-defendio-el-monotributo-hay-personas-que-no-quieren-trabajar-en-relacion-de-dependencia/",
-      "d": "14 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/ZV4SMZTZHNGYFCBIFOQ5MVMNIA.jpg?auth=9e7eb158209774852961bba5d7640c5685a57d985f9dd1a8723f699ba3c55870&smart=true&width=1920&height=1280",
-      "credit": "Imagen: Infobae Economía"
-    },
-    {
       "r": "asia",
       "tag": "Asia y Medio Oriente",
       "art": "missile",
@@ -379,18 +391,6 @@
       "url": "https://news.un.org/feed/view/es/story/2026/10/1542058",
       "d": "14 oct 2026",
       "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-04.jpg/image560x340cropped.jpg",
-      "credit": "Imagen: Noticias ONU"
-    },
-    {
-      "r": "asia",
-      "tag": "Asia y Medio Oriente",
-      "art": "missile",
-      "t": "De Gaza a Sevilla: la maleta con los papeles de Suha",
-      "s": "Una refugiada palestina de Gaza estudió y trabajó con ayuda de la UNRWA. Hoy teme que la agencia de la ONU desaparezca y con ella los documentos que prueban de dónde viene. Es la protagonista del primer episodio de Sin la ONU, un nuevo podcast narrativo.",
-      "src": "Noticias ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542047",
-      "d": "14 oct 2026",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/Suha%20Alnajjar.jpg/image560x340cropped.jpg",
       "credit": "Imagen: Noticias ONU"
     },
     {
