@@ -1,6 +1,52 @@
 {
-  "actualizado": "2026-10-15T15:38:13.046Z",
+  "actualizado": "2026-10-15T15:47:17.849Z",
   "items": [
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "Mercados: caen las acciones argentinas y el riesgo país vuelve a subir",
+      "s": "Los títulos públicos pierden 0,7% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,9%, mientras que los índices de Wall Street negocian dispares",
+      "src": "Infobae Economía",
+      "url": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
+      "d": "15 oct 2026",
+      "img": "https://www.infobae.com/resizer/v2/7VENHQDGGRCHNCD7D4WSISCPWQ.JPG?auth=0c56df49d49a6f6a2b172be2e57764b61b340bbeae4e255b6374e586d9e52e9e&smart=true&width=5664&height=3776",
+      "credit": "Imagen: Infobae Economía"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Xpeng integrará Google Play en sus vehículos a principios de 2027",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/company-news/xpeng-integrara-google-play-en-sus-vehiculos-a-principios-de-2027-93CH-3876122",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
+      "r": "economia",
+      "tag": "Economía y Bolsa",
+      "art": "rates",
+      "t": "El Ibex pierde los 19.200 puntos en una jornada marcada por las tecnológicas",
+      "s": "Una nueva oleada de ventas sacude a las tecnológicas. El revés se agrava en Asia, y se modera en Europa debido a su menor exposición a las temáticas de la IA. La mayor tención en los mercados atenaza al Ibex. Leer",
+      "src": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/15/6ad06b43e5fdea926a8b459b.html",
+      "d": "15 oct 2026"
+    },
+    {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "William Blair rebaja la calificación de Clarivate tras acuerdo de privatización",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/analyst-ratings/william-blair-rebaja-la-calificacion-de-clarivate-tras-acuerdo-de-privatizacion-93CH-3876121",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+      "credit": "Imagen: Investing.com"
+    },
     {
       "r": "mundo",
       "tag": "Mundo",
@@ -14,6 +60,18 @@
       "credit": "Imagen: Expansión"
     },
     {
+      "r": "mundo",
+      "tag": "Mundo",
+      "art": "polar",
+      "t": "Koryx Copper avanza hacia la prefactibilidad con aumento de producción",
+      "s": "Consulta la noticia completa en Investing.com.",
+      "src": "Investing.com",
+      "url": "https://es.investing.com/news/transcripts/koryx-copper-avanza-hacia-la-prefactibilidad-con-aumento-de-produccion-93CH-3876118",
+      "d": "15 oct 2026",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "credit": "Imagen: Investing.com"
+    },
+    {
       "r": "economia",
       "tag": "Economía y Bolsa",
       "art": "rates",
@@ -22,30 +80,6 @@
       "src": "Expansión",
       "url": "https://www.expansion.com/mercados/renta-fija/2026/10/15/6ad0f0a9e5fdea480a8b45a5.html",
       "d": "15 oct 2026"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "La cancelación de la prima de emisión de Software Circle crea reservas de 25,6 millones de libras",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/la-cancelacion-de-la-prima-de-emision-de-software-circle-crea-reservas-de-256-millones-de-libras-93CH-3876113",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Fitch mejora perspectiva de Equinix a positiva por disciplina financiera",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/stock-market-news/fitch-mejora-perspectiva-de-equinix-a-positiva-por-disciplina-financiera-3876112",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "americas",
@@ -82,18 +116,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920772117348_150x0.jpg",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "mundo",
-      "tag": "Mundo",
-      "art": "polar",
-      "t": "Caspian Sunrise completa la adquisición de Tau-Cen por 700.000 dólares",
-      "s": "Consulta la noticia completa en Investing.com.",
-      "src": "Investing.com",
-      "url": "https://es.investing.com/news/company-news/caspian-sunrise-completa-la-adquisicion-de-taucen-por-700000-dolares-93CH-3876107",
-      "d": "15 oct 2026",
-      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "credit": "Imagen: Investing.com"
     },
     {
       "r": "economia",
@@ -193,23 +215,13 @@
       "r": "americas",
       "tag": "Américas",
       "art": "polar",
-      "t": "Sheinbaum asegura que compra de AT&T por Televisa y Fintech va a ayudar a la competencia en México",
+      "t": "Sheinbaum ve positiva la compra de AT&T por Televisa y Fintech; \"ayudará a la competencia en México\"",
       "s": "La presidenta Claudia Sheinbaum dijo este jueves que la compra de la unidad mexicana de AT&T por parte de Televisa y Fintech Holdings, anunciada esta semana, va a ayudar a la competencia y a mejorar los servicios de internet en el país.",
       "src": "El Economista",
       "url": "https://www.eleconomista.com.mx/empresas/sheinbaum-asegura-compra-at-t-televisa-fintech-ayudar-competencia-mexico-20261015-838771.html",
       "d": "15 oct 2026",
       "img": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/15/6ad0e787dc1e3.png",
       "credit": "Imagen: El Economista"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "El Ibex gira a la baja, arrastrado por Wall Street",
-      "s": "Una nueva oleada de ventas sacude a las tecnológicas. El revés se agrava en Asia, y se modera en Europa debido a su menor exposición a las temáticas de la IA. La mayor tención en los mercados atenaza al Ibex. Leer",
-      "src": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/15/6ad06b43e5fdea926a8b459b.html",
-      "d": "15 oct 2026"
     },
     {
       "r": "europa",
@@ -246,18 +258,6 @@
       "d": "15 oct 2026",
       "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920749419481_150x0.png",
       "credit": "Imagen: Expansión"
-    },
-    {
-      "r": "economia",
-      "tag": "Economía y Bolsa",
-      "art": "rates",
-      "t": "Mercados: caen las acciones argentinas y el riesgo país sube a 640 puntos básicos",
-      "s": "Los títulos públicos pierden 0,7% en promedio y empuja al alza del indicador de JP Morgan. El S&P Merval cede 0,9%, mientras que los índices de Wall Street negocian dispares",
-      "src": "Infobae Economía",
-      "url": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
-      "d": "15 oct 2026",
-      "img": "https://www.infobae.com/resizer/v2/7VENHQDGGRCHNCD7D4WSISCPWQ.JPG?auth=0c56df49d49a6f6a2b172be2e57764b61b340bbeae4e255b6374e586d9e52e9e&smart=true&width=5664&height=3776",
-      "credit": "Imagen: Infobae Economía"
     },
     {
       "r": "petroleo",
